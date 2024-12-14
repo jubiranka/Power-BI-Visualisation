@@ -1,0 +1,1201 @@
+Date,Location,Store_ID,Product_Category,Product_ID,Product_Name,Units_Sold,Unit_Price,Discount_Offered (%),Payment_Method,Customer_Age_Group,Customer_Gender,Sales_Representative_ID,Customer_Rating
+15-01-2023,Bangalore,CROMA-9532,Home Appliances,P-45928,Home Appliances 3,3,25532.21,15,EMI,36-45,Non-Binary,SR-344,3.7
+05-01-2023,Delhi,CROMA-8602,Home Appliances,P-55211,Home Appliances 15,3,20259.49,5,UPI,36-45,Female,SR-183,4.1
+11-01-2023,Pune,CROMA-8449,Cameras,P-88037,Cameras 4,8,25917.23,15,Cash,18-25,Female,SR-651,3.2
+18-01-2023,Delhi,CROMA-5694,Laptops,P-46141,Laptops 8,1,22865.15,5,Cash,18-25,Female,SR-538,3.3
+18-01-2023,Pune,CROMA-7193,Televisions,P-66780,Televisions 20,9,13537.09,15,UPI,36-45,Non-Binary,SR-953,3.7
+23-01-2023,Chennai,CROMA-5644,Laptops,P-46267,Laptops 2,8,43044.92,15,Debit Card,46-60,Male,SR-673,3.4
+25-01-2023,Mumbai,CROMA-3018,Home Appliances,P-83641,Home Appliances 17,5,30847.29,0,Cash,36-45,Female,SR-137,4.8
+08-01-2023,Pune,CROMA-2242,Home Appliances,P-77269,Home Appliances 9,4,16087.22,0,Cash,18-25,Female,SR-910,4.1
+01-01-2023,Bangalore,CROMA-5984,Televisions,P-30721,Televisions 15,5,43236.42,10,Debit Card,26-35,Male,SR-410,4.9
+06-01-2023,Bangalore,CROMA-6923,Cameras,P-24360,Cameras 11,7,44945.49,5,UPI,36-45,Female,SR-569,4.7
+24-01-2023,Ahmedabad,CROMA-2717,Laptops,P-53859,Laptops 12,8,31446.18,10,Credit Card,46-60,Female,SR-269,4.6
+18-01-2023,Bangalore,CROMA-5790,Mobile Phones,P-28607,Mobile Phones 8,2,32946.52,10,Debit Card,18-25,Non-Binary,SR-109,5
+26-01-2023,Hyderabad,CROMA-9109,Home Appliances,P-46972,Home Appliances 19,10,38654.13,15,Debit Card,18-25,Male,SR-342,3.6
+20-01-2023,Chennai,CROMA-9743,Cameras,P-52243,Cameras 20,9,20153.27,0,Credit Card,26-35,Female,SR-400,4.6
+20-01-2023,Kolkata,CROMA-3878,Mobile Phones,P-40476,Mobile Phones 13,10,27998.14,10,UPI,18-25,Male,SR-592,3
+10-01-2023,Delhi,CROMA-9201,Home Appliances,P-54512,Home Appliances 20,6,32186.02,5,UPI,46-60,Female,SR-722,3.6
+09-01-2023,Pune,CROMA-2023,Cameras,P-48471,Cameras 4,8,35641.43,0,UPI,18-25,Male,SR-792,4.7
+02-01-2023,Mumbai,CROMA-3078,Televisions,P-28437,Televisions 2,4,6824.87,5,Debit Card,26-35,Male,SR-672,3.2
+02-01-2023,Pune,CROMA-9510,Home Appliances,P-49343,Home Appliances 17,6,31752.12,15,Credit Card,46-60,Non-Binary,SR-872,4.3
+06-01-2023,Delhi,CROMA-4498,Mobile Phones,P-14818,Mobile Phones 2,5,41989.64,15,Cash,36-45,Male,SR-969,3.2
+20-01-2023,Ahmedabad,CROMA-9931,Home Appliances,P-86706,Home Appliances 16,8,37919.27,0,Debit Card,18-25,Non-Binary,SR-844,4.8
+26-01-2023,Pune,CROMA-2497,Televisions,P-90025,Televisions 2,9,20619.4,15,EMI,18-25,Female,SR-157,4.1
+13-01-2023,Kolkata,CROMA-3235,Televisions,P-91312,Televisions 6,2,46251.77,10,Cash,26-35,Non-Binary,SR-971,4.7
+20-01-2023,Ahmedabad,CROMA-8654,Cameras,P-39791,Cameras 10,7,41414.26,5,EMI,18-25,Non-Binary,SR-435,4.7
+27-01-2023,Chennai,CROMA-1169,Home Appliances,P-15529,Home Appliances 11,3,30254.42,5,Cash,18-25,Non-Binary,SR-732,4.7
+01-01-2023,Ahmedabad,CROMA-9577,Cameras,P-31577,Cameras 10,1,34325.92,5,Cash,18-25,Male,SR-255,4.9
+23-01-2023,Bangalore,CROMA-5744,Laptops,P-68570,Laptops 1,3,20007.09,10,EMI,18-25,Non-Binary,SR-886,3
+06-01-2023,Bangalore,CROMA-1685,Televisions,P-59943,Televisions 9,4,41741.8,0,Credit Card,46-60,Male,SR-945,4.5
+24-01-2023,Delhi,CROMA-8726,Mobile Phones,P-76793,Mobile Phones 16,6,46774.2,10,Cash,46-60,Non-Binary,SR-846,4.2
+09-01-2023,Mumbai,CROMA-1747,Televisions,P-23423,Televisions 8,10,23888.06,0,UPI,18-25,Female,SR-936,3.4
+14-01-2023,Hyderabad,CROMA-3049,Mobile Phones,P-69635,Mobile Phones 17,9,14425.83,5,Cash,46-60,Non-Binary,SR-807,3.5
+09-01-2023,Kolkata,CROMA-8479,Laptops,P-50978,Laptops 19,10,11376.04,10,Debit Card,26-35,Male,SR-322,4
+14-01-2023,Pune,CROMA-2695,Cameras,P-27899,Cameras 18,6,24066.63,15,Debit Card,36-45,Male,SR-512,4.2
+19-01-2023,Ahmedabad,CROMA-4054,Mobile Phones,P-95636,Mobile Phones 5,10,32404.55,10,Credit Card,18-25,Female,SR-505,4.2
+10-01-2023,Pune,CROMA-7994,Cameras,P-73486,Cameras 14,5,33459.06,15,UPI,46-60,Non-Binary,SR-243,4.9
+17-01-2023,Bangalore,CROMA-9415,Laptops,P-77455,Laptops 14,4,24866,10,Credit Card,26-35,Female,SR-354,3
+02-01-2023,Chennai,CROMA-8621,Televisions,P-33225,Televisions 15,7,39963.91,0,Credit Card,46-60,Female,SR-221,4.2
+17-01-2023,Ahmedabad,CROMA-1314,Televisions,P-97512,Televisions 17,4,10831.58,5,UPI,18-25,Non-Binary,SR-261,4.7
+04-01-2023,Pune,CROMA-7840,Cameras,P-67365,Cameras 17,1,45439.11,10,UPI,36-45,Non-Binary,SR-299,3.3
+12-01-2023,Bangalore,CROMA-9613,Laptops,P-96858,Laptops 15,9,6027.92,10,EMI,46-60,Non-Binary,SR-404,4.5
+12-01-2023,Delhi,CROMA-3201,Televisions,P-35731,Televisions 18,3,35502.99,0,EMI,18-25,Male,SR-450,3.4
+08-01-2023,Ahmedabad,CROMA-9922,Home Appliances,P-17404,Home Appliances 7,7,26404.65,5,Debit Card,36-45,Male,SR-491,4.3
+16-01-2023,Chennai,CROMA-7193,Televisions,P-53431,Televisions 17,5,48425.87,15,Credit Card,18-25,Female,SR-555,4.5
+07-01-2023,Bangalore,CROMA-1493,Mobile Phones,P-82146,Mobile Phones 6,9,21480.45,15,EMI,36-45,Male,SR-278,3.4
+25-01-2023,Ahmedabad,CROMA-6646,Home Appliances,P-43362,Home Appliances 4,7,21911.29,10,Debit Card,26-35,Non-Binary,SR-609,3.8
+02-01-2023,Chennai,CROMA-8737,Mobile Phones,P-15793,Mobile Phones 2,7,20446.36,15,Cash,36-45,Non-Binary,SR-159,3.2
+14-01-2023,Kolkata,CROMA-3169,Home Appliances,P-21509,Home Appliances 1,8,14544.38,5,Credit Card,46-60,Non-Binary,SR-327,3.2
+24-01-2023,Kolkata,CROMA-3983,Laptops,P-75445,Laptops 9,4,8832.97,0,Debit Card,46-60,Non-Binary,SR-222,4.1
+26-01-2023,Pune,CROMA-3928,Cameras,P-37655,Cameras 13,7,47698.25,0,EMI,26-35,Female,SR-958,3.7
+03-01-2023,Delhi,CROMA-6398,Home Appliances,P-36593,Home Appliances 7,4,42719.42,15,EMI,46-60,Non-Binary,SR-427,3.8
+12-01-2023,Bangalore,CROMA-6114,Cameras,P-67703,Cameras 6,4,10345.98,15,Cash,18-25,Male,SR-717,3.4
+13-01-2023,Bangalore,CROMA-1016,Laptops,P-47212,Laptops 12,3,34953.79,15,Credit Card,18-25,Male,SR-250,4.9
+19-01-2023,Kolkata,CROMA-2245,Laptops,P-11912,Laptops 19,3,26358.01,5,Debit Card,46-60,Male,SR-237,4.1
+01-01-2023,Kolkata,CROMA-3854,Mobile Phones,P-17559,Mobile Phones 5,9,17410.71,15,UPI,36-45,Male,SR-883,3.8
+03-01-2023,Delhi,CROMA-8910,Televisions,P-10686,Televisions 18,10,12607.02,5,EMI,26-35,Female,SR-146,3.3
+15-01-2023,Kolkata,CROMA-3398,Laptops,P-74961,Laptops 15,7,7140.68,0,EMI,46-60,Non-Binary,SR-665,4.2
+21-01-2023,Chennai,CROMA-7049,Laptops,P-20246,Laptops 3,2,39233.93,0,Debit Card,36-45,Female,SR-207,4.9
+20-01-2023,Mumbai,CROMA-6092,Cameras,P-50803,Cameras 9,1,7501.95,0,Debit Card,46-60,Male,SR-924,4.6
+20-01-2023,Chennai,CROMA-8725,Cameras,P-40250,Cameras 13,10,17390.38,0,Credit Card,46-60,Female,SR-296,3.1
+20-01-2023,Bangalore,CROMA-4516,Televisions,P-97735,Televisions 12,8,41873.34,0,Cash,36-45,Female,SR-319,3.4
+09-01-2023,Kolkata,CROMA-8872,Home Appliances,P-43940,Home Appliances 4,1,42007.11,0,EMI,18-25,Female,SR-561,4.7
+13-01-2023,Kolkata,CROMA-6924,Cameras,P-18065,Cameras 3,3,15566.52,0,EMI,18-25,Male,SR-475,3.3
+09-01-2023,Bangalore,CROMA-3305,Laptops,P-29500,Laptops 12,6,11303.1,0,EMI,18-25,Non-Binary,SR-476,3.3
+12-01-2023,Hyderabad,CROMA-4796,Cameras,P-52876,Cameras 20,10,47026.67,0,Debit Card,46-60,Male,SR-901,4
+12-01-2023,Kolkata,CROMA-7506,Home Appliances,P-66160,Home Appliances 18,3,38854.56,0,Cash,36-45,Male,SR-454,3.9
+21-01-2023,Bangalore,CROMA-2696,Laptops,P-64675,Laptops 19,7,5305.06,10,EMI,36-45,Non-Binary,SR-939,4.1
+02-01-2023,Bangalore,CROMA-6550,Laptops,P-91718,Laptops 18,1,38978.91,0,Cash,26-35,Male,SR-323,4.8
+01-01-2023,Chennai,CROMA-5239,Home Appliances,P-78335,Home Appliances 20,10,18688.96,0,UPI,46-60,Female,SR-740,4.3
+02-01-2023,Ahmedabad,CROMA-2609,Televisions,P-91860,Televisions 15,1,17571.77,0,Credit Card,36-45,Non-Binary,SR-908,3.7
+23-01-2023,Hyderabad,CROMA-8314,Televisions,P-62373,Televisions 17,10,39171,15,EMI,36-45,Non-Binary,SR-715,4.3
+26-01-2023,Chennai,CROMA-6901,Televisions,P-30186,Televisions 1,10,20625.53,15,UPI,26-35,Non-Binary,SR-200,4.5
+20-01-2023,Hyderabad,CROMA-4979,Home Appliances,P-73620,Home Appliances 11,7,6350.12,0,Credit Card,46-60,Female,SR-802,4.6
+06-01-2023,Kolkata,CROMA-8144,Home Appliances,P-82727,Home Appliances 20,7,40556.23,10,EMI,18-25,Female,SR-542,4.5
+25-01-2023,Mumbai,CROMA-8030,Laptops,P-96093,Laptops 4,1,17013.79,15,UPI,18-25,Male,SR-369,3.4
+08-01-2023,Kolkata,CROMA-5356,Laptops,P-30311,Laptops 8,9,43786.11,10,UPI,36-45,Non-Binary,SR-767,3.5
+09-01-2023,Ahmedabad,CROMA-6295,Laptops,P-50907,Laptops 18,10,28996.51,10,EMI,18-25,Non-Binary,SR-732,4.5
+15-01-2023,Chennai,CROMA-5166,Mobile Phones,P-45967,Mobile Phones 5,1,35908.94,0,UPI,46-60,Female,SR-697,3
+04-01-2023,Chennai,CROMA-1654,Laptops,P-99884,Laptops 6,4,33881.48,10,Debit Card,26-35,Non-Binary,SR-612,3.2
+21-01-2023,Ahmedabad,CROMA-7121,Cameras,P-16317,Cameras 5,5,26147.35,5,UPI,26-35,Male,SR-843,5
+07-01-2023,Kolkata,CROMA-7956,Mobile Phones,P-87802,Mobile Phones 16,5,29839.73,15,Credit Card,36-45,Female,SR-275,4
+05-01-2023,Pune,CROMA-5272,Home Appliances,P-68363,Home Appliances 10,3,16811.04,0,EMI,36-45,Female,SR-961,4.2
+21-01-2023,Bangalore,CROMA-5493,Cameras,P-69623,Cameras 5,3,9095.69,10,Debit Card,18-25,Non-Binary,SR-201,3.2
+18-01-2023,Bangalore,CROMA-8613,Mobile Phones,P-32109,Mobile Phones 3,3,47283.62,5,Credit Card,26-35,Male,SR-434,3.2
+08-01-2023,Pune,CROMA-8026,Laptops,P-72677,Laptops 3,1,22221.19,15,Debit Card,46-60,Non-Binary,SR-340,4.9
+19-01-2023,Delhi,CROMA-4685,Laptops,P-34321,Laptops 9,2,36003.97,10,Cash,36-45,Male,SR-954,4.5
+18-01-2023,Hyderabad,CROMA-1047,Cameras,P-60017,Cameras 7,6,45940.33,5,UPI,26-35,Female,SR-274,4.3
+26-01-2023,Hyderabad,CROMA-2248,Mobile Phones,P-59427,Mobile Phones 10,5,33217.3,5,Credit Card,36-45,Non-Binary,SR-275,3.7
+28-01-2023,Chennai,CROMA-2986,Mobile Phones,P-55426,Mobile Phones 9,10,44470.15,5,EMI,26-35,Male,SR-193,3.3
+28-01-2023,Bangalore,CROMA-3241,Laptops,P-61902,Laptops 1,7,29860.79,10,UPI,26-35,Female,SR-276,3.2
+28-01-2023,Hyderabad,CROMA-2046,Home Appliances,P-77337,Home Appliances 10,5,9979.27,5,Credit Card,18-25,Female,SR-660,3.8
+12-01-2023,Pune,CROMA-6005,Cameras,P-35906,Cameras 8,5,24272.88,15,Debit Card,36-45,Female,SR-522,4
+02-01-2023,Pune,CROMA-2820,Cameras,P-53387,Cameras 1,7,17569.78,15,UPI,46-60,Female,SR-356,3
+17-01-2023,Chennai,CROMA-7127,Televisions,P-59032,Televisions 2,1,35713.29,15,UPI,36-45,Female,SR-264,3.4
+08-01-2023,Bangalore,CROMA-3462,Cameras,P-19329,Cameras 5,1,35446.75,15,Cash,36-45,Non-Binary,SR-924,4.7
+05-01-2023,Hyderabad,CROMA-8034,Cameras,P-44396,Cameras 17,3,17873.31,10,Credit Card,18-25,Non-Binary,SR-505,4.9
+02-01-2023,Chennai,CROMA-2212,Home Appliances,P-92273,Home Appliances 10,1,29787.06,0,UPI,36-45,Non-Binary,SR-338,3.6
+22-01-2023,Hyderabad,CROMA-7309,Home Appliances,P-98574,Home Appliances 17,2,49755.43,0,Cash,26-35,Non-Binary,SR-745,4.9
+24-01-2023,Ahmedabad,CROMA-8349,Mobile Phones,P-75028,Mobile Phones 15,7,13503.85,5,UPI,18-25,Male,SR-495,4.3
+27-01-2023,Pune,CROMA-7277,Home Appliances,P-46056,Home Appliances 17,1,16870.68,10,Credit Card,18-25,Female,SR-569,4.9
+15-01-2023,Mumbai,CROMA-2699,Home Appliances,P-91379,Home Appliances 3,6,48907.78,0,EMI,18-25,Male,SR-950,3.5
+17-02-2023,Mumbai,CROMA-5750,Home Appliances,P-22685,Home Appliances 6,2,23589.53,15,UPI,18-25,Male,SR-418,4.7
+02-02-2023,Mumbai,CROMA-9545,Mobile Phones,P-18632,Mobile Phones 16,3,13923.39,5,Credit Card,46-60,Male,SR-372,3.3
+22-02-2023,Bangalore,CROMA-5185,Televisions,P-26257,Televisions 10,4,36092.21,5,UPI,36-45,Non-Binary,SR-212,3.8
+06-02-2023,Hyderabad,CROMA-3435,Home Appliances,P-80192,Home Appliances 19,8,15711.34,0,Debit Card,26-35,Non-Binary,SR-343,4.8
+22-02-2023,Chennai,CROMA-1007,Laptops,P-65763,Laptops 20,2,24382.83,0,EMI,36-45,Male,SR-283,4
+28-02-2023,Hyderabad,CROMA-7116,Mobile Phones,P-49231,Mobile Phones 10,2,24761.84,0,EMI,18-25,Non-Binary,SR-587,3.2
+11-02-2023,Kolkata,CROMA-2710,Cameras,P-85416,Cameras 14,10,34218.15,10,Credit Card,26-35,Male,SR-508,4.3
+23-02-2023,Mumbai,CROMA-3400,Mobile Phones,P-50597,Mobile Phones 8,7,8650.61,5,Cash,18-25,Male,SR-206,3.3
+12-02-2023,Kolkata,CROMA-6992,Home Appliances,P-81996,Home Appliances 10,3,26538.01,15,EMI,18-25,Non-Binary,SR-875,4.1
+21-02-2023,Mumbai,CROMA-6965,Laptops,P-95091,Laptops 1,6,27369.69,15,UPI,26-35,Female,SR-703,4.5
+06-02-2023,Mumbai,CROMA-6764,Televisions,P-53883,Televisions 4,5,46163.54,0,EMI,46-60,Non-Binary,SR-873,3.2
+25-02-2023,Delhi,CROMA-2838,Cameras,P-33532,Cameras 14,3,32004.36,0,Debit Card,26-35,Male,SR-919,4.6
+03-02-2023,Ahmedabad,CROMA-1873,Cameras,P-15035,Cameras 11,3,46679.13,10,Cash,46-60,Female,SR-243,4.6
+01-02-2023,Bangalore,CROMA-5378,Cameras,P-61419,Cameras 11,9,36671.93,0,Debit Card,18-25,Male,SR-285,4.3
+22-02-2023,Pune,CROMA-8084,Mobile Phones,P-10753,Mobile Phones 16,2,25728.99,15,UPI,18-25,Female,SR-843,5
+22-02-2023,Ahmedabad,CROMA-6722,Televisions,P-54565,Televisions 10,7,28786.3,0,UPI,46-60,Male,SR-196,4.5
+16-02-2023,Ahmedabad,CROMA-4933,Cameras,P-97982,Cameras 1,3,26269.26,10,Debit Card,46-60,Female,SR-975,4.5
+05-02-2023,Hyderabad,CROMA-3743,Laptops,P-48682,Laptops 19,5,48750.07,5,Cash,18-25,Female,SR-714,3.7
+12-02-2023,Delhi,CROMA-7840,Home Appliances,P-92899,Home Appliances 3,9,9190.86,15,Credit Card,18-25,Non-Binary,SR-160,3.7
+02-02-2023,Delhi,CROMA-1753,Home Appliances,P-78294,Home Appliances 8,5,30564.26,5,Credit Card,18-25,Female,SR-768,4.2
+11-02-2023,Mumbai,CROMA-3314,Televisions,P-66262,Televisions 10,7,28762.75,10,Debit Card,36-45,Female,SR-811,4.8
+17-02-2023,Kolkata,CROMA-7989,Laptops,P-51645,Laptops 20,9,42449.18,15,EMI,26-35,Female,SR-186,4.5
+03-02-2023,Delhi,CROMA-9372,Laptops,P-84605,Laptops 13,10,19886.75,15,EMI,26-35,Non-Binary,SR-227,3.1
+18-02-2023,Kolkata,CROMA-5019,Laptops,P-42968,Laptops 18,7,18002.47,15,Credit Card,36-45,Female,SR-360,3.6
+24-02-2023,Chennai,CROMA-2815,Mobile Phones,P-27914,Mobile Phones 18,3,8447.89,0,Credit Card,26-35,Non-Binary,SR-515,3.3
+14-02-2023,Bangalore,CROMA-7684,Televisions,P-32048,Televisions 1,5,19491.97,10,EMI,18-25,Male,SR-194,4.4
+27-02-2023,Pune,CROMA-5282,Cameras,P-31283,Cameras 20,5,22241.36,0,Credit Card,36-45,Male,SR-233,3.8
+04-02-2023,Kolkata,CROMA-2517,Laptops,P-95867,Laptops 1,10,15392.93,10,Cash,18-25,Female,SR-443,4.4
+03-02-2023,Pune,CROMA-4302,Cameras,P-20607,Cameras 19,6,25742.78,10,Credit Card,18-25,Female,SR-669,3.8
+03-02-2023,Bangalore,CROMA-2993,Televisions,P-53131,Televisions 14,5,15673.97,0,Credit Card,46-60,Female,SR-517,3.4
+05-02-2023,Bangalore,CROMA-9925,Cameras,P-97203,Cameras 14,2,34564.68,5,Cash,18-25,Non-Binary,SR-718,4.1
+06-02-2023,Ahmedabad,CROMA-6108,Cameras,P-89301,Cameras 7,7,45321.67,15,Cash,46-60,Male,SR-442,3.1
+27-02-2023,Ahmedabad,CROMA-5800,Home Appliances,P-76447,Home Appliances 16,1,43740.99,15,Cash,46-60,Male,SR-189,4
+02-02-2023,Bangalore,CROMA-5523,Cameras,P-18724,Cameras 11,1,17668.94,15,Debit Card,36-45,Male,SR-939,3.7
+22-02-2023,Chennai,CROMA-6024,Laptops,P-98061,Laptops 1,9,9495.89,5,EMI,36-45,Female,SR-856,4.2
+22-02-2023,Hyderabad,CROMA-6736,Home Appliances,P-35480,Home Appliances 8,8,39433.1,0,Cash,18-25,Male,SR-990,3.9
+14-02-2023,Chennai,CROMA-9089,Televisions,P-79237,Televisions 2,9,35246.22,10,EMI,46-60,Non-Binary,SR-276,3.3
+01-02-2023,Chennai,CROMA-2930,Cameras,P-48542,Cameras 2,6,36145.42,10,Credit Card,46-60,Male,SR-286,3.8
+05-02-2023,Kolkata,CROMA-5391,Televisions,P-61428,Televisions 7,1,49816.01,10,Credit Card,36-45,Non-Binary,SR-447,4.7
+20-02-2023,Ahmedabad,CROMA-4354,Mobile Phones,P-49563,Mobile Phones 16,8,15386.66,5,EMI,36-45,Female,SR-500,4.5
+02-02-2023,Ahmedabad,CROMA-3312,Cameras,P-23726,Cameras 19,9,44148.67,0,UPI,46-60,Female,SR-359,4.6
+12-02-2023,Bangalore,CROMA-7055,Home Appliances,P-30862,Home Appliances 10,8,37249.17,15,Debit Card,36-45,Non-Binary,SR-334,3.2
+05-02-2023,Delhi,CROMA-6144,Televisions,P-31927,Televisions 14,1,36912.27,5,Credit Card,46-60,Male,SR-960,3.8
+21-02-2023,Kolkata,CROMA-1533,Televisions,P-98925,Televisions 10,4,23414.43,0,Debit Card,26-35,Female,SR-841,3.6
+25-02-2023,Bangalore,CROMA-9485,Laptops,P-79819,Laptops 19,6,12361.29,15,Cash,18-25,Male,SR-510,3.1
+13-02-2023,Hyderabad,CROMA-5834,Mobile Phones,P-27506,Mobile Phones 10,2,22249.7,15,Debit Card,26-35,Non-Binary,SR-560,3.7
+12-02-2023,Chennai,CROMA-8311,Laptops,P-35438,Laptops 18,10,12459.86,0,UPI,18-25,Male,SR-911,4.1
+15-02-2023,Hyderabad,CROMA-7322,Mobile Phones,P-50480,Mobile Phones 16,9,46376.95,0,EMI,46-60,Non-Binary,SR-305,3.1
+05-02-2023,Hyderabad,CROMA-6611,Cameras,P-62983,Cameras 9,10,16059.22,0,UPI,26-35,Non-Binary,SR-452,3.6
+09-02-2023,Ahmedabad,CROMA-4112,Televisions,P-88514,Televisions 18,1,17639.25,15,EMI,18-25,Non-Binary,SR-863,4.5
+12-02-2023,Chennai,CROMA-2818,Laptops,P-74361,Laptops 2,7,43151.89,5,Cash,36-45,Female,SR-523,4.8
+09-02-2023,Bangalore,CROMA-8087,Home Appliances,P-47070,Home Appliances 7,9,31567.22,10,UPI,18-25,Non-Binary,SR-892,4
+03-02-2023,Delhi,CROMA-7875,Televisions,P-73773,Televisions 3,10,24735.99,15,Cash,26-35,Male,SR-736,4.3
+06-02-2023,Hyderabad,CROMA-1323,Cameras,P-50824,Cameras 2,6,5077.15,10,UPI,36-45,Non-Binary,SR-671,4.4
+12-02-2023,Hyderabad,CROMA-7959,Cameras,P-72795,Cameras 6,8,17847.43,10,Cash,26-35,Female,SR-272,4.6
+10-02-2023,Pune,CROMA-4248,Mobile Phones,P-81816,Mobile Phones 17,2,30443.17,10,Cash,26-35,Non-Binary,SR-221,4.8
+16-02-2023,Mumbai,CROMA-3290,Laptops,P-74809,Laptops 15,1,21751.69,0,Credit Card,36-45,Non-Binary,SR-299,3.8
+11-02-2023,Hyderabad,CROMA-5161,Televisions,P-26925,Televisions 7,2,12816.63,15,Debit Card,26-35,Male,SR-144,4.3
+17-02-2023,Bangalore,CROMA-3911,Laptops,P-62581,Laptops 13,5,39992.64,0,Debit Card,26-35,Male,SR-949,5
+13-02-2023,Ahmedabad,CROMA-8327,Laptops,P-49430,Laptops 10,4,21506.91,5,EMI,18-25,Female,SR-912,3.4
+06-02-2023,Delhi,CROMA-2761,Cameras,P-33615,Cameras 17,6,21775.55,10,UPI,36-45,Male,SR-280,4.9
+10-02-2023,Bangalore,CROMA-7787,Cameras,P-93089,Cameras 9,5,46166.57,10,Credit Card,46-60,Non-Binary,SR-701,4.1
+11-02-2023,Pune,CROMA-8235,Cameras,P-41096,Cameras 11,4,35524.26,15,Credit Card,46-60,Non-Binary,SR-387,3.1
+03-02-2023,Pune,CROMA-6601,Cameras,P-30496,Cameras 8,1,29678.07,0,Cash,26-35,Male,SR-843,3
+14-02-2023,Hyderabad,CROMA-2158,Televisions,P-44965,Televisions 9,8,30114.78,5,UPI,26-35,Male,SR-171,3.7
+04-02-2023,Hyderabad,CROMA-2163,Laptops,P-75137,Laptops 13,1,17174.37,10,EMI,26-35,Female,SR-392,4.5
+19-02-2023,Chennai,CROMA-6932,Cameras,P-24086,Cameras 8,1,46728.05,15,Debit Card,26-35,Female,SR-514,3.4
+14-02-2023,Mumbai,CROMA-3958,Cameras,P-61535,Cameras 3,10,12783.19,10,EMI,26-35,Female,SR-687,3.5
+26-02-2023,Mumbai,CROMA-8785,Cameras,P-26831,Cameras 6,10,26898.37,15,Debit Card,46-60,Non-Binary,SR-288,3.4
+21-02-2023,Pune,CROMA-6935,Laptops,P-50620,Laptops 1,3,11729.98,0,EMI,26-35,Non-Binary,SR-295,4.9
+05-02-2023,Hyderabad,CROMA-1921,Televisions,P-84699,Televisions 15,7,28218.99,5,UPI,18-25,Female,SR-191,4
+07-02-2023,Bangalore,CROMA-3552,Home Appliances,P-67895,Home Appliances 15,10,39189.55,0,Credit Card,26-35,Female,SR-475,4.6
+01-02-2023,Chennai,CROMA-8240,Cameras,P-69917,Cameras 11,1,33321.45,10,Cash,36-45,Female,SR-789,4
+10-02-2023,Chennai,CROMA-7780,Cameras,P-76426,Cameras 4,2,38271.92,10,Credit Card,36-45,Male,SR-982,3.5
+11-02-2023,Chennai,CROMA-7304,Laptops,P-95347,Laptops 4,5,5511.18,0,Cash,26-35,Non-Binary,SR-681,3.7
+17-02-2023,Pune,CROMA-6227,Laptops,P-41889,Laptops 18,10,47537.81,0,Debit Card,18-25,Non-Binary,SR-697,3.6
+08-02-2023,Ahmedabad,CROMA-6009,Mobile Phones,P-61235,Mobile Phones 2,8,10274.74,0,EMI,18-25,Male,SR-393,3.1
+14-02-2023,Bangalore,CROMA-9431,Televisions,P-12264,Televisions 9,6,35520.06,10,Credit Card,26-35,Non-Binary,SR-982,4.6
+16-02-2023,Delhi,CROMA-2262,Laptops,P-77410,Laptops 14,4,9414.03,10,Debit Card,36-45,Male,SR-917,3.4
+27-02-2023,Mumbai,CROMA-8562,Home Appliances,P-88494,Home Appliances 2,2,10608.88,5,Debit Card,18-25,Female,SR-510,4.3
+14-02-2023,Mumbai,CROMA-3873,Mobile Phones,P-29653,Mobile Phones 13,10,35769.37,0,Cash,36-45,Female,SR-772,5
+07-02-2023,Ahmedabad,CROMA-7613,Laptops,P-18872,Laptops 10,3,44133.22,10,EMI,36-45,Female,SR-216,3.9
+12-02-2023,Ahmedabad,CROMA-7933,Laptops,P-55560,Laptops 1,5,34640.78,15,Cash,26-35,Male,SR-816,3.8
+22-02-2023,Ahmedabad,CROMA-2033,Home Appliances,P-20774,Home Appliances 14,8,8768.15,10,Debit Card,26-35,Male,SR-986,4.8
+23-02-2023,Delhi,CROMA-9202,Mobile Phones,P-19306,Mobile Phones 4,9,27053,10,Credit Card,36-45,Male,SR-983,3.4
+20-02-2023,Mumbai,CROMA-4435,Laptops,P-27788,Laptops 11,5,6821.2,5,UPI,46-60,Male,SR-506,4.3
+05-02-2023,Mumbai,CROMA-6900,Cameras,P-65654,Cameras 12,8,42961.01,0,Cash,18-25,Female,SR-192,4.8
+13-02-2023,Delhi,CROMA-1870,Home Appliances,P-81186,Home Appliances 18,7,22587.38,0,Credit Card,36-45,Non-Binary,SR-191,3.2
+19-02-2023,Pune,CROMA-3554,Cameras,P-61741,Cameras 4,10,33927.6,10,EMI,46-60,Female,SR-509,4.5
+21-02-2023,Bangalore,CROMA-6947,Laptops,P-30198,Laptops 14,2,23915.23,15,Credit Card,36-45,Non-Binary,SR-240,4.8
+01-02-2023,Chennai,CROMA-9971,Mobile Phones,P-85089,Mobile Phones 17,2,7775.62,10,EMI,18-25,Non-Binary,SR-626,4.5
+13-02-2023,Chennai,CROMA-7911,Laptops,P-17541,Laptops 10,10,11702.42,5,Cash,36-45,Non-Binary,SR-929,4.3
+25-02-2023,Hyderabad,CROMA-6246,Cameras,P-50190,Cameras 13,4,20872.01,5,Debit Card,36-45,Male,SR-919,3.1
+13-02-2023,Ahmedabad,CROMA-7683,Televisions,P-34651,Televisions 15,5,42378.54,0,Cash,18-25,Non-Binary,SR-162,3.9
+21-02-2023,Ahmedabad,CROMA-2671,Home Appliances,P-96128,Home Appliances 10,3,22880.04,0,EMI,26-35,Female,SR-784,4.5
+01-02-2023,Kolkata,CROMA-4914,Mobile Phones,P-72414,Mobile Phones 7,2,38901.51,15,Credit Card,36-45,Female,SR-212,4.9
+21-02-2023,Mumbai,CROMA-5743,Mobile Phones,P-96418,Mobile Phones 14,3,27077.59,5,Cash,36-45,Female,SR-329,3.9
+27-02-2023,Ahmedabad,CROMA-3839,Laptops,P-41962,Laptops 5,5,43786.35,0,EMI,46-60,Male,SR-615,4.7
+04-02-2023,Chennai,CROMA-1053,Mobile Phones,P-94480,Mobile Phones 8,5,6912.14,15,EMI,18-25,Female,SR-243,4
+03-02-2023,Kolkata,CROMA-8303,Mobile Phones,P-68397,Mobile Phones 16,7,15814.55,5,Cash,36-45,Female,SR-508,4
+24-03-2023,Delhi,CROMA-1647,Mobile Phones,P-58678,Mobile Phones 2,9,7082.51,5,EMI,46-60,Male,SR-724,3.2
+21-03-2023,Bangalore,CROMA-9786,Televisions,P-50870,Televisions 12,9,28921.46,10,Credit Card,36-45,Non-Binary,SR-150,4.5
+09-03-2023,Pune,CROMA-3510,Mobile Phones,P-64311,Mobile Phones 15,2,20621.15,0,EMI,18-25,Female,SR-841,4.5
+19-03-2023,Hyderabad,CROMA-3410,Cameras,P-58333,Cameras 3,9,44994.67,5,Debit Card,36-45,Male,SR-294,3.9
+15-03-2023,Hyderabad,CROMA-7619,Mobile Phones,P-39069,Mobile Phones 4,5,13713.75,5,EMI,18-25,Non-Binary,SR-547,4.6
+10-03-2023,Bangalore,CROMA-5169,Home Appliances,P-71875,Home Appliances 6,5,27906.15,5,Credit Card,18-25,Male,SR-927,3.7
+09-03-2023,Kolkata,CROMA-5742,Cameras,P-69872,Cameras 6,5,34038.73,10,Credit Card,26-35,Female,SR-190,3.9
+04-03-2023,Hyderabad,CROMA-6513,Home Appliances,P-36850,Home Appliances 19,8,32223.34,0,UPI,18-25,Non-Binary,SR-890,3.2
+27-03-2023,Delhi,CROMA-4948,Laptops,P-11686,Laptops 7,6,46231.42,0,Credit Card,18-25,Non-Binary,SR-934,3.2
+09-03-2023,Pune,CROMA-4284,Home Appliances,P-34362,Home Appliances 17,9,41787.33,5,Credit Card,26-35,Non-Binary,SR-790,3.4
+03-03-2023,Ahmedabad,CROMA-8867,Televisions,P-87754,Televisions 10,8,17740.03,15,Cash,26-35,Male,SR-851,4
+14-03-2023,Kolkata,CROMA-1096,Mobile Phones,P-94761,Mobile Phones 20,7,12908.08,15,Cash,46-60,Female,SR-547,3.1
+19-03-2023,Pune,CROMA-5162,Cameras,P-36345,Cameras 15,1,30982.89,5,Cash,26-35,Non-Binary,SR-472,3.6
+19-03-2023,Chennai,CROMA-7153,Laptops,P-70869,Laptops 16,4,36221.06,5,Cash,18-25,Male,SR-620,3.8
+02-03-2023,Ahmedabad,CROMA-7087,Televisions,P-57205,Televisions 3,8,19660.59,5,UPI,26-35,Female,SR-504,4.4
+20-03-2023,Kolkata,CROMA-3964,Cameras,P-49227,Cameras 2,7,17218.94,0,EMI,46-60,Male,SR-407,4.5
+06-03-2023,Hyderabad,CROMA-6506,Mobile Phones,P-94155,Mobile Phones 11,4,12154.07,10,EMI,18-25,Female,SR-567,3.7
+19-03-2023,Bangalore,CROMA-5690,Home Appliances,P-65549,Home Appliances 20,9,5574.35,10,Cash,18-25,Male,SR-626,3.2
+05-03-2023,Mumbai,CROMA-2210,Mobile Phones,P-16995,Mobile Phones 10,9,22420.96,10,UPI,26-35,Female,SR-826,3.1
+28-03-2023,Kolkata,CROMA-2294,Cameras,P-78041,Cameras 4,5,15779.33,0,Debit Card,46-60,Female,SR-679,4.5
+03-03-2023,Delhi,CROMA-2650,Home Appliances,P-35796,Home Appliances 17,3,12558.9,0,EMI,36-45,Male,SR-622,4.1
+12-03-2023,Ahmedabad,CROMA-2404,Televisions,P-92844,Televisions 1,8,41520.5,0,EMI,18-25,Non-Binary,SR-414,3
+06-03-2023,Hyderabad,CROMA-7775,Laptops,P-67085,Laptops 18,5,34134.19,10,Cash,18-25,Male,SR-286,4.1
+13-03-2023,Delhi,CROMA-6468,Cameras,P-61992,Cameras 7,9,12117.45,10,EMI,26-35,Male,SR-752,3.1
+06-03-2023,Bangalore,CROMA-9975,Televisions,P-94675,Televisions 3,3,28922.15,10,Debit Card,26-35,Male,SR-223,3.5
+26-03-2023,Hyderabad,CROMA-9269,Laptops,P-67531,Laptops 13,5,23834.73,5,Cash,46-60,Non-Binary,SR-106,4.5
+09-03-2023,Bangalore,CROMA-8880,Mobile Phones,P-42869,Mobile Phones 8,10,28771.42,5,Credit Card,18-25,Male,SR-539,4.8
+04-03-2023,Mumbai,CROMA-6606,Televisions,P-14170,Televisions 8,3,6427.87,0,EMI,26-35,Non-Binary,SR-741,3.1
+16-03-2023,Ahmedabad,CROMA-9636,Mobile Phones,P-24566,Mobile Phones 19,1,18372.56,15,EMI,26-35,Non-Binary,SR-630,4.5
+10-03-2023,Chennai,CROMA-8651,Home Appliances,P-94186,Home Appliances 5,3,44330.39,5,UPI,18-25,Female,SR-759,3.2
+11-03-2023,Hyderabad,CROMA-5958,Televisions,P-97512,Televisions 11,2,21283.01,15,UPI,18-25,Male,SR-912,3.1
+21-03-2023,Mumbai,CROMA-8272,Home Appliances,P-22545,Home Appliances 13,4,33432.39,0,UPI,46-60,Male,SR-714,4.9
+20-03-2023,Chennai,CROMA-6101,Laptops,P-20270,Laptops 13,6,27140.43,10,UPI,36-45,Male,SR-731,4.1
+14-03-2023,Delhi,CROMA-7071,Home Appliances,P-69817,Home Appliances 5,9,13464.3,0,Credit Card,36-45,Non-Binary,SR-800,3.5
+09-03-2023,Hyderabad,CROMA-9420,Cameras,P-83061,Cameras 11,10,31530.71,15,Cash,46-60,Male,SR-537,4
+06-03-2023,Kolkata,CROMA-3215,Cameras,P-92220,Cameras 1,5,17739.97,10,Credit Card,26-35,Female,SR-683,4.5
+02-03-2023,Hyderabad,CROMA-6663,Mobile Phones,P-44045,Mobile Phones 8,7,43715.12,15,Credit Card,26-35,Male,SR-210,4.3
+21-03-2023,Pune,CROMA-1898,Televisions,P-94366,Televisions 4,10,43356.3,5,UPI,18-25,Male,SR-893,4.2
+14-03-2023,Delhi,CROMA-6318,Laptops,P-21745,Laptops 17,4,20599.14,10,UPI,18-25,Non-Binary,SR-785,4.8
+24-03-2023,Chennai,CROMA-4584,Televisions,P-92261,Televisions 11,5,17695.99,15,Credit Card,36-45,Male,SR-330,4.3
+11-03-2023,Delhi,CROMA-5908,Televisions,P-46722,Televisions 12,3,34662.93,0,Debit Card,18-25,Female,SR-828,4.4
+20-03-2023,Bangalore,CROMA-1993,Televisions,P-15445,Televisions 19,5,33134.43,5,EMI,26-35,Female,SR-530,3.2
+13-03-2023,Hyderabad,CROMA-2636,Mobile Phones,P-87713,Mobile Phones 3,6,9473.79,10,UPI,18-25,Male,SR-747,4.3
+26-03-2023,Mumbai,CROMA-1854,Laptops,P-16534,Laptops 6,8,17775.66,5,Cash,46-60,Non-Binary,SR-976,4.9
+15-03-2023,Chennai,CROMA-7570,Cameras,P-40254,Cameras 18,2,42327.94,0,UPI,46-60,Non-Binary,SR-193,3.9
+11-03-2023,Ahmedabad,CROMA-5786,Mobile Phones,P-95615,Mobile Phones 19,7,44580.02,10,EMI,26-35,Male,SR-465,4.7
+01-03-2023,Delhi,CROMA-8609,Cameras,P-57850,Cameras 19,4,5065.06,0,Debit Card,18-25,Male,SR-118,3.7
+16-03-2023,Pune,CROMA-6954,Laptops,P-12750,Laptops 17,3,25741.45,10,Cash,46-60,Male,SR-167,3.2
+06-03-2023,Pune,CROMA-7990,Cameras,P-48608,Cameras 18,3,27020.27,15,Cash,26-35,Female,SR-460,3.3
+22-03-2023,Chennai,CROMA-2723,Televisions,P-97596,Televisions 6,8,44036.97,0,EMI,18-25,Non-Binary,SR-647,4.9
+03-03-2023,Bangalore,CROMA-1598,Home Appliances,P-57584,Home Appliances 1,10,31003.9,5,Cash,18-25,Male,SR-181,4.3
+12-03-2023,Mumbai,CROMA-3077,Cameras,P-97494,Cameras 11,9,20809.35,15,Debit Card,46-60,Female,SR-789,4.2
+18-03-2023,Delhi,CROMA-6120,Laptops,P-16402,Laptops 20,8,9091.33,0,Credit Card,46-60,Non-Binary,SR-720,5
+16-03-2023,Delhi,CROMA-8341,Laptops,P-36355,Laptops 7,7,31765.68,15,EMI,18-25,Male,SR-717,4.9
+02-03-2023,Hyderabad,CROMA-3665,Laptops,P-28818,Laptops 15,3,19023.09,5,UPI,26-35,Non-Binary,SR-197,3.2
+19-03-2023,Kolkata,CROMA-1232,Laptops,P-32221,Laptops 20,10,8010.42,0,Debit Card,26-35,Female,SR-770,4.9
+24-03-2023,Kolkata,CROMA-6898,Laptops,P-57114,Laptops 8,1,39283.03,10,Cash,26-35,Non-Binary,SR-682,3.8
+08-03-2023,Hyderabad,CROMA-8521,Home Appliances,P-17664,Home Appliances 19,10,33581.57,0,UPI,18-25,Non-Binary,SR-543,3.4
+13-03-2023,Bangalore,CROMA-6224,Home Appliances,P-92532,Home Appliances 2,10,16851.27,15,UPI,18-25,Female,SR-800,5
+18-03-2023,Delhi,CROMA-7723,Televisions,P-80838,Televisions 7,6,28301.18,0,Cash,26-35,Female,SR-656,3.3
+11-03-2023,Mumbai,CROMA-2479,Televisions,P-54322,Televisions 6,1,18601.66,10,UPI,18-25,Non-Binary,SR-667,4
+15-03-2023,Mumbai,CROMA-4752,Mobile Phones,P-95647,Mobile Phones 3,8,5702.9,10,Debit Card,26-35,Male,SR-600,4.2
+09-03-2023,Bangalore,CROMA-7456,Mobile Phones,P-83800,Mobile Phones 14,4,35608.76,15,Debit Card,18-25,Male,SR-970,3.8
+28-03-2023,Mumbai,CROMA-8943,Laptops,P-82746,Laptops 15,3,36631,0,UPI,26-35,Non-Binary,SR-576,3.1
+02-03-2023,Mumbai,CROMA-6556,Televisions,P-19757,Televisions 7,4,33699.81,5,Cash,26-35,Female,SR-842,4.8
+06-03-2023,Hyderabad,CROMA-8249,Mobile Phones,P-33478,Mobile Phones 6,10,30371.85,5,Debit Card,26-35,Non-Binary,SR-983,3.3
+20-03-2023,Bangalore,CROMA-1527,Home Appliances,P-61517,Home Appliances 11,5,27668.91,15,EMI,18-25,Female,SR-325,3.9
+27-03-2023,Bangalore,CROMA-8019,Cameras,P-98561,Cameras 17,5,49187.98,5,Cash,46-60,Female,SR-336,3.2
+27-03-2023,Chennai,CROMA-9032,Home Appliances,P-52600,Home Appliances 3,5,5953.1,10,Debit Card,26-35,Male,SR-127,4.8
+22-03-2023,Chennai,CROMA-1305,Laptops,P-12517,Laptops 8,10,40329.24,0,UPI,46-60,Male,SR-698,4.9
+22-03-2023,Kolkata,CROMA-5000,Laptops,P-26205,Laptops 9,2,34216.18,10,Credit Card,46-60,Female,SR-869,4.8
+20-03-2023,Hyderabad,CROMA-8219,Cameras,P-55684,Cameras 9,4,40570.27,10,UPI,46-60,Non-Binary,SR-413,3.8
+14-03-2023,Hyderabad,CROMA-5817,Mobile Phones,P-65879,Mobile Phones 18,1,20760.67,0,UPI,26-35,Female,SR-806,3.6
+20-03-2023,Chennai,CROMA-7336,Home Appliances,P-46706,Home Appliances 6,7,19322.95,5,Cash,46-60,Non-Binary,SR-849,3.7
+11-03-2023,Mumbai,CROMA-6897,Home Appliances,P-38033,Home Appliances 6,6,9536.28,5,UPI,26-35,Male,SR-879,3.1
+03-03-2023,Mumbai,CROMA-8887,Televisions,P-83394,Televisions 11,4,45907.4,15,Credit Card,46-60,Male,SR-833,3.6
+17-03-2023,Kolkata,CROMA-8373,Televisions,P-43326,Televisions 5,9,11463.47,0,Debit Card,26-35,Male,SR-740,4.6
+26-03-2023,Bangalore,CROMA-9453,Home Appliances,P-95903,Home Appliances 15,4,26791.08,5,Cash,46-60,Male,SR-779,3.8
+27-03-2023,Delhi,CROMA-6458,Laptops,P-70960,Laptops 15,3,12508.49,10,UPI,46-60,Female,SR-612,4.3
+12-03-2023,Ahmedabad,CROMA-8378,Laptops,P-98934,Laptops 3,5,34444.07,5,UPI,18-25,Non-Binary,SR-288,4
+21-03-2023,Mumbai,CROMA-9838,Home Appliances,P-64656,Home Appliances 9,10,41350.12,10,Cash,46-60,Female,SR-926,4.5
+14-03-2023,Ahmedabad,CROMA-6553,Mobile Phones,P-13135,Mobile Phones 8,2,7864.4,10,Cash,46-60,Non-Binary,SR-760,4.9
+06-03-2023,Delhi,CROMA-3028,Home Appliances,P-49570,Home Appliances 8,4,21227.15,5,EMI,36-45,Non-Binary,SR-404,3.4
+20-03-2023,Delhi,CROMA-8318,Cameras,P-75819,Cameras 8,8,23079.5,10,Debit Card,18-25,Non-Binary,SR-586,5
+03-03-2023,Hyderabad,CROMA-5687,Televisions,P-51397,Televisions 14,3,13320.52,15,EMI,18-25,Female,SR-511,4.4
+07-03-2023,Bangalore,CROMA-6025,Home Appliances,P-68256,Home Appliances 5,3,25636.77,0,Debit Card,26-35,Non-Binary,SR-539,4.2
+24-03-2023,Mumbai,CROMA-2111,Televisions,P-10411,Televisions 14,1,30406.12,10,Cash,36-45,Male,SR-769,3.7
+11-03-2023,Kolkata,CROMA-9672,Cameras,P-55643,Cameras 5,2,25400.67,0,UPI,46-60,Non-Binary,SR-251,4.5
+18-03-2023,Chennai,CROMA-3075,Home Appliances,P-74208,Home Appliances 12,10,7523.5,10,Credit Card,26-35,Non-Binary,SR-152,5
+04-03-2023,Chennai,CROMA-4562,Cameras,P-69586,Cameras 19,10,45246.47,15,EMI,26-35,Male,SR-215,4.2
+02-03-2023,Bangalore,CROMA-8138,Laptops,P-76425,Laptops 18,6,46626.11,0,Debit Card,36-45,Female,SR-739,3.1
+10-03-2023,Chennai,CROMA-1791,Televisions,P-14577,Televisions 5,8,46989,10,EMI,46-60,Male,SR-347,3.5
+02-03-2023,Kolkata,CROMA-6815,Mobile Phones,P-52015,Mobile Phones 13,1,48457.31,15,UPI,46-60,Female,SR-250,3.7
+10-03-2023,Kolkata,CROMA-2797,Televisions,P-34756,Televisions 2,10,49090.3,0,Credit Card,46-60,Female,SR-515,3.7
+28-03-2023,Pune,CROMA-9425,Home Appliances,P-33389,Home Appliances 7,9,48398.46,10,UPI,36-45,Male,SR-343,3.9
+01-03-2023,Hyderabad,CROMA-7551,Mobile Phones,P-86662,Mobile Phones 12,6,20597.84,0,Credit Card,36-45,Male,SR-569,4.9
+10-03-2023,Bangalore,CROMA-8879,Mobile Phones,P-13453,Mobile Phones 7,10,35442.28,5,UPI,46-60,Non-Binary,SR-410,3.8
+05-03-2023,Kolkata,CROMA-8117,Cameras,P-41344,Cameras 19,4,38516.91,10,Debit Card,36-45,Male,SR-273,4.1
+27-03-2023,Chennai,CROMA-2377,Home Appliances,P-81919,Home Appliances 2,9,7828.18,10,EMI,36-45,Non-Binary,SR-702,4.5
+27-03-2023,Hyderabad,CROMA-6521,Home Appliances,P-79434,Home Appliances 20,9,48101.2,15,Debit Card,36-45,Non-Binary,SR-972,4.5
+08-04-2023,Delhi,CROMA-2297,Cameras,P-97577,Cameras 19,7,14491.67,0,Credit Card,36-45,Male,SR-612,3.8
+12-04-2023,Kolkata,CROMA-9141,Laptops,P-40207,Laptops 20,3,29032.53,10,EMI,26-35,Non-Binary,SR-372,4.8
+28-04-2023,Ahmedabad,CROMA-9865,Mobile Phones,P-58861,Mobile Phones 1,9,21137.56,5,Cash,26-35,Female,SR-799,4.4
+26-04-2023,Pune,CROMA-4633,Home Appliances,P-29989,Home Appliances 13,3,33001.61,15,EMI,46-60,Non-Binary,SR-678,4.1
+20-04-2023,Pune,CROMA-3177,Home Appliances,P-21687,Home Appliances 1,2,42733.31,15,Cash,26-35,Male,SR-364,4.3
+09-04-2023,Bangalore,CROMA-9820,Televisions,P-12884,Televisions 17,3,48341.88,15,Cash,46-60,Male,SR-519,3.9
+03-04-2023,Ahmedabad,CROMA-3581,Laptops,P-86457,Laptops 14,7,46751.74,10,UPI,36-45,Female,SR-181,4.1
+05-04-2023,Ahmedabad,CROMA-1523,Televisions,P-14962,Televisions 11,3,30807.37,10,Cash,18-25,Male,SR-521,3.9
+17-04-2023,Mumbai,CROMA-3924,Mobile Phones,P-15304,Mobile Phones 9,6,11596.17,5,EMI,46-60,Non-Binary,SR-911,4.7
+17-04-2023,Kolkata,CROMA-2923,Mobile Phones,P-93251,Mobile Phones 13,2,24145.29,5,Credit Card,26-35,Non-Binary,SR-680,3.6
+20-04-2023,Chennai,CROMA-1115,Home Appliances,P-30507,Home Appliances 4,2,11463.03,10,Cash,18-25,Non-Binary,SR-502,4.8
+13-04-2023,Ahmedabad,CROMA-6337,Cameras,P-21542,Cameras 9,3,26916.74,5,Debit Card,26-35,Non-Binary,SR-800,4.6
+07-04-2023,Ahmedabad,CROMA-6699,Televisions,P-87708,Televisions 7,1,34431.96,10,Credit Card,18-25,Non-Binary,SR-815,3.5
+24-04-2023,Pune,CROMA-4189,Cameras,P-80666,Cameras 9,2,6152.76,15,Debit Card,46-60,Male,SR-879,3.7
+15-04-2023,Mumbai,CROMA-6015,Home Appliances,P-88293,Home Appliances 11,1,49406.84,10,Debit Card,36-45,Non-Binary,SR-273,4.2
+25-04-2023,Chennai,CROMA-9247,Mobile Phones,P-68565,Mobile Phones 8,8,10951.95,10,Credit Card,36-45,Male,SR-849,4.3
+15-04-2023,Pune,CROMA-1120,Home Appliances,P-89177,Home Appliances 7,6,17963.83,15,Cash,36-45,Male,SR-912,4.8
+18-04-2023,Delhi,CROMA-4278,Home Appliances,P-32812,Home Appliances 10,9,37238.44,15,Cash,46-60,Non-Binary,SR-921,3.4
+03-04-2023,Pune,CROMA-8370,Laptops,P-16046,Laptops 15,10,11397.6,5,EMI,36-45,Male,SR-275,4.5
+24-04-2023,Pune,CROMA-3006,Mobile Phones,P-90597,Mobile Phones 1,5,9256.24,10,EMI,46-60,Female,SR-355,3
+25-04-2023,Kolkata,CROMA-6935,Home Appliances,P-71627,Home Appliances 11,2,24735.36,10,Credit Card,36-45,Non-Binary,SR-448,4.1
+24-04-2023,Pune,CROMA-3799,Cameras,P-44089,Cameras 16,8,13146.22,15,Cash,46-60,Female,SR-442,3.1
+04-04-2023,Mumbai,CROMA-7205,Mobile Phones,P-27011,Mobile Phones 20,4,45862.23,5,Debit Card,26-35,Female,SR-786,3.5
+08-04-2023,Kolkata,CROMA-4294,Cameras,P-81382,Cameras 16,8,31746.12,5,Debit Card,26-35,Male,SR-783,3.1
+17-04-2023,Mumbai,CROMA-6925,Mobile Phones,P-37402,Mobile Phones 7,5,31186.78,0,UPI,26-35,Non-Binary,SR-842,3.4
+21-04-2023,Kolkata,CROMA-6705,Televisions,P-73296,Televisions 5,6,40287.66,0,Debit Card,26-35,Female,SR-791,3.2
+05-04-2023,Pune,CROMA-8345,Laptops,P-71557,Laptops 3,8,40976.5,5,Debit Card,18-25,Female,SR-896,4.9
+25-04-2023,Bangalore,CROMA-5385,Mobile Phones,P-17068,Mobile Phones 5,5,14578.26,15,Debit Card,36-45,Female,SR-621,3.6
+15-04-2023,Hyderabad,CROMA-2133,Home Appliances,P-81113,Home Appliances 17,5,14661.88,0,UPI,46-60,Male,SR-912,4.6
+02-04-2023,Ahmedabad,CROMA-1340,Laptops,P-17814,Laptops 4,7,15670.03,10,UPI,26-35,Non-Binary,SR-949,4.7
+14-04-2023,Chennai,CROMA-9603,Home Appliances,P-68032,Home Appliances 13,1,18611.53,15,EMI,46-60,Female,SR-778,3.4
+03-04-2023,Hyderabad,CROMA-9317,Cameras,P-77400,Cameras 9,2,22762.31,0,EMI,18-25,Female,SR-936,4.5
+24-04-2023,Delhi,CROMA-3854,Mobile Phones,P-62583,Mobile Phones 7,7,46111.03,15,Cash,46-60,Non-Binary,SR-173,3.8
+06-04-2023,Kolkata,CROMA-1465,Mobile Phones,P-93683,Mobile Phones 20,2,31206.94,5,EMI,46-60,Male,SR-351,3.2
+28-04-2023,Bangalore,CROMA-1883,Home Appliances,P-52487,Home Appliances 9,5,41226.1,10,Credit Card,18-25,Male,SR-353,4.5
+02-04-2023,Chennai,CROMA-7721,Laptops,P-86276,Laptops 11,10,8211.28,15,Cash,26-35,Female,SR-839,3.4
+11-04-2023,Hyderabad,CROMA-1921,Cameras,P-70395,Cameras 16,7,27529.21,5,Debit Card,46-60,Male,SR-888,4.7
+18-04-2023,Pune,CROMA-9635,Cameras,P-84590,Cameras 17,3,27556.4,5,UPI,36-45,Female,SR-870,4.5
+12-04-2023,Kolkata,CROMA-1285,Home Appliances,P-83748,Home Appliances 4,3,9797.26,10,Credit Card,46-60,Male,SR-727,3.6
+28-04-2023,Chennai,CROMA-4913,Home Appliances,P-62545,Home Appliances 14,3,28350.83,15,EMI,36-45,Female,SR-726,4.7
+19-04-2023,Pune,CROMA-9871,Mobile Phones,P-28327,Mobile Phones 3,4,44270.76,5,Debit Card,36-45,Female,SR-862,3.8
+15-04-2023,Chennai,CROMA-1003,Home Appliances,P-66952,Home Appliances 16,2,46946.27,0,UPI,18-25,Non-Binary,SR-565,3.3
+15-04-2023,Chennai,CROMA-9125,Home Appliances,P-80776,Home Appliances 18,1,23366.09,0,EMI,26-35,Non-Binary,SR-864,4.4
+26-04-2023,Hyderabad,CROMA-8563,Laptops,P-90632,Laptops 13,1,20764.25,15,EMI,36-45,Male,SR-539,3.4
+09-04-2023,Chennai,CROMA-9068,Mobile Phones,P-96369,Mobile Phones 16,6,27723.48,10,UPI,36-45,Female,SR-774,3.6
+15-04-2023,Mumbai,CROMA-1461,Cameras,P-80371,Cameras 19,4,42426.94,0,Debit Card,18-25,Female,SR-995,4.8
+12-04-2023,Delhi,CROMA-3231,Televisions,P-83145,Televisions 4,3,8695.89,0,Debit Card,36-45,Female,SR-854,3.7
+19-04-2023,Mumbai,CROMA-4514,Cameras,P-75887,Cameras 10,3,45592.73,10,UPI,46-60,Non-Binary,SR-592,3.2
+12-04-2023,Hyderabad,CROMA-4515,Home Appliances,P-48237,Home Appliances 18,8,32025.03,5,Cash,18-25,Female,SR-138,3.8
+10-04-2023,Kolkata,CROMA-5283,Mobile Phones,P-10539,Mobile Phones 12,7,23980.26,0,EMI,36-45,Non-Binary,SR-439,4.2
+11-04-2023,Mumbai,CROMA-4246,Televisions,P-86933,Televisions 9,7,23496.49,0,Cash,36-45,Male,SR-685,4
+14-04-2023,Bangalore,CROMA-6804,Televisions,P-86926,Televisions 13,5,39374.33,10,Credit Card,18-25,Female,SR-794,3.9
+02-04-2023,Kolkata,CROMA-7655,Cameras,P-11732,Cameras 17,3,43577.47,5,Debit Card,36-45,Male,SR-619,3.4
+21-04-2023,Pune,CROMA-8587,Home Appliances,P-40061,Home Appliances 8,3,21553.44,5,EMI,36-45,Male,SR-600,4
+22-04-2023,Mumbai,CROMA-5933,Cameras,P-75832,Cameras 14,7,9457.07,0,UPI,36-45,Female,SR-255,4.5
+23-04-2023,Bangalore,CROMA-8237,Home Appliances,P-63797,Home Appliances 1,1,34506.75,0,EMI,46-60,Non-Binary,SR-701,4
+12-04-2023,Ahmedabad,CROMA-2752,Laptops,P-56997,Laptops 20,2,47801.51,0,EMI,46-60,Non-Binary,SR-320,3.7
+01-04-2023,Mumbai,CROMA-1546,Televisions,P-77488,Televisions 11,1,13481.86,10,Credit Card,46-60,Non-Binary,SR-137,4
+17-04-2023,Mumbai,CROMA-3938,Televisions,P-89997,Televisions 8,8,31072.1,5,Credit Card,46-60,Male,SR-287,3.1
+18-04-2023,Pune,CROMA-8785,Laptops,P-23302,Laptops 5,10,18485.67,15,UPI,26-35,Male,SR-938,4.2
+11-04-2023,Kolkata,CROMA-2104,Home Appliances,P-64047,Home Appliances 1,4,44255.7,5,Credit Card,18-25,Non-Binary,SR-168,3.5
+16-04-2023,Hyderabad,CROMA-8667,Home Appliances,P-46078,Home Appliances 2,7,18516.08,10,Debit Card,26-35,Female,SR-424,3.9
+26-04-2023,Pune,CROMA-2141,Home Appliances,P-27212,Home Appliances 5,8,9820.07,10,UPI,26-35,Female,SR-116,3.6
+02-04-2023,Bangalore,CROMA-7400,Televisions,P-34834,Televisions 4,10,5422.87,10,EMI,26-35,Non-Binary,SR-936,4.1
+11-04-2023,Hyderabad,CROMA-2973,Televisions,P-77327,Televisions 12,1,24154.08,10,Credit Card,18-25,Male,SR-465,3.3
+12-04-2023,Chennai,CROMA-4008,Mobile Phones,P-12136,Mobile Phones 1,8,15976.46,0,EMI,46-60,Non-Binary,SR-708,4.8
+13-04-2023,Chennai,CROMA-6639,Mobile Phones,P-78602,Mobile Phones 16,9,12760.1,5,UPI,46-60,Male,SR-723,3.8
+18-04-2023,Ahmedabad,CROMA-2408,Laptops,P-67548,Laptops 3,1,23677.03,0,Credit Card,18-25,Non-Binary,SR-103,4.4
+18-04-2023,Chennai,CROMA-7900,Cameras,P-31446,Cameras 9,7,24607.44,15,Credit Card,46-60,Female,SR-415,4
+28-04-2023,Chennai,CROMA-9377,Laptops,P-80034,Laptops 18,10,24878.6,15,EMI,46-60,Female,SR-273,4.3
+23-04-2023,Hyderabad,CROMA-5710,Home Appliances,P-90901,Home Appliances 15,4,34703.39,15,EMI,46-60,Female,SR-145,4.1
+14-04-2023,Bangalore,CROMA-9409,Home Appliances,P-29076,Home Appliances 5,6,25875.46,5,Cash,36-45,Male,SR-844,4.9
+06-04-2023,Bangalore,CROMA-2144,Home Appliances,P-75109,Home Appliances 11,3,23821.27,15,UPI,26-35,Female,SR-443,4.6
+02-04-2023,Mumbai,CROMA-8767,Cameras,P-90746,Cameras 19,2,6356.64,10,UPI,18-25,Non-Binary,SR-688,3.3
+07-04-2023,Hyderabad,CROMA-6839,Laptops,P-36190,Laptops 7,10,33476.31,0,EMI,46-60,Non-Binary,SR-742,3.1
+07-04-2023,Kolkata,CROMA-2483,Laptops,P-90090,Laptops 20,5,20843.56,5,Credit Card,18-25,Non-Binary,SR-248,3.4
+01-04-2023,Kolkata,CROMA-3967,Cameras,P-60080,Cameras 18,7,48968.05,15,EMI,36-45,Female,SR-727,3.4
+14-04-2023,Pune,CROMA-6501,Home Appliances,P-14629,Home Appliances 14,1,34548.18,15,Cash,36-45,Male,SR-107,3.8
+17-04-2023,Kolkata,CROMA-8268,Mobile Phones,P-82870,Mobile Phones 8,3,34797.58,0,UPI,26-35,Male,SR-570,3.3
+18-04-2023,Kolkata,CROMA-5994,Mobile Phones,P-95490,Mobile Phones 16,7,26738.18,10,Debit Card,26-35,Non-Binary,SR-590,4.5
+01-04-2023,Bangalore,CROMA-5290,Home Appliances,P-12327,Home Appliances 12,4,36980.65,15,Debit Card,18-25,Female,SR-436,4.8
+20-04-2023,Hyderabad,CROMA-4311,Home Appliances,P-50382,Home Appliances 3,4,15979.33,10,Debit Card,36-45,Non-Binary,SR-846,3.2
+02-04-2023,Kolkata,CROMA-7793,Mobile Phones,P-87042,Mobile Phones 18,10,6939.04,10,UPI,36-45,Female,SR-666,4.8
+22-04-2023,Kolkata,CROMA-3227,Cameras,P-53970,Cameras 1,3,26598.81,15,EMI,46-60,Male,SR-194,3.8
+17-04-2023,Pune,CROMA-6337,Mobile Phones,P-42593,Mobile Phones 18,2,19671.48,5,Cash,26-35,Male,SR-280,4.3
+13-04-2023,Pune,CROMA-1057,Home Appliances,P-24058,Home Appliances 12,8,18079.73,15,Cash,36-45,Female,SR-296,3.7
+14-04-2023,Pune,CROMA-1944,Cameras,P-64060,Cameras 16,5,14643.7,15,Debit Card,46-60,Female,SR-349,3.6
+04-04-2023,Mumbai,CROMA-4167,Home Appliances,P-96493,Home Appliances 1,8,9725.31,15,Cash,18-25,Male,SR-498,4
+26-04-2023,Ahmedabad,CROMA-9051,Home Appliances,P-10012,Home Appliances 2,5,7851.56,15,Debit Card,18-25,Male,SR-405,3.2
+12-04-2023,Hyderabad,CROMA-8262,Laptops,P-59830,Laptops 19,6,21293.81,5,EMI,46-60,Male,SR-553,4.8
+28-04-2023,Kolkata,CROMA-3087,Laptops,P-30313,Laptops 11,3,35049.18,0,Credit Card,26-35,Male,SR-167,3.5
+23-04-2023,Mumbai,CROMA-8023,Mobile Phones,P-18734,Mobile Phones 13,6,7756.85,0,Cash,36-45,Female,SR-426,3.5
+07-04-2023,Hyderabad,CROMA-8633,Cameras,P-17047,Cameras 3,4,10976.13,0,Credit Card,18-25,Female,SR-744,3.7
+06-04-2023,Ahmedabad,CROMA-2639,Home Appliances,P-20043,Home Appliances 8,10,46841.73,10,Credit Card,18-25,Male,SR-526,4.7
+21-04-2023,Pune,CROMA-7899,Home Appliances,P-55577,Home Appliances 4,1,41620.26,5,Cash,46-60,Male,SR-775,4.6
+04-04-2023,Pune,CROMA-3775,Home Appliances,P-99473,Home Appliances 4,5,28747.17,10,Cash,26-35,Non-Binary,SR-883,3.5
+22-04-2023,Ahmedabad,CROMA-5352,Home Appliances,P-19554,Home Appliances 20,3,40611.49,0,Cash,26-35,Non-Binary,SR-714,3.6
+15-04-2023,Hyderabad,CROMA-1697,Cameras,P-98457,Cameras 11,5,18056.17,10,Cash,36-45,Non-Binary,SR-196,4.7
+09-04-2023,Delhi,CROMA-6057,Cameras,P-54857,Cameras 15,1,19661,5,Credit Card,26-35,Male,SR-224,4.6
+20-04-2023,Pune,CROMA-3652,Home Appliances,P-22683,Home Appliances 15,10,14245.67,15,Debit Card,46-60,Male,SR-883,4.8
+13-05-2023,Bangalore,CROMA-2495,Laptops,P-42936,Laptops 7,9,6972.12,10,Cash,18-25,Non-Binary,SR-864,4.1
+12-05-2023,Pune,CROMA-6065,Home Appliances,P-52679,Home Appliances 1,6,29598.17,10,Cash,46-60,Non-Binary,SR-972,3.9
+23-05-2023,Delhi,CROMA-9750,Mobile Phones,P-97095,Mobile Phones 11,8,31083.23,0,Debit Card,36-45,Male,SR-963,3.2
+11-05-2023,Pune,CROMA-2453,Laptops,P-11897,Laptops 17,9,15323.88,0,Credit Card,18-25,Male,SR-384,4.6
+17-05-2023,Pune,CROMA-7118,Mobile Phones,P-92928,Mobile Phones 8,8,10392.38,0,Credit Card,36-45,Female,SR-169,4.6
+11-05-2023,Chennai,CROMA-3672,Mobile Phones,P-74384,Mobile Phones 20,6,13293.27,0,Debit Card,46-60,Female,SR-517,4.5
+10-05-2023,Ahmedabad,CROMA-7700,Mobile Phones,P-94945,Mobile Phones 19,1,15464.79,0,Credit Card,46-60,Female,SR-111,4.5
+04-05-2023,Pune,CROMA-8075,Home Appliances,P-36226,Home Appliances 6,7,27591.81,5,Credit Card,18-25,Male,SR-749,3.3
+24-05-2023,Pune,CROMA-5024,Mobile Phones,P-95038,Mobile Phones 19,1,6375.97,0,Credit Card,26-35,Female,SR-443,3.1
+09-05-2023,Delhi,CROMA-7482,Home Appliances,P-41761,Home Appliances 8,6,15193.3,10,Credit Card,46-60,Non-Binary,SR-645,3.7
+14-05-2023,Chennai,CROMA-5419,Cameras,P-13767,Cameras 7,5,37959.36,15,Debit Card,36-45,Male,SR-575,3.3
+28-05-2023,Ahmedabad,CROMA-6831,Laptops,P-48899,Laptops 13,2,17882.37,5,EMI,18-25,Female,SR-472,3.7
+25-05-2023,Chennai,CROMA-3541,Laptops,P-60943,Laptops 12,8,20268.8,0,Cash,46-60,Female,SR-606,3.8
+09-05-2023,Mumbai,CROMA-2645,Laptops,P-54836,Laptops 12,6,40783.24,15,EMI,26-35,Female,SR-640,4.9
+06-05-2023,Chennai,CROMA-4477,Televisions,P-52146,Televisions 13,6,8683.33,15,UPI,18-25,Male,SR-572,3.8
+05-05-2023,Pune,CROMA-8396,Home Appliances,P-58010,Home Appliances 7,8,48490.69,5,Credit Card,18-25,Male,SR-652,5
+25-05-2023,Delhi,CROMA-3623,Televisions,P-40556,Televisions 16,2,44226.44,5,Cash,18-25,Non-Binary,SR-498,4.7
+21-05-2023,Chennai,CROMA-9391,Laptops,P-22048,Laptops 17,9,49412.6,10,Cash,18-25,Non-Binary,SR-649,4.9
+28-05-2023,Chennai,CROMA-4432,Home Appliances,P-60777,Home Appliances 18,1,31168.27,10,Credit Card,46-60,Female,SR-932,3.9
+16-05-2023,Bangalore,CROMA-5551,Laptops,P-52572,Laptops 19,6,18520.77,15,Debit Card,36-45,Non-Binary,SR-948,4.5
+20-05-2023,Chennai,CROMA-2064,Home Appliances,P-12909,Home Appliances 4,6,43065.1,10,Cash,18-25,Female,SR-378,4.1
+07-05-2023,Chennai,CROMA-4662,Home Appliances,P-26001,Home Appliances 20,1,43386.6,5,EMI,26-35,Non-Binary,SR-173,3.3
+06-05-2023,Delhi,CROMA-2760,Laptops,P-56535,Laptops 6,2,13568,15,EMI,46-60,Female,SR-378,5
+20-05-2023,Pune,CROMA-5967,Mobile Phones,P-47130,Mobile Phones 19,10,12805.45,10,Cash,36-45,Female,SR-171,4
+22-05-2023,Pune,CROMA-5298,Cameras,P-31679,Cameras 9,4,46734.78,10,Debit Card,46-60,Non-Binary,SR-173,3.7
+03-05-2023,Ahmedabad,CROMA-7977,Mobile Phones,P-43090,Mobile Phones 7,4,25463.67,10,UPI,18-25,Non-Binary,SR-463,4.4
+18-05-2023,Delhi,CROMA-1349,Laptops,P-20903,Laptops 3,5,39403.87,5,Credit Card,26-35,Female,SR-547,4.9
+28-05-2023,Kolkata,CROMA-9924,Laptops,P-81680,Laptops 18,8,10101.06,0,Debit Card,26-35,Non-Binary,SR-368,3.4
+22-05-2023,Delhi,CROMA-4836,Mobile Phones,P-41544,Mobile Phones 13,9,19036.21,10,EMI,36-45,Non-Binary,SR-349,4.3
+16-05-2023,Pune,CROMA-1252,Laptops,P-11397,Laptops 14,2,39083.97,15,EMI,26-35,Male,SR-895,3.7
+01-05-2023,Hyderabad,CROMA-6189,Mobile Phones,P-79691,Mobile Phones 3,6,34116.43,15,UPI,46-60,Non-Binary,SR-289,4
+24-05-2023,Chennai,CROMA-8303,Televisions,P-15712,Televisions 11,8,25298.91,0,Cash,18-25,Female,SR-443,4.8
+20-05-2023,Ahmedabad,CROMA-2562,Laptops,P-46926,Laptops 11,5,25815,10,Credit Card,46-60,Female,SR-950,4.1
+18-05-2023,Hyderabad,CROMA-5593,Mobile Phones,P-83316,Mobile Phones 4,4,14915.06,0,UPI,36-45,Male,SR-572,4.5
+18-05-2023,Mumbai,CROMA-9551,Cameras,P-29563,Cameras 16,1,6634.57,10,Credit Card,18-25,Male,SR-507,4.2
+12-05-2023,Kolkata,CROMA-2189,Cameras,P-22123,Cameras 5,10,25486.85,15,EMI,46-60,Male,SR-690,4.6
+06-05-2023,Delhi,CROMA-5781,Televisions,P-97306,Televisions 12,2,8217.92,5,Credit Card,26-35,Male,SR-957,4.6
+24-05-2023,Pune,CROMA-8257,Home Appliances,P-47853,Home Appliances 7,2,13636.47,15,UPI,26-35,Female,SR-111,4.1
+07-05-2023,Ahmedabad,CROMA-4931,Cameras,P-79534,Cameras 6,7,10190.24,0,EMI,46-60,Non-Binary,SR-713,5
+25-05-2023,Hyderabad,CROMA-5954,Home Appliances,P-52370,Home Appliances 18,4,25513.93,15,EMI,18-25,Non-Binary,SR-497,3.8
+07-05-2023,Hyderabad,CROMA-6053,Laptops,P-88702,Laptops 10,9,12026.77,15,UPI,18-25,Non-Binary,SR-678,4.1
+28-05-2023,Pune,CROMA-6231,Cameras,P-25405,Cameras 18,7,16944.92,0,Credit Card,26-35,Male,SR-959,3.2
+19-05-2023,Ahmedabad,CROMA-8530,Mobile Phones,P-47155,Mobile Phones 12,8,40719.41,15,Debit Card,18-25,Female,SR-824,3.9
+23-05-2023,Delhi,CROMA-1094,Televisions,P-83581,Televisions 11,5,36688.26,15,Cash,26-35,Female,SR-883,3.2
+28-05-2023,Bangalore,CROMA-6179,Laptops,P-16083,Laptops 10,8,6847.13,10,Debit Card,46-60,Female,SR-188,3.6
+18-05-2023,Pune,CROMA-6849,Televisions,P-39566,Televisions 1,5,9783.3,0,Debit Card,26-35,Male,SR-390,3.4
+15-05-2023,Hyderabad,CROMA-4143,Cameras,P-50065,Cameras 4,2,19206.56,5,UPI,26-35,Male,SR-267,4.3
+24-05-2023,Chennai,CROMA-1262,Televisions,P-23297,Televisions 5,6,16999.4,10,Cash,36-45,Female,SR-828,4.2
+27-05-2023,Hyderabad,CROMA-5434,Cameras,P-74169,Cameras 5,4,40040.6,10,Cash,46-60,Male,SR-813,4.6
+26-05-2023,Hyderabad,CROMA-9073,Cameras,P-64637,Cameras 8,4,31118.19,10,EMI,46-60,Male,SR-410,3.8
+09-05-2023,Delhi,CROMA-9950,Televisions,P-92874,Televisions 4,10,13965,5,EMI,26-35,Non-Binary,SR-863,4.3
+09-05-2023,Bangalore,CROMA-1492,Mobile Phones,P-49435,Mobile Phones 14,2,41965.61,0,Cash,46-60,Male,SR-112,4.4
+06-05-2023,Mumbai,CROMA-7719,Home Appliances,P-58371,Home Appliances 4,1,31631.11,15,UPI,26-35,Female,SR-394,3
+27-05-2023,Delhi,CROMA-1383,Home Appliances,P-14040,Home Appliances 15,5,47122.59,10,UPI,46-60,Non-Binary,SR-753,3.2
+28-05-2023,Pune,CROMA-5794,Laptops,P-53390,Laptops 13,2,22408.67,0,Cash,36-45,Female,SR-188,4.6
+19-05-2023,Hyderabad,CROMA-5060,Laptops,P-37636,Laptops 19,3,45739.49,5,UPI,46-60,Non-Binary,SR-580,3.7
+09-05-2023,Chennai,CROMA-4166,Televisions,P-39030,Televisions 14,9,24457.06,0,Credit Card,36-45,Male,SR-877,3.9
+06-05-2023,Bangalore,CROMA-8488,Televisions,P-18160,Televisions 10,10,33189.5,15,Cash,46-60,Female,SR-557,4
+05-05-2023,Mumbai,CROMA-1554,Mobile Phones,P-94378,Mobile Phones 9,9,42666.27,0,UPI,26-35,Male,SR-421,4.3
+05-05-2023,Mumbai,CROMA-3011,Laptops,P-33649,Laptops 10,7,25866.25,5,EMI,46-60,Male,SR-837,4.5
+17-05-2023,Chennai,CROMA-5967,Televisions,P-60817,Televisions 3,1,12884.67,15,Credit Card,26-35,Male,SR-684,3.2
+10-05-2023,Mumbai,CROMA-9931,Laptops,P-85260,Laptops 11,8,25386.75,15,Debit Card,46-60,Male,SR-124,4.6
+12-05-2023,Pune,CROMA-7371,Cameras,P-96416,Cameras 16,7,15395.99,10,Debit Card,26-35,Male,SR-507,3.8
+11-05-2023,Hyderabad,CROMA-9662,Mobile Phones,P-44106,Mobile Phones 4,1,7818.27,5,Credit Card,18-25,Female,SR-553,3.4
+10-05-2023,Pune,CROMA-9464,Laptops,P-90710,Laptops 1,3,32547.08,15,Debit Card,36-45,Non-Binary,SR-579,4.6
+23-05-2023,Pune,CROMA-8694,Televisions,P-17297,Televisions 8,4,29978.62,15,Debit Card,36-45,Female,SR-221,5
+27-05-2023,Kolkata,CROMA-5387,Mobile Phones,P-64211,Mobile Phones 9,6,6469.6,15,EMI,26-35,Female,SR-638,3.5
+22-05-2023,Pune,CROMA-1708,Home Appliances,P-81436,Home Appliances 4,5,39425.27,15,Credit Card,36-45,Female,SR-349,3.4
+18-05-2023,Mumbai,CROMA-3820,Cameras,P-12546,Cameras 20,4,7593.93,0,Debit Card,18-25,Non-Binary,SR-251,3.4
+06-05-2023,Mumbai,CROMA-6076,Cameras,P-65241,Cameras 1,6,33398.08,10,Debit Card,18-25,Male,SR-887,4.7
+24-05-2023,Chennai,CROMA-7351,Home Appliances,P-47522,Home Appliances 15,4,44569.17,15,Credit Card,26-35,Male,SR-511,3.7
+13-05-2023,Pune,CROMA-2454,Mobile Phones,P-33128,Mobile Phones 20,3,14556.12,5,Credit Card,26-35,Male,SR-691,3.8
+13-05-2023,Pune,CROMA-2109,Televisions,P-54406,Televisions 11,3,19309.94,0,Debit Card,36-45,Non-Binary,SR-118,4.5
+28-05-2023,Chennai,CROMA-9565,Cameras,P-72027,Cameras 7,3,46395.18,10,Debit Card,46-60,Non-Binary,SR-656,3.2
+15-05-2023,Hyderabad,CROMA-7450,Televisions,P-12118,Televisions 9,8,17769.17,10,Cash,26-35,Non-Binary,SR-988,5
+03-05-2023,Bangalore,CROMA-5406,Mobile Phones,P-95536,Mobile Phones 16,10,21035.19,5,Credit Card,36-45,Non-Binary,SR-932,3.9
+18-05-2023,Delhi,CROMA-2810,Televisions,P-29286,Televisions 19,2,29255.94,5,EMI,18-25,Male,SR-275,4.4
+14-05-2023,Ahmedabad,CROMA-7095,Cameras,P-93743,Cameras 18,8,47939.4,5,Debit Card,26-35,Female,SR-623,4.2
+06-05-2023,Pune,CROMA-3964,Mobile Phones,P-60587,Mobile Phones 3,1,6332.19,0,Cash,46-60,Male,SR-663,4.4
+08-05-2023,Ahmedabad,CROMA-7105,Home Appliances,P-13760,Home Appliances 8,6,32961.93,10,Credit Card,18-25,Non-Binary,SR-312,3.5
+08-05-2023,Ahmedabad,CROMA-6637,Home Appliances,P-38840,Home Appliances 20,3,21079.79,5,Cash,46-60,Female,SR-599,4.9
+09-05-2023,Bangalore,CROMA-2914,Cameras,P-11248,Cameras 14,7,40263.85,15,UPI,46-60,Female,SR-918,3.6
+25-05-2023,Chennai,CROMA-5422,Televisions,P-95384,Televisions 16,1,14316.76,15,Cash,18-25,Female,SR-790,4.6
+27-05-2023,Mumbai,CROMA-4145,Cameras,P-32849,Cameras 17,8,43729.55,5,Cash,18-25,Non-Binary,SR-325,4.6
+21-05-2023,Mumbai,CROMA-7808,Televisions,P-33477,Televisions 11,5,9444.89,5,Credit Card,36-45,Male,SR-869,4.9
+24-05-2023,Chennai,CROMA-8383,Laptops,P-11124,Laptops 5,5,22165.75,5,Debit Card,36-45,Male,SR-274,3.9
+06-05-2023,Delhi,CROMA-9419,Televisions,P-71064,Televisions 1,2,19528.84,0,Cash,36-45,Non-Binary,SR-355,3.6
+20-05-2023,Delhi,CROMA-7856,Home Appliances,P-40754,Home Appliances 19,4,38321.86,15,UPI,46-60,Female,SR-564,3.5
+26-05-2023,Delhi,CROMA-2032,Home Appliances,P-43146,Home Appliances 14,10,30086.16,15,Credit Card,26-35,Male,SR-311,4.5
+05-05-2023,Delhi,CROMA-1207,Televisions,P-68015,Televisions 6,10,41357.13,0,UPI,36-45,Female,SR-702,3.2
+05-05-2023,Mumbai,CROMA-6576,Home Appliances,P-86398,Home Appliances 2,9,30246.08,10,Cash,46-60,Non-Binary,SR-212,3.2
+21-05-2023,Bangalore,CROMA-5111,Laptops,P-27216,Laptops 7,7,12687.04,15,EMI,18-25,Male,SR-193,3.8
+20-05-2023,Bangalore,CROMA-7578,Laptops,P-40620,Laptops 15,9,18611.81,15,UPI,26-35,Non-Binary,SR-627,3.6
+11-05-2023,Delhi,CROMA-2286,Televisions,P-45672,Televisions 4,6,35283.14,10,EMI,26-35,Female,SR-177,4.6
+13-05-2023,Kolkata,CROMA-4608,Home Appliances,P-85665,Home Appliances 17,7,31491.73,10,Cash,36-45,Female,SR-731,4.3
+23-05-2023,Ahmedabad,CROMA-4218,Mobile Phones,P-10971,Mobile Phones 10,5,5824.75,0,EMI,36-45,Female,SR-812,3.9
+10-05-2023,Mumbai,CROMA-9524,Mobile Phones,P-61352,Mobile Phones 12,1,20278.64,15,Credit Card,36-45,Female,SR-893,4.2
+16-05-2023,Mumbai,CROMA-9756,Mobile Phones,P-48932,Mobile Phones 20,2,35374.53,10,UPI,46-60,Female,SR-626,4.2
+16-05-2023,Ahmedabad,CROMA-3160,Laptops,P-83265,Laptops 12,10,28333.34,0,Debit Card,26-35,Male,SR-527,3.5
+18-05-2023,Mumbai,CROMA-7141,Televisions,P-46840,Televisions 20,9,33567.73,5,EMI,26-35,Male,SR-831,3.6
+10-06-2023,Pune,CROMA-7799,Mobile Phones,P-22250,Mobile Phones 16,8,43446.57,0,Cash,18-25,Male,SR-672,3.2
+04-06-2023,Bangalore,CROMA-6084,Home Appliances,P-74053,Home Appliances 2,4,31133.67,15,Cash,18-25,Male,SR-824,3.1
+14-06-2023,Hyderabad,CROMA-9790,Televisions,P-71997,Televisions 8,5,13181.84,0,EMI,26-35,Non-Binary,SR-747,3.7
+24-06-2023,Mumbai,CROMA-6307,Mobile Phones,P-37566,Mobile Phones 7,3,46124.88,0,Credit Card,18-25,Female,SR-122,4.4
+08-06-2023,Hyderabad,CROMA-5292,Home Appliances,P-85799,Home Appliances 13,3,7637.24,0,UPI,18-25,Non-Binary,SR-351,4.6
+09-06-2023,Chennai,CROMA-7074,Home Appliances,P-55412,Home Appliances 19,6,30995.81,15,Debit Card,36-45,Female,SR-997,3.2
+02-06-2023,Ahmedabad,CROMA-3637,Laptops,P-63280,Laptops 3,4,18154.43,5,Debit Card,46-60,Male,SR-961,4.5
+18-06-2023,Delhi,CROMA-2158,Mobile Phones,P-60722,Mobile Phones 6,8,36636.44,5,EMI,36-45,Male,SR-762,4.8
+15-06-2023,Ahmedabad,CROMA-1922,Televisions,P-55003,Televisions 6,2,7942.79,10,UPI,18-25,Non-Binary,SR-216,3.1
+05-06-2023,Ahmedabad,CROMA-3694,Mobile Phones,P-34815,Mobile Phones 9,5,23239.09,15,Credit Card,36-45,Male,SR-843,3.3
+28-06-2023,Ahmedabad,CROMA-8790,Cameras,P-72127,Cameras 20,2,33673.99,10,UPI,36-45,Male,SR-951,4.3
+18-06-2023,Chennai,CROMA-1630,Laptops,P-71360,Laptops 2,8,28911.11,5,EMI,36-45,Non-Binary,SR-454,3.1
+24-06-2023,Mumbai,CROMA-2394,Mobile Phones,P-88164,Mobile Phones 20,6,20895.8,0,UPI,18-25,Female,SR-551,3.4
+22-06-2023,Ahmedabad,CROMA-9920,Laptops,P-16147,Laptops 5,7,34156.79,15,EMI,18-25,Female,SR-863,4.1
+01-06-2023,Bangalore,CROMA-8693,Televisions,P-89220,Televisions 16,3,39910.81,5,Cash,46-60,Non-Binary,SR-948,3.7
+09-06-2023,Hyderabad,CROMA-4035,Laptops,P-42816,Laptops 7,3,21842.89,5,Credit Card,26-35,Male,SR-796,3.5
+18-06-2023,Kolkata,CROMA-1047,Home Appliances,P-24213,Home Appliances 20,3,33985.8,10,Cash,36-45,Male,SR-899,3.6
+17-06-2023,Pune,CROMA-1518,Mobile Phones,P-31551,Mobile Phones 10,9,12556.48,10,EMI,46-60,Female,SR-502,3.6
+18-06-2023,Ahmedabad,CROMA-4461,Mobile Phones,P-20609,Mobile Phones 2,3,13463.66,5,Cash,46-60,Non-Binary,SR-164,3.8
+11-06-2023,Hyderabad,CROMA-7469,Televisions,P-41881,Televisions 7,3,30924.49,0,Credit Card,46-60,Female,SR-232,3.5
+03-06-2023,Ahmedabad,CROMA-9369,Cameras,P-18680,Cameras 19,9,46417.73,15,Debit Card,36-45,Female,SR-910,3.2
+02-06-2023,Chennai,CROMA-8475,Laptops,P-27639,Laptops 12,8,32172.93,15,Debit Card,18-25,Non-Binary,SR-602,4.7
+08-06-2023,Ahmedabad,CROMA-6813,Laptops,P-86685,Laptops 9,4,9394.54,10,EMI,46-60,Female,SR-674,4.8
+13-06-2023,Ahmedabad,CROMA-3758,Cameras,P-77063,Cameras 19,8,18936.49,15,UPI,18-25,Male,SR-979,3.4
+03-06-2023,Mumbai,CROMA-1711,Televisions,P-59624,Televisions 14,3,11412.63,10,UPI,26-35,Female,SR-442,4.3
+06-06-2023,Kolkata,CROMA-2095,Home Appliances,P-47117,Home Appliances 3,4,42376.51,0,EMI,36-45,Female,SR-748,3.1
+06-06-2023,Pune,CROMA-1260,Laptops,P-82504,Laptops 12,5,39430.39,5,Debit Card,36-45,Male,SR-420,3.6
+07-06-2023,Delhi,CROMA-3081,Laptops,P-84963,Laptops 2,6,22522.16,15,Credit Card,26-35,Male,SR-724,3.4
+18-06-2023,Delhi,CROMA-9434,Laptops,P-58876,Laptops 18,5,9250.13,5,Cash,36-45,Non-Binary,SR-794,3.7
+19-06-2023,Kolkata,CROMA-9209,Cameras,P-91836,Cameras 6,5,36581.99,5,Credit Card,18-25,Non-Binary,SR-282,4.4
+08-06-2023,Ahmedabad,CROMA-3273,Mobile Phones,P-75846,Mobile Phones 8,2,40371.66,15,UPI,26-35,Non-Binary,SR-250,4.1
+28-06-2023,Kolkata,CROMA-1628,Laptops,P-71062,Laptops 14,10,35576.27,10,Debit Card,36-45,Non-Binary,SR-917,3.9
+03-06-2023,Hyderabad,CROMA-3397,Televisions,P-91610,Televisions 8,1,48721.53,5,Debit Card,46-60,Non-Binary,SR-115,3.5
+15-06-2023,Ahmedabad,CROMA-9438,Mobile Phones,P-39112,Mobile Phones 4,8,34766.33,15,Credit Card,18-25,Male,SR-655,4.9
+03-06-2023,Mumbai,CROMA-3113,Cameras,P-65299,Cameras 3,10,46531.39,0,Debit Card,26-35,Male,SR-783,4.6
+26-06-2023,Pune,CROMA-4407,Home Appliances,P-60148,Home Appliances 7,4,28437.21,0,EMI,26-35,Male,SR-854,3.3
+28-06-2023,Delhi,CROMA-5501,Televisions,P-84777,Televisions 9,2,37940,0,EMI,18-25,Female,SR-141,3.5
+20-06-2023,Kolkata,CROMA-5585,Mobile Phones,P-41124,Mobile Phones 15,5,44134.11,0,UPI,46-60,Non-Binary,SR-104,3
+01-06-2023,Mumbai,CROMA-4811,Cameras,P-84482,Cameras 12,4,5276.97,15,Cash,18-25,Female,SR-666,4.1
+15-06-2023,Kolkata,CROMA-5337,Laptops,P-48375,Laptops 6,8,40408.22,15,UPI,46-60,Male,SR-985,3.7
+13-06-2023,Kolkata,CROMA-8823,Televisions,P-60712,Televisions 15,1,29328.94,10,Cash,26-35,Male,SR-917,4.4
+17-06-2023,Chennai,CROMA-2671,Home Appliances,P-78259,Home Appliances 8,2,16447.57,10,Credit Card,26-35,Female,SR-364,4.7
+17-06-2023,Pune,CROMA-3753,Laptops,P-45416,Laptops 15,3,37799.05,0,Cash,26-35,Male,SR-476,3.9
+03-06-2023,Delhi,CROMA-4574,Televisions,P-67989,Televisions 6,9,11406.02,10,Credit Card,36-45,Female,SR-617,4.1
+12-06-2023,Kolkata,CROMA-2999,Mobile Phones,P-29175,Mobile Phones 4,10,11290.91,0,Debit Card,18-25,Male,SR-416,3.5
+21-06-2023,Kolkata,CROMA-7025,Cameras,P-12722,Cameras 12,2,15189.71,0,UPI,26-35,Male,SR-997,3.7
+15-06-2023,Hyderabad,CROMA-7804,Cameras,P-85438,Cameras 20,5,25857.29,10,Cash,26-35,Male,SR-272,3.5
+03-06-2023,Kolkata,CROMA-4852,Home Appliances,P-88323,Home Appliances 5,10,42386.99,0,UPI,46-60,Non-Binary,SR-401,4.8
+15-06-2023,Delhi,CROMA-4076,Televisions,P-56236,Televisions 10,3,13873.1,5,EMI,36-45,Female,SR-542,4.1
+04-06-2023,Ahmedabad,CROMA-3937,Mobile Phones,P-49858,Mobile Phones 6,8,39742.94,5,EMI,36-45,Non-Binary,SR-891,3.5
+21-06-2023,Hyderabad,CROMA-7707,Laptops,P-50695,Laptops 7,2,8990.48,0,Cash,36-45,Non-Binary,SR-153,4.3
+24-06-2023,Kolkata,CROMA-4593,Mobile Phones,P-77357,Mobile Phones 8,7,43960.14,0,UPI,46-60,Non-Binary,SR-510,4.2
+11-06-2023,Ahmedabad,CROMA-2816,Televisions,P-79946,Televisions 1,4,42985.54,5,Credit Card,26-35,Male,SR-841,4.4
+10-06-2023,Hyderabad,CROMA-6251,Televisions,P-46509,Televisions 16,8,38514.84,10,Credit Card,36-45,Female,SR-138,3
+11-06-2023,Chennai,CROMA-6873,Laptops,P-76765,Laptops 3,6,38336.22,5,Credit Card,46-60,Male,SR-680,4.4
+21-06-2023,Chennai,CROMA-5230,Laptops,P-25817,Laptops 15,4,20716.07,0,Cash,46-60,Non-Binary,SR-799,4.2
+19-06-2023,Delhi,CROMA-1504,Televisions,P-32842,Televisions 6,1,19625.08,5,Cash,26-35,Male,SR-426,3.1
+28-06-2023,Mumbai,CROMA-5451,Mobile Phones,P-39782,Mobile Phones 6,6,47824.69,10,EMI,36-45,Male,SR-668,3.9
+12-06-2023,Ahmedabad,CROMA-3890,Mobile Phones,P-73984,Mobile Phones 17,8,35716.76,5,Debit Card,18-25,Female,SR-863,4.6
+13-06-2023,Hyderabad,CROMA-7216,Home Appliances,P-80868,Home Appliances 19,2,44328.09,15,Debit Card,26-35,Non-Binary,SR-678,4
+11-06-2023,Delhi,CROMA-6624,Laptops,P-15745,Laptops 17,9,21892.15,15,UPI,26-35,Female,SR-540,3.9
+09-06-2023,Chennai,CROMA-8762,Laptops,P-10631,Laptops 12,3,40080.66,5,Cash,46-60,Male,SR-861,3.9
+26-06-2023,Chennai,CROMA-8052,Cameras,P-19824,Cameras 20,3,29367.39,15,Debit Card,26-35,Non-Binary,SR-829,3.5
+28-06-2023,Kolkata,CROMA-2693,Cameras,P-94746,Cameras 8,2,47347.09,0,Cash,46-60,Non-Binary,SR-723,4.5
+26-06-2023,Chennai,CROMA-5578,Televisions,P-64845,Televisions 18,10,14182.71,10,Cash,18-25,Female,SR-203,3.3
+24-06-2023,Bangalore,CROMA-9319,Televisions,P-86036,Televisions 10,2,36269.41,10,EMI,18-25,Male,SR-293,3.2
+03-06-2023,Ahmedabad,CROMA-8893,Laptops,P-43665,Laptops 6,6,17330.51,5,EMI,46-60,Non-Binary,SR-915,3.8
+02-06-2023,Chennai,CROMA-8869,Televisions,P-74878,Televisions 2,2,41876.82,10,EMI,26-35,Female,SR-689,4.5
+12-06-2023,Ahmedabad,CROMA-5904,Televisions,P-82597,Televisions 9,8,47384.59,15,Credit Card,18-25,Female,SR-250,3.1
+24-06-2023,Delhi,CROMA-7908,Cameras,P-22005,Cameras 19,4,37514.81,5,Cash,26-35,Male,SR-999,3.2
+23-06-2023,Bangalore,CROMA-6080,Televisions,P-38200,Televisions 12,5,5760.48,5,UPI,36-45,Female,SR-177,3.6
+18-06-2023,Delhi,CROMA-2413,Cameras,P-55680,Cameras 13,2,19340.4,0,Cash,46-60,Female,SR-128,3.3
+14-06-2023,Delhi,CROMA-4161,Televisions,P-17884,Televisions 17,5,8221.68,10,Cash,46-60,Non-Binary,SR-936,3.2
+26-06-2023,Pune,CROMA-6484,Televisions,P-55400,Televisions 12,10,33032.34,0,Debit Card,46-60,Female,SR-986,3.6
+24-06-2023,Pune,CROMA-8166,Home Appliances,P-35670,Home Appliances 6,10,32210.08,5,EMI,36-45,Male,SR-329,3.3
+08-06-2023,Ahmedabad,CROMA-7549,Laptops,P-12666,Laptops 13,7,21700.59,5,EMI,26-35,Male,SR-147,3
+01-06-2023,Bangalore,CROMA-8323,Laptops,P-47482,Laptops 17,1,37627.48,15,UPI,26-35,Female,SR-379,3.5
+22-06-2023,Mumbai,CROMA-1353,Laptops,P-51647,Laptops 3,8,44916.93,5,EMI,36-45,Non-Binary,SR-780,4.1
+20-06-2023,Kolkata,CROMA-7778,Mobile Phones,P-10963,Mobile Phones 17,5,40170.1,0,Debit Card,46-60,Male,SR-160,4.1
+24-06-2023,Hyderabad,CROMA-9285,Home Appliances,P-55408,Home Appliances 9,3,44957.33,0,Debit Card,18-25,Female,SR-332,3.8
+28-06-2023,Pune,CROMA-9034,Cameras,P-27919,Cameras 4,6,12023.64,0,UPI,26-35,Non-Binary,SR-936,3.7
+24-06-2023,Mumbai,CROMA-7587,Televisions,P-25342,Televisions 4,5,28972.4,5,Cash,18-25,Non-Binary,SR-840,3.7
+19-06-2023,Mumbai,CROMA-7763,Home Appliances,P-71279,Home Appliances 7,9,19681.47,0,Cash,26-35,Female,SR-614,4.7
+21-06-2023,Delhi,CROMA-2837,Cameras,P-76020,Cameras 15,10,41355.48,10,EMI,26-35,Male,SR-648,3
+14-06-2023,Mumbai,CROMA-1958,Cameras,P-62480,Cameras 14,2,27636.05,5,UPI,26-35,Male,SR-246,3.7
+20-06-2023,Chennai,CROMA-8396,Home Appliances,P-60166,Home Appliances 7,9,43522.38,5,Credit Card,36-45,Non-Binary,SR-811,3.4
+03-06-2023,Mumbai,CROMA-4540,Home Appliances,P-64889,Home Appliances 19,9,7073.93,0,Debit Card,18-25,Male,SR-285,3.3
+22-06-2023,Mumbai,CROMA-2923,Televisions,P-41207,Televisions 4,2,12661.49,0,Credit Card,26-35,Non-Binary,SR-748,4.4
+01-06-2023,Hyderabad,CROMA-9687,Televisions,P-75358,Televisions 3,4,34392.32,15,Credit Card,46-60,Non-Binary,SR-387,3.4
+15-06-2023,Delhi,CROMA-1897,Mobile Phones,P-48434,Mobile Phones 11,6,44380.98,5,Credit Card,36-45,Female,SR-355,3
+15-06-2023,Kolkata,CROMA-2468,Televisions,P-90498,Televisions 20,2,40993.52,0,EMI,18-25,Non-Binary,SR-844,4.7
+08-06-2023,Ahmedabad,CROMA-2924,Mobile Phones,P-19619,Mobile Phones 9,3,26664.78,10,EMI,36-45,Male,SR-173,4.7
+25-06-2023,Pune,CROMA-7998,Televisions,P-73070,Televisions 5,2,36080.56,10,Debit Card,18-25,Female,SR-214,4.9
+02-06-2023,Delhi,CROMA-8228,Laptops,P-14391,Laptops 10,3,26832.93,15,Credit Card,36-45,Non-Binary,SR-672,3.3
+13-06-2023,Mumbai,CROMA-4004,Mobile Phones,P-84368,Mobile Phones 16,5,18051.2,10,Credit Card,26-35,Female,SR-462,3
+04-06-2023,Bangalore,CROMA-3220,Home Appliances,P-39336,Home Appliances 6,9,45170.15,0,Debit Card,18-25,Non-Binary,SR-242,3.4
+15-06-2023,Pune,CROMA-2752,Laptops,P-38634,Laptops 3,5,42768.52,10,Debit Card,46-60,Non-Binary,SR-696,3.9
+24-06-2023,Mumbai,CROMA-5945,Laptops,P-97565,Laptops 6,1,38773.28,5,Credit Card,26-35,Non-Binary,SR-333,3.5
+08-06-2023,Bangalore,CROMA-3373,Laptops,P-42339,Laptops 3,7,41704.42,10,Cash,18-25,Female,SR-108,4.4
+26-06-2023,Kolkata,CROMA-3368,Mobile Phones,P-55927,Mobile Phones 5,3,20814.65,15,EMI,46-60,Male,SR-238,4.6
+19-07-2023,Kolkata,CROMA-3973,Mobile Phones,P-48045,Mobile Phones 14,9,33116.08,5,Debit Card,18-25,Female,SR-811,4.2
+27-07-2023,Delhi,CROMA-9312,Televisions,P-59788,Televisions 4,3,13657.41,10,UPI,18-25,Male,SR-528,3.1
+02-07-2023,Bangalore,CROMA-9032,Laptops,P-53778,Laptops 20,4,14221.23,5,Debit Card,46-60,Non-Binary,SR-473,4.2
+18-07-2023,Bangalore,CROMA-3385,Televisions,P-39848,Televisions 5,1,20890.56,10,UPI,36-45,Female,SR-854,3.6
+16-07-2023,Chennai,CROMA-9760,Cameras,P-20837,Cameras 20,3,15119.12,15,EMI,18-25,Male,SR-872,4.8
+08-07-2023,Delhi,CROMA-1175,Mobile Phones,P-33977,Mobile Phones 2,7,42955.05,0,Cash,18-25,Non-Binary,SR-367,3
+17-07-2023,Pune,CROMA-1395,Mobile Phones,P-52636,Mobile Phones 15,6,20602.67,0,EMI,46-60,Non-Binary,SR-327,4.1
+12-07-2023,Pune,CROMA-5752,Cameras,P-86807,Cameras 5,6,32892.57,0,EMI,26-35,Non-Binary,SR-536,3.6
+04-07-2023,Ahmedabad,CROMA-3311,Televisions,P-81353,Televisions 15,2,49366.03,15,Credit Card,26-35,Non-Binary,SR-858,3.8
+10-07-2023,Hyderabad,CROMA-8135,Home Appliances,P-70599,Home Appliances 19,1,12736.36,10,EMI,36-45,Female,SR-913,3.1
+16-07-2023,Chennai,CROMA-8518,Cameras,P-91948,Cameras 17,9,21116.97,10,Credit Card,26-35,Female,SR-599,4.1
+20-07-2023,Delhi,CROMA-4145,Mobile Phones,P-66962,Mobile Phones 8,8,12828.24,15,EMI,36-45,Non-Binary,SR-468,3.7
+11-07-2023,Chennai,CROMA-3560,Home Appliances,P-96621,Home Appliances 8,5,35665.43,15,Debit Card,18-25,Non-Binary,SR-489,4
+01-07-2023,Ahmedabad,CROMA-7885,Televisions,P-16282,Televisions 16,8,23334.22,0,Credit Card,18-25,Non-Binary,SR-476,4.3
+21-07-2023,Ahmedabad,CROMA-3922,Mobile Phones,P-37725,Mobile Phones 12,2,37601.41,15,Debit Card,36-45,Male,SR-896,4.4
+20-07-2023,Hyderabad,CROMA-4819,Laptops,P-38665,Laptops 12,8,8044.07,10,EMI,26-35,Female,SR-462,3.1
+04-07-2023,Pune,CROMA-2438,Mobile Phones,P-44992,Mobile Phones 4,6,45219.89,10,Credit Card,18-25,Male,SR-308,3.9
+23-07-2023,Chennai,CROMA-7662,Cameras,P-67025,Cameras 20,7,27682.97,0,Credit Card,36-45,Non-Binary,SR-647,3.3
+09-07-2023,Ahmedabad,CROMA-5885,Home Appliances,P-36086,Home Appliances 3,7,10501.37,15,UPI,18-25,Male,SR-378,3.6
+01-07-2023,Pune,CROMA-2490,Mobile Phones,P-87384,Mobile Phones 3,7,24343.71,0,Debit Card,26-35,Male,SR-627,3.5
+24-07-2023,Chennai,CROMA-8383,Home Appliances,P-84501,Home Appliances 20,2,38390.39,0,Credit Card,46-60,Non-Binary,SR-862,4.2
+03-07-2023,Mumbai,CROMA-7526,Home Appliances,P-25397,Home Appliances 9,9,40333.59,0,Cash,26-35,Non-Binary,SR-375,3.6
+27-07-2023,Ahmedabad,CROMA-1911,Televisions,P-23277,Televisions 17,2,39166.74,15,Cash,18-25,Male,SR-443,3.2
+02-07-2023,Hyderabad,CROMA-3405,Mobile Phones,P-32030,Mobile Phones 17,2,21107.48,0,Debit Card,18-25,Male,SR-985,4.1
+26-07-2023,Hyderabad,CROMA-6019,Laptops,P-16216,Laptops 4,3,10925.3,10,Cash,36-45,Female,SR-221,3.3
+13-07-2023,Kolkata,CROMA-1785,Mobile Phones,P-87478,Mobile Phones 1,2,45285.16,5,Cash,18-25,Male,SR-363,3.5
+24-07-2023,Delhi,CROMA-6211,Televisions,P-56975,Televisions 13,2,9093.65,15,Debit Card,36-45,Male,SR-145,4.6
+23-07-2023,Chennai,CROMA-4178,Cameras,P-42582,Cameras 4,4,27739.72,0,Cash,18-25,Female,SR-386,4.1
+01-07-2023,Pune,CROMA-2677,Cameras,P-76645,Cameras 5,3,24060.3,10,Cash,18-25,Male,SR-648,4
+13-07-2023,Hyderabad,CROMA-6432,Televisions,P-82472,Televisions 4,5,18069.72,0,Cash,26-35,Female,SR-220,4.4
+18-07-2023,Delhi,CROMA-8239,Laptops,P-69747,Laptops 13,4,21382.22,0,Cash,36-45,Female,SR-762,3.1
+05-07-2023,Pune,CROMA-1542,Laptops,P-47792,Laptops 1,5,13776.09,10,UPI,36-45,Female,SR-670,3.7
+25-07-2023,Pune,CROMA-9308,Televisions,P-52975,Televisions 4,7,30472.13,0,Cash,26-35,Female,SR-151,3.4
+23-07-2023,Delhi,CROMA-8279,Laptops,P-27799,Laptops 6,10,45143.23,15,Cash,26-35,Male,SR-380,4.5
+05-07-2023,Kolkata,CROMA-3024,Home Appliances,P-75842,Home Appliances 18,9,43149.07,10,Debit Card,18-25,Female,SR-723,3.9
+09-07-2023,Hyderabad,CROMA-2782,Televisions,P-57998,Televisions 20,6,22321.61,10,Credit Card,36-45,Male,SR-577,4.2
+18-07-2023,Delhi,CROMA-9628,Televisions,P-91073,Televisions 6,1,31703.24,10,EMI,36-45,Female,SR-850,3.8
+09-07-2023,Mumbai,CROMA-4640,Cameras,P-12196,Cameras 16,10,46774.53,5,EMI,26-35,Female,SR-596,3.9
+28-07-2023,Mumbai,CROMA-2673,Cameras,P-42483,Cameras 12,10,35614.47,15,EMI,36-45,Female,SR-700,5
+18-07-2023,Mumbai,CROMA-5202,Cameras,P-83291,Cameras 18,10,36822.67,15,EMI,46-60,Female,SR-548,4.4
+19-07-2023,Kolkata,CROMA-4347,Laptops,P-79147,Laptops 7,6,10000.59,5,UPI,26-35,Female,SR-919,3.1
+01-07-2023,Pune,CROMA-6207,Televisions,P-72066,Televisions 18,8,20561.5,0,Credit Card,46-60,Female,SR-608,3.3
+21-07-2023,Kolkata,CROMA-4413,Televisions,P-35545,Televisions 16,3,29706.72,0,EMI,36-45,Male,SR-462,3.7
+23-07-2023,Chennai,CROMA-6496,Home Appliances,P-56823,Home Appliances 11,5,29289.91,5,Credit Card,18-25,Male,SR-933,4.2
+15-07-2023,Hyderabad,CROMA-2873,Televisions,P-21564,Televisions 16,2,23216.9,0,Debit Card,36-45,Female,SR-213,3.6
+27-07-2023,Kolkata,CROMA-9449,Laptops,P-54038,Laptops 1,3,7660.95,10,UPI,18-25,Female,SR-839,4.3
+18-07-2023,Hyderabad,CROMA-8360,Home Appliances,P-64033,Home Appliances 4,2,31437.7,10,EMI,18-25,Female,SR-860,3.4
+01-07-2023,Ahmedabad,CROMA-3244,Cameras,P-29122,Cameras 3,8,30550.09,15,EMI,26-35,Non-Binary,SR-229,4.9
+12-07-2023,Pune,CROMA-9219,Laptops,P-75582,Laptops 14,10,23248.61,0,Credit Card,46-60,Non-Binary,SR-756,3.3
+06-07-2023,Hyderabad,CROMA-4817,Home Appliances,P-77890,Home Appliances 10,2,18472.72,5,UPI,36-45,Non-Binary,SR-876,4.3
+28-07-2023,Ahmedabad,CROMA-3736,Mobile Phones,P-48193,Mobile Phones 19,6,20071.46,0,Cash,18-25,Male,SR-633,3.5
+25-07-2023,Mumbai,CROMA-8917,Cameras,P-51783,Cameras 12,9,49160.62,0,UPI,46-60,Non-Binary,SR-354,4.4
+24-07-2023,Hyderabad,CROMA-8625,Home Appliances,P-20804,Home Appliances 8,4,30042.62,10,EMI,18-25,Female,SR-249,4.2
+18-07-2023,Chennai,CROMA-6003,Laptops,P-20224,Laptops 2,3,15891.19,15,Cash,26-35,Female,SR-893,5
+26-07-2023,Hyderabad,CROMA-5000,Laptops,P-65809,Laptops 19,3,8992.03,5,Credit Card,46-60,Male,SR-954,4
+23-07-2023,Chennai,CROMA-2283,Cameras,P-42123,Cameras 13,6,9777.79,10,Debit Card,36-45,Male,SR-812,4.8
+07-07-2023,Hyderabad,CROMA-6285,Televisions,P-67030,Televisions 11,1,17185.9,10,EMI,18-25,Male,SR-169,4.2
+13-07-2023,Chennai,CROMA-2235,Laptops,P-76550,Laptops 12,3,45348.12,10,Cash,26-35,Male,SR-473,4.7
+16-07-2023,Chennai,CROMA-7174,Laptops,P-58592,Laptops 4,8,10489.79,5,Debit Card,46-60,Non-Binary,SR-105,3.6
+09-07-2023,Delhi,CROMA-1733,Laptops,P-46790,Laptops 3,10,23369.47,10,Debit Card,46-60,Male,SR-388,3.4
+28-07-2023,Delhi,CROMA-5764,Laptops,P-38990,Laptops 20,6,8359.46,5,Cash,36-45,Non-Binary,SR-642,4.5
+02-07-2023,Delhi,CROMA-1799,Cameras,P-88327,Cameras 4,10,23817.98,10,EMI,46-60,Male,SR-760,3.8
+03-07-2023,Delhi,CROMA-8097,Mobile Phones,P-48403,Mobile Phones 10,9,36584.18,10,UPI,26-35,Non-Binary,SR-881,4.2
+27-07-2023,Ahmedabad,CROMA-2148,Laptops,P-99201,Laptops 16,8,40047.97,15,EMI,36-45,Non-Binary,SR-461,3.2
+25-07-2023,Kolkata,CROMA-8140,Home Appliances,P-93423,Home Appliances 11,8,39672.17,10,EMI,18-25,Male,SR-250,4.3
+06-07-2023,Hyderabad,CROMA-3239,Laptops,P-89991,Laptops 15,4,19870.88,5,UPI,46-60,Female,SR-938,4.4
+12-07-2023,Mumbai,CROMA-6706,Cameras,P-11610,Cameras 6,8,37256.74,15,Debit Card,18-25,Female,SR-718,4
+13-07-2023,Ahmedabad,CROMA-6007,Cameras,P-81628,Cameras 16,4,26934.65,10,EMI,46-60,Non-Binary,SR-524,4.2
+19-07-2023,Bangalore,CROMA-6524,Cameras,P-66297,Cameras 4,10,32829.12,10,EMI,46-60,Female,SR-395,4.2
+02-07-2023,Pune,CROMA-5778,Cameras,P-35465,Cameras 3,1,23210.33,0,Credit Card,36-45,Non-Binary,SR-540,3.8
+25-07-2023,Pune,CROMA-6442,Cameras,P-21016,Cameras 15,4,14604.23,0,Cash,36-45,Female,SR-930,3.2
+19-07-2023,Chennai,CROMA-8163,Televisions,P-68021,Televisions 3,10,37246.75,10,Credit Card,18-25,Male,SR-683,3.9
+20-07-2023,Chennai,CROMA-7174,Home Appliances,P-12696,Home Appliances 19,7,39513.56,0,EMI,26-35,Non-Binary,SR-822,3.3
+10-07-2023,Mumbai,CROMA-3300,Home Appliances,P-23706,Home Appliances 13,6,17751.86,15,EMI,18-25,Non-Binary,SR-923,4.1
+05-07-2023,Kolkata,CROMA-6702,Laptops,P-24060,Laptops 4,5,5860.96,0,UPI,26-35,Female,SR-780,4.8
+01-07-2023,Chennai,CROMA-4517,Home Appliances,P-89691,Home Appliances 19,2,29992.12,0,Credit Card,18-25,Female,SR-661,4.7
+16-07-2023,Pune,CROMA-2581,Laptops,P-10898,Laptops 7,10,18639.51,0,Cash,36-45,Male,SR-639,3.4
+25-07-2023,Mumbai,CROMA-7688,Cameras,P-24281,Cameras 16,8,8547.89,10,Credit Card,36-45,Male,SR-229,3.3
+16-07-2023,Delhi,CROMA-6470,Laptops,P-75336,Laptops 16,2,18679.19,10,Debit Card,46-60,Non-Binary,SR-122,4.3
+18-07-2023,Ahmedabad,CROMA-3947,Home Appliances,P-16129,Home Appliances 13,9,26482.01,15,Cash,36-45,Female,SR-105,4.3
+08-07-2023,Ahmedabad,CROMA-1329,Televisions,P-24875,Televisions 4,4,11305.84,15,UPI,26-35,Non-Binary,SR-105,3.8
+17-07-2023,Chennai,CROMA-7321,Laptops,P-81352,Laptops 5,5,28043,10,UPI,18-25,Non-Binary,SR-558,3.4
+09-07-2023,Kolkata,CROMA-7294,Televisions,P-12439,Televisions 7,6,13128.44,5,UPI,26-35,Non-Binary,SR-871,3.3
+20-07-2023,Hyderabad,CROMA-2008,Laptops,P-97879,Laptops 9,6,35765.38,10,Credit Card,46-60,Female,SR-372,3.4
+08-07-2023,Pune,CROMA-9208,Laptops,P-96442,Laptops 15,4,21950.36,5,Credit Card,36-45,Male,SR-696,4.1
+06-07-2023,Kolkata,CROMA-6540,Cameras,P-65085,Cameras 10,5,13005.06,10,Cash,36-45,Female,SR-282,4.2
+10-07-2023,Kolkata,CROMA-4745,Cameras,P-35524,Cameras 16,3,18355.86,15,Credit Card,18-25,Non-Binary,SR-533,4.5
+03-07-2023,Mumbai,CROMA-9007,Televisions,P-37627,Televisions 3,4,15729.47,5,Credit Card,46-60,Male,SR-963,3
+19-07-2023,Bangalore,CROMA-5397,Televisions,P-46919,Televisions 9,1,28711.25,15,Credit Card,46-60,Female,SR-982,4.9
+20-07-2023,Hyderabad,CROMA-3839,Mobile Phones,P-38589,Mobile Phones 11,5,48947.95,15,UPI,18-25,Male,SR-166,3.2
+05-07-2023,Bangalore,CROMA-3457,Mobile Phones,P-80745,Mobile Phones 7,3,47387.2,15,EMI,18-25,Male,SR-521,4.1
+15-07-2023,Ahmedabad,CROMA-3208,Televisions,P-76135,Televisions 6,1,8184.16,10,Credit Card,36-45,Male,SR-554,3.5
+18-07-2023,Pune,CROMA-4930,Home Appliances,P-29003,Home Appliances 20,9,24151.48,5,Credit Card,46-60,Male,SR-640,3.4
+25-07-2023,Pune,CROMA-2162,Cameras,P-69685,Cameras 8,7,19139.69,15,UPI,26-35,Male,SR-294,4.1
+26-07-2023,Chennai,CROMA-8741,Mobile Phones,P-90453,Mobile Phones 3,2,15134.39,15,Credit Card,18-25,Female,SR-389,3.7
+16-07-2023,Hyderabad,CROMA-6198,Televisions,P-22444,Televisions 9,3,6648.45,0,Debit Card,26-35,Female,SR-701,3
+06-07-2023,Bangalore,CROMA-1355,Cameras,P-32416,Cameras 20,7,18928.64,10,EMI,36-45,Female,SR-879,4.6
+27-07-2023,Bangalore,CROMA-7672,Laptops,P-94076,Laptops 7,8,20197.32,15,EMI,46-60,Female,SR-347,3.7
+14-07-2023,Chennai,CROMA-6559,Home Appliances,P-75088,Home Appliances 11,1,12143.2,15,Cash,46-60,Female,SR-254,3.8
+22-07-2023,Pune,CROMA-3966,Cameras,P-56224,Cameras 8,8,30681.4,15,EMI,26-35,Female,SR-996,4.6
+03-08-2023,Hyderabad,CROMA-8184,Mobile Phones,P-30764,Mobile Phones 9,2,44219.11,15,Cash,46-60,Non-Binary,SR-852,3
+02-08-2023,Hyderabad,CROMA-3639,Home Appliances,P-67459,Home Appliances 8,3,16127.91,0,Credit Card,18-25,Male,SR-378,3.4
+12-08-2023,Chennai,CROMA-8852,Televisions,P-72629,Televisions 16,9,48089.17,15,EMI,18-25,Female,SR-188,3.2
+19-08-2023,Bangalore,CROMA-6603,Televisions,P-74990,Televisions 17,6,19829.44,15,Debit Card,18-25,Female,SR-605,3.2
+23-08-2023,Bangalore,CROMA-5199,Televisions,P-79552,Televisions 20,5,32597.46,0,Credit Card,26-35,Non-Binary,SR-871,4
+22-08-2023,Ahmedabad,CROMA-5685,Mobile Phones,P-83550,Mobile Phones 15,1,35849.63,15,Debit Card,46-60,Male,SR-327,3.3
+25-08-2023,Pune,CROMA-3346,Mobile Phones,P-90693,Mobile Phones 1,3,22822.46,5,UPI,36-45,Non-Binary,SR-200,4.5
+05-08-2023,Bangalore,CROMA-5597,Laptops,P-39844,Laptops 8,6,41990.64,0,UPI,26-35,Female,SR-705,4
+11-08-2023,Chennai,CROMA-7461,Televisions,P-83097,Televisions 18,7,10338.81,5,Credit Card,36-45,Male,SR-455,3.8
+21-08-2023,Chennai,CROMA-3666,Laptops,P-84521,Laptops 9,2,23037.65,15,UPI,36-45,Male,SR-527,3.2
+03-08-2023,Delhi,CROMA-3061,Televisions,P-70685,Televisions 12,4,7899.95,10,UPI,46-60,Female,SR-339,3.9
+15-08-2023,Mumbai,CROMA-1582,Mobile Phones,P-58542,Mobile Phones 13,1,27575.81,10,Credit Card,46-60,Male,SR-830,4.7
+18-08-2023,Kolkata,CROMA-8326,Cameras,P-78252,Cameras 3,10,12667.5,15,Cash,46-60,Male,SR-184,3.5
+24-08-2023,Delhi,CROMA-5005,Televisions,P-95888,Televisions 11,1,39907.38,10,Credit Card,18-25,Non-Binary,SR-852,4.7
+26-08-2023,Mumbai,CROMA-2570,Mobile Phones,P-40191,Mobile Phones 19,4,14287.82,10,Credit Card,46-60,Male,SR-111,4.1
+06-08-2023,Chennai,CROMA-1130,Televisions,P-43397,Televisions 14,7,22844.71,5,Credit Card,36-45,Non-Binary,SR-210,3
+21-08-2023,Mumbai,CROMA-6004,Mobile Phones,P-29318,Mobile Phones 12,2,30233.72,10,Credit Card,26-35,Female,SR-463,3.7
+23-08-2023,Ahmedabad,CROMA-2135,Mobile Phones,P-24204,Mobile Phones 7,4,25162.81,5,UPI,18-25,Male,SR-520,3.4
+25-08-2023,Kolkata,CROMA-1813,Mobile Phones,P-20061,Mobile Phones 9,2,37461.06,10,UPI,26-35,Non-Binary,SR-532,4.9
+01-08-2023,Hyderabad,CROMA-6023,Mobile Phones,P-80928,Mobile Phones 13,10,7220.39,0,EMI,36-45,Non-Binary,SR-451,4.8
+28-08-2023,Pune,CROMA-1496,Televisions,P-68642,Televisions 5,10,49288.12,15,Credit Card,26-35,Female,SR-820,4.1
+02-08-2023,Hyderabad,CROMA-9096,Mobile Phones,P-22292,Mobile Phones 16,5,49445.63,10,Credit Card,46-60,Male,SR-949,3
+09-08-2023,Bangalore,CROMA-8263,Televisions,P-95202,Televisions 2,10,31863.28,10,UPI,36-45,Female,SR-628,4.2
+06-08-2023,Pune,CROMA-8651,Home Appliances,P-69382,Home Appliances 9,5,35085.11,5,UPI,46-60,Female,SR-336,3.3
+16-08-2023,Delhi,CROMA-7899,Cameras,P-99347,Cameras 16,6,45278.59,10,UPI,18-25,Male,SR-284,3.7
+15-08-2023,Pune,CROMA-2096,Mobile Phones,P-66237,Mobile Phones 19,2,15122.92,0,Cash,26-35,Female,SR-770,4.1
+10-08-2023,Delhi,CROMA-1529,Home Appliances,P-41222,Home Appliances 14,2,49657.8,10,UPI,26-35,Male,SR-177,3.3
+20-08-2023,Ahmedabad,CROMA-8016,Home Appliances,P-66928,Home Appliances 8,10,6047.15,15,Cash,18-25,Female,SR-141,3.8
+23-08-2023,Hyderabad,CROMA-3314,Televisions,P-19472,Televisions 10,3,5488.23,15,UPI,46-60,Female,SR-459,4.7
+28-08-2023,Pune,CROMA-2928,Mobile Phones,P-14623,Mobile Phones 19,4,9117.93,10,Credit Card,46-60,Non-Binary,SR-854,3.2
+07-08-2023,Kolkata,CROMA-7431,Mobile Phones,P-36084,Mobile Phones 18,4,6082.36,15,EMI,18-25,Non-Binary,SR-600,4
+07-08-2023,Pune,CROMA-1899,Mobile Phones,P-54619,Mobile Phones 11,8,39270.48,0,EMI,36-45,Non-Binary,SR-286,3.4
+23-08-2023,Delhi,CROMA-6679,Televisions,P-51054,Televisions 8,7,37076.61,5,Cash,18-25,Female,SR-188,4.4
+23-08-2023,Hyderabad,CROMA-5850,Laptops,P-37917,Laptops 7,5,15191.34,5,UPI,36-45,Female,SR-838,4.8
+28-08-2023,Ahmedabad,CROMA-9393,Mobile Phones,P-40734,Mobile Phones 20,5,13101.66,10,UPI,26-35,Non-Binary,SR-982,4.6
+26-08-2023,Hyderabad,CROMA-2919,Cameras,P-75898,Cameras 9,7,26960.77,5,Debit Card,36-45,Non-Binary,SR-956,4.8
+20-08-2023,Chennai,CROMA-1080,Mobile Phones,P-31764,Mobile Phones 4,8,32464.13,15,Debit Card,26-35,Male,SR-214,4
+03-08-2023,Kolkata,CROMA-3536,Laptops,P-75927,Laptops 13,2,13440.49,10,EMI,46-60,Male,SR-588,4.6
+18-08-2023,Pune,CROMA-2735,Televisions,P-31005,Televisions 20,3,46257.25,10,Debit Card,46-60,Male,SR-221,3.1
+18-08-2023,Hyderabad,CROMA-1330,Mobile Phones,P-58764,Mobile Phones 8,8,17017.07,0,UPI,18-25,Female,SR-986,4.1
+28-08-2023,Ahmedabad,CROMA-8388,Televisions,P-12582,Televisions 11,8,14515.49,10,Credit Card,26-35,Non-Binary,SR-381,4.5
+15-08-2023,Mumbai,CROMA-4895,Cameras,P-65833,Cameras 6,1,37617.9,15,Cash,36-45,Non-Binary,SR-928,4.4
+05-08-2023,Delhi,CROMA-8175,Televisions,P-14745,Televisions 13,5,32820.15,5,EMI,26-35,Male,SR-917,4.2
+11-08-2023,Delhi,CROMA-1881,Televisions,P-17656,Televisions 3,6,24693.76,15,Credit Card,26-35,Male,SR-316,3.6
+05-08-2023,Pune,CROMA-6871,Cameras,P-84750,Cameras 20,8,37222.14,15,EMI,46-60,Non-Binary,SR-634,3.1
+24-08-2023,Kolkata,CROMA-3267,Cameras,P-83378,Cameras 9,6,10411.09,5,Credit Card,36-45,Female,SR-592,3.7
+12-08-2023,Kolkata,CROMA-9149,Laptops,P-18939,Laptops 16,2,17689.45,5,EMI,26-35,Female,SR-731,3.9
+28-08-2023,Hyderabad,CROMA-9328,Televisions,P-70880,Televisions 7,10,42530.24,5,EMI,36-45,Male,SR-184,4.7
+11-08-2023,Hyderabad,CROMA-7544,Home Appliances,P-95781,Home Appliances 12,9,22568.36,10,EMI,26-35,Non-Binary,SR-344,4.7
+16-08-2023,Bangalore,CROMA-9181,Home Appliances,P-48944,Home Appliances 2,9,30709.48,5,EMI,46-60,Male,SR-923,3.6
+16-08-2023,Chennai,CROMA-2035,Cameras,P-38085,Cameras 1,2,8736.24,5,EMI,36-45,Female,SR-745,4.4
+13-08-2023,Chennai,CROMA-4627,Televisions,P-61410,Televisions 20,8,24464.41,10,Credit Card,36-45,Male,SR-967,4.8
+11-08-2023,Chennai,CROMA-9670,Home Appliances,P-46926,Home Appliances 8,2,12081.28,15,EMI,36-45,Female,SR-519,3.6
+23-08-2023,Pune,CROMA-3721,Home Appliances,P-22411,Home Appliances 17,4,44483.01,5,Credit Card,18-25,Male,SR-664,3.5
+05-08-2023,Delhi,CROMA-9310,Home Appliances,P-89957,Home Appliances 8,5,30081.26,0,Cash,26-35,Female,SR-877,3.9
+17-08-2023,Ahmedabad,CROMA-7087,Televisions,P-20976,Televisions 17,10,27466.43,0,Cash,36-45,Male,SR-496,4.8
+10-08-2023,Bangalore,CROMA-2025,Cameras,P-47316,Cameras 14,5,9065.33,10,Cash,26-35,Female,SR-440,3.6
+05-08-2023,Ahmedabad,CROMA-7426,Mobile Phones,P-34583,Mobile Phones 8,10,8563.76,5,EMI,26-35,Male,SR-768,3.9
+10-08-2023,Kolkata,CROMA-2052,Home Appliances,P-83918,Home Appliances 19,10,12197.22,0,UPI,36-45,Male,SR-219,3.8
+24-08-2023,Delhi,CROMA-7990,Home Appliances,P-38036,Home Appliances 18,9,16906.11,5,Credit Card,36-45,Male,SR-878,3.4
+06-08-2023,Mumbai,CROMA-3224,Cameras,P-94962,Cameras 5,4,16916.25,5,Credit Card,46-60,Male,SR-985,3.4
+22-08-2023,Mumbai,CROMA-8896,Cameras,P-88361,Cameras 12,10,15538.78,0,Debit Card,46-60,Non-Binary,SR-986,4.3
+13-08-2023,Bangalore,CROMA-6824,Mobile Phones,P-59364,Mobile Phones 17,9,26254.36,10,EMI,26-35,Male,SR-194,4.4
+26-08-2023,Mumbai,CROMA-4509,Cameras,P-23683,Cameras 6,1,40854.54,15,EMI,18-25,Male,SR-815,4.9
+10-08-2023,Bangalore,CROMA-9424,Home Appliances,P-81773,Home Appliances 12,4,33389.2,15,EMI,26-35,Male,SR-141,3.1
+06-08-2023,Ahmedabad,CROMA-8906,Mobile Phones,P-46919,Mobile Phones 19,5,5663.87,5,Credit Card,36-45,Non-Binary,SR-206,4.6
+02-08-2023,Kolkata,CROMA-4814,Cameras,P-35308,Cameras 7,9,20852.38,15,Credit Card,46-60,Male,SR-304,3.8
+26-08-2023,Ahmedabad,CROMA-3798,Home Appliances,P-35556,Home Appliances 13,9,37968.51,10,EMI,18-25,Non-Binary,SR-471,4.1
+15-08-2023,Bangalore,CROMA-4142,Cameras,P-69602,Cameras 10,6,24034.13,0,Credit Card,26-35,Non-Binary,SR-719,3.5
+07-08-2023,Chennai,CROMA-4919,Home Appliances,P-79678,Home Appliances 3,3,15931.07,5,Cash,18-25,Female,SR-739,4.2
+02-08-2023,Chennai,CROMA-2248,Televisions,P-68763,Televisions 1,2,26864.49,10,UPI,46-60,Male,SR-313,3.3
+25-08-2023,Pune,CROMA-5192,Cameras,P-56705,Cameras 3,3,17259.39,10,Debit Card,36-45,Male,SR-199,3.3
+22-08-2023,Kolkata,CROMA-7107,Televisions,P-38055,Televisions 1,9,22551.04,5,EMI,46-60,Male,SR-167,3.5
+04-08-2023,Chennai,CROMA-8112,Mobile Phones,P-58322,Mobile Phones 17,2,48026.23,0,Debit Card,36-45,Male,SR-963,4.8
+04-08-2023,Bangalore,CROMA-3740,Mobile Phones,P-90706,Mobile Phones 7,3,38117.89,0,UPI,36-45,Male,SR-679,5
+24-08-2023,Chennai,CROMA-5663,Cameras,P-46545,Cameras 12,3,7963.89,10,UPI,18-25,Female,SR-551,4.5
+28-08-2023,Chennai,CROMA-6875,Home Appliances,P-61375,Home Appliances 1,9,46422.04,0,UPI,18-25,Non-Binary,SR-865,3.6
+03-08-2023,Kolkata,CROMA-4825,Laptops,P-47444,Laptops 12,10,8960.35,0,UPI,46-60,Non-Binary,SR-603,3.3
+10-08-2023,Bangalore,CROMA-2896,Laptops,P-61958,Laptops 1,10,49256.47,15,Credit Card,26-35,Male,SR-198,4.5
+03-08-2023,Kolkata,CROMA-7445,Televisions,P-68900,Televisions 16,10,15861.58,5,Debit Card,26-35,Male,SR-442,3.5
+27-08-2023,Kolkata,CROMA-9803,Televisions,P-70777,Televisions 8,7,26024.9,5,Credit Card,36-45,Male,SR-935,4.5
+19-08-2023,Pune,CROMA-3612,Televisions,P-76092,Televisions 1,3,13230.56,15,Cash,46-60,Male,SR-513,4.7
+26-08-2023,Hyderabad,CROMA-5456,Televisions,P-68092,Televisions 6,10,19803.6,0,Cash,26-35,Non-Binary,SR-416,3.3
+28-08-2023,Ahmedabad,CROMA-2645,Televisions,P-41670,Televisions 20,6,31675.59,10,Debit Card,26-35,Male,SR-327,3.2
+23-08-2023,Mumbai,CROMA-6081,Home Appliances,P-65701,Home Appliances 6,7,36545.2,5,Cash,46-60,Non-Binary,SR-143,4.3
+26-08-2023,Pune,CROMA-6789,Home Appliances,P-92048,Home Appliances 14,5,32736.14,15,EMI,26-35,Male,SR-733,3.8
+13-08-2023,Kolkata,CROMA-5411,Mobile Phones,P-11947,Mobile Phones 5,1,24372.87,0,Cash,26-35,Non-Binary,SR-682,3.7
+24-08-2023,Chennai,CROMA-3968,Laptops,P-16110,Laptops 20,10,39609.21,5,UPI,18-25,Male,SR-985,4
+12-08-2023,Chennai,CROMA-6111,Laptops,P-99001,Laptops 2,10,46833.92,0,Debit Card,46-60,Female,SR-816,4.1
+24-08-2023,Chennai,CROMA-4768,Laptops,P-89742,Laptops 14,3,45566.82,0,Credit Card,46-60,Non-Binary,SR-166,4.1
+19-08-2023,Hyderabad,CROMA-5481,Mobile Phones,P-26247,Mobile Phones 20,4,21603.62,0,Cash,26-35,Male,SR-992,3.6
+27-08-2023,Pune,CROMA-6955,Cameras,P-57105,Cameras 10,1,39885.4,15,Credit Card,36-45,Female,SR-166,3.4
+05-08-2023,Hyderabad,CROMA-6987,Home Appliances,P-75942,Home Appliances 8,1,27102.52,15,Debit Card,46-60,Male,SR-427,4.7
+16-08-2023,Pune,CROMA-1190,Televisions,P-81159,Televisions 20,1,27830.8,15,EMI,18-25,Male,SR-946,4.2
+21-08-2023,Kolkata,CROMA-5637,Cameras,P-49786,Cameras 12,7,5685.7,5,UPI,36-45,Female,SR-511,4.8
+07-08-2023,Chennai,CROMA-7060,Home Appliances,P-91155,Home Appliances 2,2,9872.66,0,EMI,26-35,Female,SR-264,3.9
+18-08-2023,Chennai,CROMA-6663,Cameras,P-40153,Cameras 12,3,17049.97,5,UPI,18-25,Non-Binary,SR-307,3.5
+12-08-2023,Delhi,CROMA-2666,Televisions,P-64551,Televisions 9,9,28000.71,0,UPI,46-60,Female,SR-854,4.9
+19-08-2023,Hyderabad,CROMA-2132,Cameras,P-86436,Cameras 1,7,24720.47,5,Cash,18-25,Male,SR-840,3.8
+16-08-2023,Mumbai,CROMA-4089,Home Appliances,P-31064,Home Appliances 19,9,18157.31,10,Cash,46-60,Non-Binary,SR-589,3.1
+27-09-2023,Pune,CROMA-9948,Cameras,P-55775,Cameras 3,3,33092.68,0,Debit Card,26-35,Male,SR-669,4.8
+21-09-2023,Delhi,CROMA-6562,Laptops,P-43175,Laptops 11,8,46602.36,0,EMI,46-60,Female,SR-777,3.3
+16-09-2023,Pune,CROMA-4349,Home Appliances,P-83505,Home Appliances 12,1,20365.59,0,EMI,26-35,Female,SR-991,3.9
+18-09-2023,Kolkata,CROMA-5057,Cameras,P-62664,Cameras 14,7,28808.97,10,Debit Card,26-35,Non-Binary,SR-150,3.1
+21-09-2023,Ahmedabad,CROMA-6802,Laptops,P-38830,Laptops 4,6,19027.99,5,UPI,36-45,Non-Binary,SR-203,3.4
+06-09-2023,Bangalore,CROMA-7169,Cameras,P-63303,Cameras 18,7,9740.98,15,Credit Card,46-60,Non-Binary,SR-325,4.6
+14-09-2023,Pune,CROMA-6569,Cameras,P-37020,Cameras 5,8,38383.5,15,UPI,26-35,Male,SR-567,3.2
+20-09-2023,Bangalore,CROMA-4351,Laptops,P-73527,Laptops 5,3,29780.07,5,UPI,18-25,Non-Binary,SR-748,4.3
+09-09-2023,Chennai,CROMA-6972,Laptops,P-68656,Laptops 9,6,37361.55,10,UPI,36-45,Male,SR-796,3.6
+23-09-2023,Delhi,CROMA-5088,Cameras,P-88243,Cameras 7,8,30533.74,0,Credit Card,36-45,Non-Binary,SR-992,3.6
+06-09-2023,Ahmedabad,CROMA-1372,Home Appliances,P-90175,Home Appliances 11,5,49818.03,10,EMI,18-25,Female,SR-827,3.3
+11-09-2023,Pune,CROMA-7110,Mobile Phones,P-47048,Mobile Phones 16,6,9114.58,0,UPI,26-35,Male,SR-350,3.7
+02-09-2023,Bangalore,CROMA-1049,Televisions,P-57944,Televisions 6,7,41565.58,0,Cash,36-45,Male,SR-369,3.4
+03-09-2023,Ahmedabad,CROMA-7975,Home Appliances,P-34157,Home Appliances 5,3,24293.99,0,Credit Card,46-60,Female,SR-171,3.8
+07-09-2023,Kolkata,CROMA-2895,Laptops,P-73114,Laptops 15,5,39719.74,0,EMI,18-25,Female,SR-951,4.5
+20-09-2023,Mumbai,CROMA-9222,Home Appliances,P-42939,Home Appliances 13,9,9419.42,15,EMI,26-35,Non-Binary,SR-592,4.4
+15-09-2023,Bangalore,CROMA-8886,Home Appliances,P-71028,Home Appliances 6,10,44099.21,0,Debit Card,46-60,Male,SR-972,3.9
+15-09-2023,Ahmedabad,CROMA-1548,Mobile Phones,P-18346,Mobile Phones 18,3,21643.79,10,Debit Card,18-25,Non-Binary,SR-592,4.8
+24-09-2023,Pune,CROMA-6461,Cameras,P-98407,Cameras 12,7,41704.4,10,Cash,26-35,Female,SR-863,3.6
+23-09-2023,Kolkata,CROMA-8030,Mobile Phones,P-91782,Mobile Phones 10,6,19433.39,5,Debit Card,26-35,Female,SR-959,3.8
+28-09-2023,Mumbai,CROMA-4773,Televisions,P-10097,Televisions 11,10,21821.42,10,Debit Card,26-35,Male,SR-787,4.5
+04-09-2023,Kolkata,CROMA-7045,Televisions,P-64322,Televisions 16,5,41643.78,15,UPI,26-35,Female,SR-297,4.4
+11-09-2023,Bangalore,CROMA-8467,Laptops,P-23364,Laptops 1,6,25802.05,15,Debit Card,46-60,Non-Binary,SR-305,4.4
+06-09-2023,Bangalore,CROMA-7498,Laptops,P-41928,Laptops 19,6,9206.87,15,Cash,46-60,Male,SR-727,4.2
+14-09-2023,Mumbai,CROMA-1760,Home Appliances,P-89476,Home Appliances 5,9,38672.11,15,EMI,46-60,Female,SR-881,4.9
+06-09-2023,Hyderabad,CROMA-6008,Cameras,P-62476,Cameras 18,8,11210.61,0,EMI,18-25,Non-Binary,SR-144,3.4
+05-09-2023,Chennai,CROMA-3914,Home Appliances,P-97497,Home Appliances 13,4,14869.53,5,Cash,36-45,Male,SR-929,4.8
+23-09-2023,Pune,CROMA-4948,Televisions,P-13281,Televisions 9,3,42904.82,10,Debit Card,36-45,Non-Binary,SR-151,4.5
+26-09-2023,Chennai,CROMA-7049,Laptops,P-83725,Laptops 12,2,42467.77,10,UPI,36-45,Non-Binary,SR-324,4.1
+01-09-2023,Chennai,CROMA-3739,Home Appliances,P-95128,Home Appliances 13,1,22365.96,0,Cash,18-25,Female,SR-207,5
+23-09-2023,Bangalore,CROMA-5775,Televisions,P-89445,Televisions 10,10,27559.23,5,UPI,18-25,Non-Binary,SR-237,4.5
+20-09-2023,Bangalore,CROMA-8349,Cameras,P-75535,Cameras 12,5,48633.95,10,Credit Card,18-25,Non-Binary,SR-491,3.4
+11-09-2023,Delhi,CROMA-3138,Mobile Phones,P-46078,Mobile Phones 18,3,19756.69,15,Cash,46-60,Non-Binary,SR-230,4.4
+03-09-2023,Mumbai,CROMA-7230,Cameras,P-16924,Cameras 1,2,13568.33,15,Cash,36-45,Female,SR-721,4.2
+06-09-2023,Ahmedabad,CROMA-2014,Cameras,P-21763,Cameras 1,5,12259.3,10,Debit Card,26-35,Female,SR-819,3.7
+20-09-2023,Chennai,CROMA-1059,Mobile Phones,P-45540,Mobile Phones 13,6,33109.6,5,EMI,36-45,Female,SR-412,4.9
+13-09-2023,Pune,CROMA-1707,Televisions,P-70787,Televisions 16,8,24772.83,0,UPI,26-35,Male,SR-716,4.1
+03-09-2023,Ahmedabad,CROMA-3161,Mobile Phones,P-49927,Mobile Phones 15,6,27557.18,0,EMI,36-45,Non-Binary,SR-969,4.9
+11-09-2023,Ahmedabad,CROMA-8368,Home Appliances,P-51461,Home Appliances 12,10,40748.7,10,EMI,36-45,Male,SR-129,3.1
+09-09-2023,Ahmedabad,CROMA-3226,Televisions,P-29243,Televisions 18,9,29243.6,5,Credit Card,36-45,Female,SR-492,4.6
+13-09-2023,Bangalore,CROMA-8033,Cameras,P-35641,Cameras 13,5,17890.09,5,EMI,36-45,Female,SR-771,3.7
+24-09-2023,Chennai,CROMA-9666,Televisions,P-31189,Televisions 2,3,39172.98,5,Credit Card,26-35,Female,SR-123,4.8
+13-09-2023,Ahmedabad,CROMA-5407,Laptops,P-15046,Laptops 14,6,12278.8,0,Cash,18-25,Female,SR-662,4.5
+04-09-2023,Kolkata,CROMA-4338,Cameras,P-18109,Cameras 6,2,26133.71,5,UPI,18-25,Female,SR-723,4.3
+05-09-2023,Pune,CROMA-8745,Laptops,P-95021,Laptops 15,2,34474.21,5,Cash,18-25,Non-Binary,SR-592,3.1
+01-09-2023,Kolkata,CROMA-4060,Laptops,P-85099,Laptops 8,4,7964.27,10,EMI,26-35,Female,SR-263,3.8
+28-09-2023,Hyderabad,CROMA-7730,Home Appliances,P-43826,Home Appliances 15,10,5301.1,10,Credit Card,18-25,Female,SR-889,3.8
+18-09-2023,Delhi,CROMA-8553,Laptops,P-12853,Laptops 8,9,35569.67,0,EMI,18-25,Female,SR-623,3.8
+02-09-2023,Kolkata,CROMA-3336,Televisions,P-75719,Televisions 17,7,16560.31,15,Credit Card,36-45,Male,SR-969,3.3
+20-09-2023,Kolkata,CROMA-1657,Televisions,P-97557,Televisions 10,1,29157.01,0,Debit Card,18-25,Female,SR-342,4.6
+21-09-2023,Pune,CROMA-1157,Televisions,P-19298,Televisions 9,3,13586.61,5,EMI,26-35,Non-Binary,SR-874,3.1
+04-09-2023,Pune,CROMA-6270,Cameras,P-25675,Cameras 10,5,9919.54,15,UPI,36-45,Non-Binary,SR-594,3
+13-09-2023,Kolkata,CROMA-2165,Mobile Phones,P-79681,Mobile Phones 2,1,37630.77,0,EMI,36-45,Non-Binary,SR-121,4.2
+14-09-2023,Pune,CROMA-5023,Televisions,P-11232,Televisions 4,2,48978.73,10,Credit Card,26-35,Female,SR-353,3.4
+13-09-2023,Pune,CROMA-3670,Cameras,P-26912,Cameras 1,1,6479.65,10,Debit Card,36-45,Female,SR-942,3.5
+09-09-2023,Delhi,CROMA-7361,Home Appliances,P-54053,Home Appliances 11,4,42023.82,5,Credit Card,36-45,Male,SR-435,4.5
+25-09-2023,Ahmedabad,CROMA-9632,Home Appliances,P-96858,Home Appliances 13,8,35780.33,15,EMI,18-25,Female,SR-263,4.8
+07-09-2023,Pune,CROMA-2095,Home Appliances,P-60102,Home Appliances 7,6,10376.05,10,UPI,18-25,Non-Binary,SR-562,3.7
+23-09-2023,Hyderabad,CROMA-8654,Home Appliances,P-81968,Home Appliances 8,9,48798.36,10,EMI,26-35,Male,SR-576,4.5
+15-09-2023,Hyderabad,CROMA-6706,Home Appliances,P-60822,Home Appliances 3,2,20914.49,5,EMI,18-25,Male,SR-740,4.2
+11-09-2023,Bangalore,CROMA-7415,Cameras,P-56838,Cameras 9,10,31124.78,5,Credit Card,26-35,Female,SR-804,5
+07-09-2023,Pune,CROMA-8870,Televisions,P-98371,Televisions 8,5,46234.41,10,UPI,18-25,Male,SR-822,3.8
+03-09-2023,Mumbai,CROMA-9396,Laptops,P-71102,Laptops 17,10,44302.13,10,Debit Card,18-25,Non-Binary,SR-490,3.7
+05-09-2023,Chennai,CROMA-2187,Cameras,P-61753,Cameras 18,3,30754.29,15,UPI,36-45,Female,SR-729,4.3
+17-09-2023,Delhi,CROMA-3400,Cameras,P-62334,Cameras 12,8,40868.08,15,Debit Card,26-35,Non-Binary,SR-592,4.8
+25-09-2023,Ahmedabad,CROMA-1703,Laptops,P-36330,Laptops 9,4,42600.87,10,Cash,46-60,Male,SR-249,4.9
+18-09-2023,Bangalore,CROMA-3994,Laptops,P-52667,Laptops 14,9,36143.13,5,Credit Card,46-60,Female,SR-658,3.6
+11-09-2023,Mumbai,CROMA-2702,Laptops,P-54243,Laptops 9,5,16218.61,15,Cash,26-35,Female,SR-465,3.7
+06-09-2023,Chennai,CROMA-4878,Home Appliances,P-93734,Home Appliances 6,1,42492.15,5,EMI,46-60,Female,SR-359,4.8
+01-09-2023,Delhi,CROMA-9891,Home Appliances,P-29459,Home Appliances 5,3,49107.1,0,UPI,26-35,Female,SR-128,4.8
+17-09-2023,Hyderabad,CROMA-6882,Mobile Phones,P-49154,Mobile Phones 18,7,44869.77,15,EMI,46-60,Male,SR-654,3.1
+16-09-2023,Pune,CROMA-4323,Mobile Phones,P-79896,Mobile Phones 16,6,45513.25,15,Credit Card,36-45,Non-Binary,SR-499,4.9
+21-09-2023,Delhi,CROMA-8913,Laptops,P-39708,Laptops 18,2,40248.3,10,EMI,18-25,Male,SR-301,4.8
+27-09-2023,Kolkata,CROMA-8065,Laptops,P-82593,Laptops 19,6,14618.73,10,Debit Card,36-45,Female,SR-806,4.9
+23-09-2023,Bangalore,CROMA-9861,Televisions,P-58181,Televisions 3,9,25340.29,10,EMI,36-45,Male,SR-335,4.1
+28-09-2023,Bangalore,CROMA-5115,Mobile Phones,P-82086,Mobile Phones 7,8,31342.49,5,EMI,46-60,Non-Binary,SR-375,3.9
+11-09-2023,Hyderabad,CROMA-3133,Home Appliances,P-74541,Home Appliances 17,4,38399.7,0,EMI,18-25,Female,SR-546,3.7
+08-09-2023,Hyderabad,CROMA-5709,Laptops,P-46341,Laptops 7,1,30464.33,0,EMI,36-45,Non-Binary,SR-453,3.9
+15-09-2023,Kolkata,CROMA-5806,Mobile Phones,P-65851,Mobile Phones 17,2,23250.15,0,Credit Card,26-35,Female,SR-436,3.5
+21-09-2023,Ahmedabad,CROMA-5160,Televisions,P-71813,Televisions 19,7,48330.81,5,Cash,46-60,Non-Binary,SR-155,3.5
+10-09-2023,Mumbai,CROMA-5972,Cameras,P-24040,Cameras 6,2,18594.84,5,Credit Card,46-60,Non-Binary,SR-817,4.3
+02-09-2023,Bangalore,CROMA-7733,Mobile Phones,P-47533,Mobile Phones 8,7,47833.32,5,Cash,36-45,Female,SR-870,3.8
+13-09-2023,Delhi,CROMA-2020,Home Appliances,P-89219,Home Appliances 20,9,41814.11,15,Cash,46-60,Non-Binary,SR-482,4.8
+26-09-2023,Kolkata,CROMA-3504,Home Appliances,P-70957,Home Appliances 12,6,34113.26,0,UPI,26-35,Non-Binary,SR-496,3.7
+22-09-2023,Delhi,CROMA-4569,Home Appliances,P-14475,Home Appliances 14,10,15421.53,0,Debit Card,18-25,Male,SR-377,3.8
+17-09-2023,Kolkata,CROMA-4641,Laptops,P-87698,Laptops 12,8,44719.57,15,Cash,26-35,Female,SR-603,3.3
+13-09-2023,Mumbai,CROMA-5946,Cameras,P-83803,Cameras 9,4,45488.26,10,Cash,46-60,Female,SR-927,4.8
+08-09-2023,Mumbai,CROMA-1115,Laptops,P-45956,Laptops 17,3,49564.73,15,EMI,18-25,Female,SR-385,4.8
+15-09-2023,Pune,CROMA-5800,Mobile Phones,P-35174,Mobile Phones 15,3,26815.09,0,Credit Card,26-35,Male,SR-129,4.1
+24-09-2023,Chennai,CROMA-8822,Mobile Phones,P-37672,Mobile Phones 4,2,44208.99,5,Debit Card,18-25,Female,SR-220,4.6
+21-09-2023,Delhi,CROMA-2310,Laptops,P-90349,Laptops 10,1,5018.24,10,Credit Card,36-45,Female,SR-399,4.9
+06-09-2023,Kolkata,CROMA-7325,Home Appliances,P-61736,Home Appliances 15,2,46090.42,15,Cash,18-25,Non-Binary,SR-127,4.6
+10-09-2023,Mumbai,CROMA-8114,Laptops,P-56452,Laptops 11,5,42557.27,0,Debit Card,18-25,Female,SR-600,3.3
+07-09-2023,Delhi,CROMA-7255,Televisions,P-30018,Televisions 13,4,20029.07,0,EMI,18-25,Male,SR-287,4.3
+14-09-2023,Bangalore,CROMA-6889,Televisions,P-43516,Televisions 3,6,22061.38,5,EMI,26-35,Non-Binary,SR-232,3.3
+25-09-2023,Ahmedabad,CROMA-2108,Laptops,P-91442,Laptops 2,4,14135.82,0,EMI,26-35,Non-Binary,SR-690,3.8
+17-09-2023,Bangalore,CROMA-9718,Home Appliances,P-40646,Home Appliances 20,8,44401.02,10,UPI,46-60,Male,SR-607,3.3
+17-09-2023,Hyderabad,CROMA-6963,Home Appliances,P-77590,Home Appliances 11,1,25527.42,0,UPI,46-60,Female,SR-211,4.5
+12-09-2023,Pune,CROMA-4663,Televisions,P-39930,Televisions 15,4,13783.31,15,Credit Card,18-25,Female,SR-903,4
+25-09-2023,Chennai,CROMA-1572,Cameras,P-67985,Cameras 18,6,35124.55,10,EMI,26-35,Male,SR-265,4
+05-10-2023,Mumbai,CROMA-1980,Home Appliances,P-93533,Home Appliances 2,5,32968.06,0,Cash,18-25,Male,SR-204,3.7
+13-10-2023,Chennai,CROMA-2136,Home Appliances,P-20849,Home Appliances 9,2,19522.29,5,Credit Card,18-25,Female,SR-951,4.5
+09-10-2023,Bangalore,CROMA-6907,Mobile Phones,P-40287,Mobile Phones 6,2,30310.84,0,EMI,36-45,Female,SR-911,4
+09-10-2023,Mumbai,CROMA-4629,Televisions,P-82116,Televisions 7,3,27617.1,15,Cash,36-45,Male,SR-680,4.7
+27-10-2023,Mumbai,CROMA-5175,Mobile Phones,P-54999,Mobile Phones 16,4,7873.98,15,Cash,18-25,Non-Binary,SR-112,4.4
+14-10-2023,Bangalore,CROMA-2380,Mobile Phones,P-66692,Mobile Phones 11,7,26409.23,10,Cash,36-45,Female,SR-455,3.1
+14-10-2023,Bangalore,CROMA-5634,Cameras,P-95183,Cameras 11,3,42360.64,5,Debit Card,26-35,Female,SR-639,3.4
+12-10-2023,Pune,CROMA-4147,Home Appliances,P-89630,Home Appliances 7,9,29326.52,15,Debit Card,36-45,Non-Binary,SR-978,3.7
+13-10-2023,Ahmedabad,CROMA-4793,Mobile Phones,P-20164,Mobile Phones 17,3,26981.5,5,Cash,26-35,Male,SR-506,4
+20-10-2023,Ahmedabad,CROMA-4568,Laptops,P-50668,Laptops 16,3,33564.07,5,EMI,26-35,Non-Binary,SR-654,4.8
+04-10-2023,Ahmedabad,CROMA-2641,Cameras,P-23557,Cameras 19,10,32018.29,15,Debit Card,46-60,Male,SR-868,4.1
+20-10-2023,Chennai,CROMA-7393,Cameras,P-57615,Cameras 2,8,38448.03,5,Cash,46-60,Non-Binary,SR-866,3.2
+05-10-2023,Chennai,CROMA-3125,Cameras,P-17826,Cameras 18,1,33300.4,0,Cash,26-35,Female,SR-327,4.9
+03-10-2023,Mumbai,CROMA-4675,Laptops,P-80094,Laptops 14,5,47762.61,15,Credit Card,26-35,Male,SR-533,3.2
+22-10-2023,Hyderabad,CROMA-5022,Cameras,P-40033,Cameras 7,7,12981.52,15,EMI,18-25,Male,SR-349,3.2
+25-10-2023,Pune,CROMA-8300,Mobile Phones,P-35853,Mobile Phones 1,5,12783.6,15,Credit Card,36-45,Male,SR-148,3.5
+03-10-2023,Mumbai,CROMA-8105,Mobile Phones,P-56010,Mobile Phones 11,5,25488.68,10,UPI,46-60,Non-Binary,SR-848,4.7
+05-10-2023,Mumbai,CROMA-9376,Laptops,P-18417,Laptops 8,7,6574.09,0,EMI,36-45,Female,SR-568,4.4
+21-10-2023,Delhi,CROMA-8933,Televisions,P-93095,Televisions 6,7,49348.38,5,EMI,36-45,Male,SR-549,4.1
+09-10-2023,Ahmedabad,CROMA-1360,Mobile Phones,P-78595,Mobile Phones 19,7,25541.27,10,UPI,26-35,Female,SR-413,3.3
+06-10-2023,Mumbai,CROMA-9515,Home Appliances,P-40192,Home Appliances 5,9,19900.27,0,EMI,26-35,Non-Binary,SR-958,4.2
+05-10-2023,Hyderabad,CROMA-7146,Mobile Phones,P-61239,Mobile Phones 15,6,24684.15,15,Cash,36-45,Female,SR-141,3.9
+16-10-2023,Hyderabad,CROMA-4881,Laptops,P-56767,Laptops 17,9,16602.98,5,UPI,36-45,Female,SR-957,3.1
+13-10-2023,Hyderabad,CROMA-4821,Mobile Phones,P-75298,Mobile Phones 8,3,7363.38,5,Cash,36-45,Non-Binary,SR-776,3.1
+13-10-2023,Delhi,CROMA-2502,Mobile Phones,P-58144,Mobile Phones 10,4,44777.05,10,Debit Card,18-25,Non-Binary,SR-352,5
+14-10-2023,Mumbai,CROMA-5687,Cameras,P-12885,Cameras 9,2,14281.65,15,UPI,46-60,Non-Binary,SR-886,3
+09-10-2023,Delhi,CROMA-5382,Mobile Phones,P-12998,Mobile Phones 2,2,34087.5,10,Credit Card,18-25,Non-Binary,SR-282,4.1
+23-10-2023,Chennai,CROMA-7071,Cameras,P-53992,Cameras 15,6,29271.11,15,UPI,46-60,Female,SR-664,4.1
+15-10-2023,Ahmedabad,CROMA-8400,Cameras,P-44346,Cameras 15,10,30558.21,15,Credit Card,18-25,Female,SR-716,3.7
+24-10-2023,Pune,CROMA-5759,Televisions,P-24340,Televisions 13,1,40444.16,5,Credit Card,18-25,Female,SR-148,4.4
+02-10-2023,Chennai,CROMA-7544,Home Appliances,P-89447,Home Appliances 9,4,39161.89,10,Credit Card,46-60,Male,SR-156,4.5
+20-10-2023,Mumbai,CROMA-5146,Home Appliances,P-81306,Home Appliances 8,9,27255.28,0,Credit Card,46-60,Male,SR-415,4.2
+17-10-2023,Ahmedabad,CROMA-7067,Televisions,P-14764,Televisions 20,6,33408.73,15,Cash,18-25,Non-Binary,SR-553,3.2
+12-10-2023,Delhi,CROMA-9932,Laptops,P-87293,Laptops 2,4,25646.15,0,UPI,26-35,Non-Binary,SR-422,4.4
+12-10-2023,Delhi,CROMA-5290,Mobile Phones,P-49782,Mobile Phones 17,2,24091.59,15,Credit Card,18-25,Female,SR-163,3.7
+22-10-2023,Chennai,CROMA-1225,Mobile Phones,P-27382,Mobile Phones 10,3,11704.99,0,Cash,26-35,Male,SR-890,3.5
+25-10-2023,Kolkata,CROMA-1963,Laptops,P-76623,Laptops 3,6,8374.15,10,Debit Card,46-60,Male,SR-261,4.7
+15-10-2023,Delhi,CROMA-5870,Home Appliances,P-32906,Home Appliances 14,5,12121.34,0,Credit Card,26-35,Female,SR-967,3.5
+11-10-2023,Mumbai,CROMA-8877,Televisions,P-53676,Televisions 17,5,40582.2,0,Credit Card,18-25,Male,SR-169,4
+24-10-2023,Ahmedabad,CROMA-7298,Laptops,P-33539,Laptops 3,7,38643.16,5,UPI,36-45,Female,SR-694,3.1
+03-10-2023,Delhi,CROMA-6492,Laptops,P-40128,Laptops 4,1,44468.1,15,UPI,46-60,Female,SR-106,3.2
+20-10-2023,Bangalore,CROMA-4587,Cameras,P-29249,Cameras 3,4,46426.34,5,Cash,46-60,Non-Binary,SR-859,3.2
+28-10-2023,Bangalore,CROMA-8692,Home Appliances,P-67450,Home Appliances 2,2,26258.39,5,Credit Card,18-25,Male,SR-495,4.5
+12-10-2023,Kolkata,CROMA-6822,Mobile Phones,P-83174,Mobile Phones 1,9,6541.32,0,UPI,26-35,Male,SR-278,3.4
+15-10-2023,Delhi,CROMA-8889,Cameras,P-71774,Cameras 8,5,36669.51,10,Cash,46-60,Female,SR-736,4.1
+16-10-2023,Hyderabad,CROMA-3185,Laptops,P-97046,Laptops 3,6,11093.57,5,EMI,36-45,Female,SR-689,3.2
+25-10-2023,Chennai,CROMA-7708,Laptops,P-20399,Laptops 5,9,31332.64,5,Cash,36-45,Non-Binary,SR-699,4.7
+16-10-2023,Chennai,CROMA-5108,Laptops,P-69861,Laptops 3,2,14283.78,5,Debit Card,36-45,Non-Binary,SR-681,3.1
+12-10-2023,Pune,CROMA-5885,Laptops,P-76495,Laptops 2,1,34916.84,15,Credit Card,46-60,Male,SR-338,4.1
+19-10-2023,Ahmedabad,CROMA-2551,Televisions,P-59013,Televisions 2,9,25319.83,0,Cash,36-45,Female,SR-296,3.3
+22-10-2023,Hyderabad,CROMA-9299,Home Appliances,P-67472,Home Appliances 10,1,8470.94,0,UPI,36-45,Male,SR-289,4.4
+09-10-2023,Bangalore,CROMA-4511,Laptops,P-23061,Laptops 19,8,30392.79,5,Cash,26-35,Female,SR-895,3.5
+20-10-2023,Kolkata,CROMA-8220,Cameras,P-94311,Cameras 5,9,26567.26,0,EMI,18-25,Female,SR-581,4.5
+12-10-2023,Hyderabad,CROMA-7045,Mobile Phones,P-79433,Mobile Phones 2,7,37227.01,5,Debit Card,26-35,Non-Binary,SR-728,3.3
+26-10-2023,Kolkata,CROMA-7843,Televisions,P-62740,Televisions 15,7,16791.84,10,Credit Card,26-35,Female,SR-160,5
+22-10-2023,Chennai,CROMA-1841,Cameras,P-86833,Cameras 11,7,6228.36,15,UPI,46-60,Female,SR-479,4.3
+13-10-2023,Delhi,CROMA-9142,Cameras,P-11604,Cameras 10,5,42590.49,0,Credit Card,26-35,Male,SR-728,4
+17-10-2023,Ahmedabad,CROMA-7865,Laptops,P-42562,Laptops 18,4,11648.24,5,UPI,18-25,Non-Binary,SR-558,3.8
+24-10-2023,Pune,CROMA-2541,Home Appliances,P-10352,Home Appliances 13,2,47673.58,10,UPI,36-45,Non-Binary,SR-441,4.1
+17-10-2023,Bangalore,CROMA-7297,Laptops,P-72993,Laptops 13,6,26355.45,0,EMI,36-45,Male,SR-257,3.9
+21-10-2023,Ahmedabad,CROMA-7903,Cameras,P-14200,Cameras 10,4,33473.23,0,UPI,46-60,Male,SR-555,4
+04-10-2023,Delhi,CROMA-9641,Home Appliances,P-27439,Home Appliances 8,8,37966.25,10,EMI,18-25,Male,SR-990,3
+23-10-2023,Hyderabad,CROMA-1246,Home Appliances,P-73907,Home Appliances 10,1,22101.75,10,UPI,46-60,Non-Binary,SR-475,3.4
+20-10-2023,Chennai,CROMA-9967,Televisions,P-54704,Televisions 19,3,12485.36,5,UPI,36-45,Female,SR-234,4.6
+27-10-2023,Chennai,CROMA-7218,Cameras,P-93541,Cameras 5,10,26893.05,5,Cash,36-45,Female,SR-159,4.4
+24-10-2023,Kolkata,CROMA-6571,Laptops,P-77242,Laptops 20,1,28449.42,15,Credit Card,18-25,Male,SR-147,3.3
+27-10-2023,Chennai,CROMA-3859,Televisions,P-62149,Televisions 17,1,15965.48,0,Cash,26-35,Non-Binary,SR-241,4.6
+21-10-2023,Bangalore,CROMA-2554,Home Appliances,P-56413,Home Appliances 10,1,22500,15,Credit Card,46-60,Non-Binary,SR-608,4.1
+01-10-2023,Kolkata,CROMA-6601,Cameras,P-61948,Cameras 10,1,7907.24,15,EMI,36-45,Male,SR-729,4.5
+28-10-2023,Mumbai,CROMA-9006,Televisions,P-58465,Televisions 8,10,40046.62,15,Cash,26-35,Non-Binary,SR-201,3.8
+06-10-2023,Mumbai,CROMA-2859,Laptops,P-17414,Laptops 1,4,45853.29,5,Debit Card,36-45,Non-Binary,SR-552,3.6
+11-10-2023,Bangalore,CROMA-4001,Home Appliances,P-17347,Home Appliances 5,9,40508.06,0,Credit Card,26-35,Non-Binary,SR-670,4.4
+04-10-2023,Mumbai,CROMA-6213,Televisions,P-87931,Televisions 7,8,16847.58,15,Credit Card,46-60,Non-Binary,SR-850,3.4
+28-10-2023,Kolkata,CROMA-2771,Mobile Phones,P-98770,Mobile Phones 5,1,44201.74,10,Debit Card,26-35,Male,SR-615,4.4
+22-10-2023,Hyderabad,CROMA-9396,Televisions,P-35973,Televisions 15,5,8199.89,15,Credit Card,46-60,Female,SR-682,4.2
+18-10-2023,Hyderabad,CROMA-9361,Mobile Phones,P-28938,Mobile Phones 18,10,17449.56,10,Cash,26-35,Non-Binary,SR-356,3.6
+06-10-2023,Kolkata,CROMA-2954,Laptops,P-82109,Laptops 7,3,13365.23,10,EMI,46-60,Male,SR-884,5
+25-10-2023,Chennai,CROMA-7176,Televisions,P-26580,Televisions 12,2,9589.46,15,Credit Card,46-60,Male,SR-539,4.2
+16-10-2023,Pune,CROMA-1873,Mobile Phones,P-72200,Mobile Phones 17,8,10215.07,0,EMI,26-35,Non-Binary,SR-507,4.3
+07-10-2023,Ahmedabad,CROMA-8486,Televisions,P-33073,Televisions 20,8,34608.73,0,Credit Card,46-60,Male,SR-550,3.7
+15-10-2023,Bangalore,CROMA-9561,Televisions,P-95991,Televisions 1,1,11609.05,15,EMI,18-25,Female,SR-182,4.1
+23-10-2023,Delhi,CROMA-6720,Televisions,P-19056,Televisions 11,8,15727.96,10,Debit Card,26-35,Male,SR-956,4.7
+04-10-2023,Bangalore,CROMA-6069,Televisions,P-41676,Televisions 19,6,24664.09,15,Cash,26-35,Female,SR-582,3.4
+22-10-2023,Chennai,CROMA-8508,Mobile Phones,P-48342,Mobile Phones 11,4,25295.49,0,UPI,18-25,Female,SR-616,4.9
+11-10-2023,Kolkata,CROMA-7048,Mobile Phones,P-62032,Mobile Phones 11,3,19992.94,10,EMI,46-60,Non-Binary,SR-259,4.1
+24-10-2023,Delhi,CROMA-1949,Mobile Phones,P-24754,Mobile Phones 7,8,15444.5,15,EMI,36-45,Male,SR-707,4.3
+15-10-2023,Pune,CROMA-5251,Cameras,P-33009,Cameras 16,7,11854.88,10,Debit Card,36-45,Non-Binary,SR-686,4.4
+09-10-2023,Delhi,CROMA-1187,Televisions,P-55408,Televisions 9,4,32829.89,10,EMI,26-35,Female,SR-543,3.6
+01-10-2023,Ahmedabad,CROMA-1504,Laptops,P-73181,Laptops 19,3,19764.72,0,Cash,46-60,Male,SR-482,3.8
+01-10-2023,Kolkata,CROMA-3314,Cameras,P-75040,Cameras 11,1,43934.28,15,Credit Card,18-25,Non-Binary,SR-259,4.1
+11-10-2023,Bangalore,CROMA-2210,Laptops,P-82838,Laptops 16,9,36065.06,5,EMI,46-60,Male,SR-621,4.9
+11-10-2023,Hyderabad,CROMA-7456,Mobile Phones,P-69820,Mobile Phones 12,4,43149.82,0,Credit Card,46-60,Female,SR-641,4
+24-10-2023,Ahmedabad,CROMA-2086,Mobile Phones,P-40137,Mobile Phones 3,3,49373.81,5,EMI,18-25,Male,SR-402,4.5
+11-10-2023,Ahmedabad,CROMA-1784,Laptops,P-30583,Laptops 16,4,20879.66,15,Cash,36-45,Non-Binary,SR-382,3.4
+17-10-2023,Kolkata,CROMA-4402,Home Appliances,P-34350,Home Appliances 17,6,24484.95,0,Credit Card,18-25,Non-Binary,SR-176,5
+07-10-2023,Kolkata,CROMA-2549,Mobile Phones,P-18683,Mobile Phones 19,5,47879.07,5,Credit Card,18-25,Male,SR-552,4.3
+05-10-2023,Delhi,CROMA-3702,Televisions,P-95808,Televisions 13,9,15679.34,15,EMI,26-35,Female,SR-906,4
+09-10-2023,Kolkata,CROMA-6655,Laptops,P-42534,Laptops 15,2,26120.58,0,UPI,18-25,Non-Binary,SR-972,4.8
+07-10-2023,Mumbai,CROMA-1989,Televisions,P-10402,Televisions 4,2,27330.03,5,Credit Card,26-35,Non-Binary,SR-714,4.3
+15-10-2023,Ahmedabad,CROMA-4437,Mobile Phones,P-37443,Mobile Phones 16,8,8640.22,0,UPI,26-35,Female,SR-610,4.8
+05-11-2023,Chennai,CROMA-9932,Televisions,P-24649,Televisions 4,1,41700.07,15,Credit Card,46-60,Male,SR-662,3.2
+20-11-2023,Hyderabad,CROMA-9912,Mobile Phones,P-46518,Mobile Phones 12,3,34184.22,0,Credit Card,36-45,Male,SR-401,4.7
+10-11-2023,Hyderabad,CROMA-5678,Laptops,P-28047,Laptops 7,7,45160.51,10,Debit Card,18-25,Female,SR-230,3.7
+16-11-2023,Mumbai,CROMA-5557,Cameras,P-45686,Cameras 14,7,48276.61,5,Credit Card,26-35,Female,SR-926,3.8
+26-11-2023,Mumbai,CROMA-1859,Laptops,P-12437,Laptops 6,10,41165.6,15,UPI,26-35,Non-Binary,SR-645,4.8
+19-11-2023,Hyderabad,CROMA-3754,Laptops,P-82400,Laptops 11,9,24294.24,10,EMI,46-60,Female,SR-244,4.3
+21-11-2023,Mumbai,CROMA-2494,Mobile Phones,P-61596,Mobile Phones 14,2,6180.11,5,Cash,36-45,Female,SR-615,3.3
+12-11-2023,Bangalore,CROMA-3004,Laptops,P-93294,Laptops 7,9,32232.32,10,Cash,18-25,Non-Binary,SR-230,3.3
+25-11-2023,Delhi,CROMA-4770,Home Appliances,P-10288,Home Appliances 15,9,18129.95,5,Credit Card,26-35,Non-Binary,SR-940,3.2
+25-11-2023,Chennai,CROMA-6757,Home Appliances,P-59586,Home Appliances 2,4,22969.1,15,Debit Card,36-45,Female,SR-995,3.3
+04-11-2023,Kolkata,CROMA-2586,Cameras,P-50416,Cameras 7,3,11496.42,0,UPI,36-45,Male,SR-975,3.9
+04-11-2023,Delhi,CROMA-7115,Televisions,P-67861,Televisions 4,5,25511.34,10,UPI,46-60,Female,SR-133,3.9
+19-11-2023,Bangalore,CROMA-1434,Televisions,P-83427,Televisions 4,7,22170.8,15,Credit Card,36-45,Female,SR-254,3.4
+10-11-2023,Chennai,CROMA-4826,Cameras,P-81066,Cameras 17,3,7307.86,10,Debit Card,36-45,Female,SR-305,3.8
+15-11-2023,Kolkata,CROMA-3343,Televisions,P-96692,Televisions 14,10,49891.93,5,Cash,36-45,Male,SR-227,4.7
+18-11-2023,Chennai,CROMA-1871,Home Appliances,P-58216,Home Appliances 20,5,33143.78,5,Cash,36-45,Female,SR-548,4.6
+10-11-2023,Pune,CROMA-2337,Home Appliances,P-80750,Home Appliances 19,4,33503.95,15,EMI,18-25,Female,SR-856,3.9
+22-11-2023,Hyderabad,CROMA-9481,Home Appliances,P-14631,Home Appliances 16,5,15849.47,15,Credit Card,18-25,Non-Binary,SR-952,4.5
+05-11-2023,Kolkata,CROMA-1394,Televisions,P-87723,Televisions 15,9,39651.02,10,Credit Card,18-25,Male,SR-754,3.4
+27-11-2023,Ahmedabad,CROMA-7418,Mobile Phones,P-86361,Mobile Phones 3,8,10825.88,15,Cash,36-45,Male,SR-421,4.1
+19-11-2023,Hyderabad,CROMA-4282,Cameras,P-50530,Cameras 1,2,43126.25,5,Debit Card,18-25,Male,SR-445,3.2
+04-11-2023,Kolkata,CROMA-4587,Cameras,P-60597,Cameras 11,5,8382.98,10,EMI,36-45,Non-Binary,SR-749,4.6
+20-11-2023,Mumbai,CROMA-9840,Mobile Phones,P-44409,Mobile Phones 4,3,30748.91,5,Credit Card,18-25,Non-Binary,SR-573,3.6
+01-11-2023,Mumbai,CROMA-2853,Home Appliances,P-78750,Home Appliances 19,6,7873.43,0,EMI,46-60,Male,SR-400,4.4
+02-11-2023,Bangalore,CROMA-3728,Cameras,P-17685,Cameras 15,6,43192.67,10,Credit Card,36-45,Female,SR-226,3.8
+14-11-2023,Mumbai,CROMA-2895,Laptops,P-54331,Laptops 13,1,23906.59,0,Debit Card,46-60,Female,SR-978,3.5
+28-11-2023,Bangalore,CROMA-1394,Home Appliances,P-51480,Home Appliances 2,1,38740.47,10,EMI,46-60,Male,SR-952,3.7
+05-11-2023,Kolkata,CROMA-7476,Televisions,P-21169,Televisions 4,1,21115.47,10,UPI,26-35,Non-Binary,SR-116,3.5
+15-11-2023,Mumbai,CROMA-4074,Laptops,P-44460,Laptops 3,6,48180.57,0,Debit Card,26-35,Non-Binary,SR-780,3.5
+14-11-2023,Mumbai,CROMA-5278,Home Appliances,P-38836,Home Appliances 16,3,6715.05,0,Cash,18-25,Female,SR-579,4.6
+05-11-2023,Delhi,CROMA-3701,Mobile Phones,P-44009,Mobile Phones 6,7,35403.95,15,Debit Card,46-60,Male,SR-488,4.5
+01-11-2023,Delhi,CROMA-7668,Laptops,P-71834,Laptops 6,8,44096.18,0,Debit Card,36-45,Male,SR-582,3.8
+02-11-2023,Ahmedabad,CROMA-6180,Televisions,P-61012,Televisions 19,8,32000.71,0,EMI,36-45,Male,SR-190,3.4
+07-11-2023,Delhi,CROMA-6984,Laptops,P-83489,Laptops 2,6,20284.14,10,Cash,46-60,Non-Binary,SR-268,3.6
+24-11-2023,Pune,CROMA-6224,Laptops,P-93519,Laptops 6,2,29611.57,10,Debit Card,18-25,Female,SR-772,3.3
+15-11-2023,Ahmedabad,CROMA-5147,Laptops,P-58257,Laptops 3,6,5520.94,5,UPI,26-35,Non-Binary,SR-983,4.1
+03-11-2023,Ahmedabad,CROMA-5892,Cameras,P-24404,Cameras 5,8,33282.06,0,UPI,26-35,Non-Binary,SR-820,4.1
+02-11-2023,Delhi,CROMA-7056,Mobile Phones,P-11509,Mobile Phones 2,3,20022.58,15,UPI,26-35,Female,SR-222,5
+21-11-2023,Bangalore,CROMA-4542,Televisions,P-20358,Televisions 13,5,34305.91,10,Debit Card,26-35,Non-Binary,SR-452,4
+07-11-2023,Hyderabad,CROMA-1360,Laptops,P-33681,Laptops 19,6,21914.89,10,EMI,18-25,Non-Binary,SR-904,5
+26-11-2023,Bangalore,CROMA-7223,Home Appliances,P-50710,Home Appliances 11,4,14234.51,10,UPI,18-25,Male,SR-208,3.7
+18-11-2023,Delhi,CROMA-4284,Mobile Phones,P-22808,Mobile Phones 3,3,19547.4,5,Credit Card,46-60,Female,SR-988,3.5
+17-11-2023,Mumbai,CROMA-1405,Laptops,P-43451,Laptops 16,1,35568.11,15,Cash,26-35,Male,SR-902,4.3
+11-11-2023,Pune,CROMA-8104,Laptops,P-90086,Laptops 9,10,14482.12,15,UPI,26-35,Non-Binary,SR-219,4.1
+09-11-2023,Bangalore,CROMA-1016,Mobile Phones,P-98837,Mobile Phones 13,4,21335.23,5,Debit Card,46-60,Female,SR-850,3.3
+15-11-2023,Kolkata,CROMA-6181,Home Appliances,P-61329,Home Appliances 10,8,7871.74,10,UPI,26-35,Non-Binary,SR-344,4.5
+26-11-2023,Ahmedabad,CROMA-7532,Televisions,P-26818,Televisions 15,4,13813.7,5,Cash,36-45,Non-Binary,SR-107,4.5
+24-11-2023,Chennai,CROMA-4848,Laptops,P-14513,Laptops 5,1,29938.18,5,Credit Card,36-45,Female,SR-374,4.3
+14-11-2023,Chennai,CROMA-5023,Televisions,P-59888,Televisions 4,2,15343.47,0,UPI,46-60,Non-Binary,SR-134,3.4
+02-11-2023,Hyderabad,CROMA-5837,Cameras,P-63390,Cameras 5,3,6268.47,0,Cash,46-60,Female,SR-242,3.1
+24-11-2023,Delhi,CROMA-5078,Laptops,P-41547,Laptops 18,1,5794.64,10,Debit Card,46-60,Female,SR-650,4.7
+16-11-2023,Hyderabad,CROMA-1583,Mobile Phones,P-98857,Mobile Phones 18,9,31260.1,5,Credit Card,26-35,Male,SR-362,4.2
+01-11-2023,Chennai,CROMA-4629,Cameras,P-40044,Cameras 4,10,7487.63,5,Credit Card,46-60,Male,SR-875,3.9
+17-11-2023,Delhi,CROMA-4287,Televisions,P-22503,Televisions 14,9,43557.37,15,Cash,18-25,Non-Binary,SR-191,3.7
+27-11-2023,Mumbai,CROMA-1763,Mobile Phones,P-90547,Mobile Phones 11,2,42377.57,15,Credit Card,26-35,Male,SR-747,3.7
+14-11-2023,Mumbai,CROMA-3274,Laptops,P-23846,Laptops 8,5,20109.54,5,EMI,18-25,Non-Binary,SR-483,4.9
+20-11-2023,Bangalore,CROMA-1613,Home Appliances,P-26483,Home Appliances 3,9,13781.29,10,EMI,46-60,Non-Binary,SR-942,3.8
+05-11-2023,Bangalore,CROMA-4865,Mobile Phones,P-14927,Mobile Phones 17,10,34569.9,10,EMI,36-45,Non-Binary,SR-683,4.5
+22-11-2023,Delhi,CROMA-6561,Mobile Phones,P-45353,Mobile Phones 1,6,32176.76,0,Credit Card,46-60,Male,SR-419,3.1
+19-11-2023,Ahmedabad,CROMA-2176,Home Appliances,P-94669,Home Appliances 12,10,47694.73,15,EMI,46-60,Non-Binary,SR-248,4.3
+06-11-2023,Pune,CROMA-3986,Home Appliances,P-32589,Home Appliances 3,3,8935.66,0,Credit Card,26-35,Female,SR-578,5
+20-11-2023,Ahmedabad,CROMA-3673,Cameras,P-20559,Cameras 13,3,27179.82,5,Credit Card,18-25,Male,SR-420,3.3
+05-11-2023,Hyderabad,CROMA-2669,Laptops,P-13065,Laptops 20,10,16437.48,0,EMI,18-25,Male,SR-805,3.4
+28-11-2023,Hyderabad,CROMA-9054,Home Appliances,P-46163,Home Appliances 7,9,27766.16,5,Credit Card,46-60,Non-Binary,SR-811,3.5
+15-11-2023,Pune,CROMA-8433,Home Appliances,P-69387,Home Appliances 15,4,36865.64,15,Credit Card,36-45,Male,SR-997,3.4
+16-11-2023,Bangalore,CROMA-7245,Mobile Phones,P-16127,Mobile Phones 1,7,28604.27,15,EMI,36-45,Non-Binary,SR-952,3.9
+17-11-2023,Bangalore,CROMA-3504,Cameras,P-65721,Cameras 6,2,9965.93,10,UPI,18-25,Female,SR-455,3.4
+23-11-2023,Bangalore,CROMA-8617,Televisions,P-82410,Televisions 16,1,22240.28,15,EMI,18-25,Female,SR-223,4.7
+02-11-2023,Mumbai,CROMA-5096,Mobile Phones,P-37230,Mobile Phones 16,6,9959.57,15,Cash,18-25,Female,SR-860,3.1
+17-11-2023,Pune,CROMA-1754,Cameras,P-56675,Cameras 3,7,15516.88,5,Debit Card,36-45,Non-Binary,SR-471,3.7
+24-11-2023,Pune,CROMA-1852,Home Appliances,P-56446,Home Appliances 11,8,11234.58,5,Credit Card,46-60,Non-Binary,SR-246,4
+21-11-2023,Chennai,CROMA-8657,Mobile Phones,P-66765,Mobile Phones 20,8,30152.67,0,EMI,46-60,Male,SR-698,4.1
+11-11-2023,Ahmedabad,CROMA-1348,Home Appliances,P-99157,Home Appliances 11,7,15641.25,15,Credit Card,46-60,Female,SR-254,4.8
+05-11-2023,Kolkata,CROMA-6237,Mobile Phones,P-26048,Mobile Phones 20,4,26198.91,10,Debit Card,46-60,Male,SR-838,4.3
+23-11-2023,Ahmedabad,CROMA-1073,Cameras,P-48614,Cameras 9,8,13590.61,15,EMI,36-45,Male,SR-495,4.9
+14-11-2023,Kolkata,CROMA-2061,Cameras,P-67117,Cameras 16,6,31156.4,10,EMI,46-60,Female,SR-780,4.1
+11-11-2023,Pune,CROMA-8130,Televisions,P-93455,Televisions 18,2,34013.51,10,UPI,26-35,Non-Binary,SR-170,4.4
+08-11-2023,Kolkata,CROMA-1085,Laptops,P-33731,Laptops 14,2,21450.69,10,EMI,18-25,Female,SR-758,3.2
+04-11-2023,Kolkata,CROMA-2299,Laptops,P-96751,Laptops 13,4,14863.29,15,UPI,26-35,Non-Binary,SR-199,3.3
+18-11-2023,Kolkata,CROMA-5828,Televisions,P-61800,Televisions 3,1,31681,0,Debit Card,36-45,Male,SR-367,4.4
+18-11-2023,Ahmedabad,CROMA-8975,Televisions,P-13393,Televisions 14,4,46560.31,15,Debit Card,46-60,Non-Binary,SR-467,3.7
+23-11-2023,Mumbai,CROMA-1460,Laptops,P-23491,Laptops 5,5,9024.65,5,UPI,18-25,Non-Binary,SR-148,3.8
+05-11-2023,Ahmedabad,CROMA-5326,Laptops,P-39778,Laptops 9,9,44202.21,5,Debit Card,18-25,Female,SR-256,5
+12-11-2023,Bangalore,CROMA-5654,Laptops,P-96835,Laptops 4,4,29013.72,5,EMI,18-25,Female,SR-723,3.1
+11-11-2023,Ahmedabad,CROMA-4594,Home Appliances,P-11535,Home Appliances 4,5,37682.77,10,Debit Card,36-45,Female,SR-764,3.1
+14-11-2023,Hyderabad,CROMA-9157,Televisions,P-11327,Televisions 17,6,7499.02,10,Credit Card,46-60,Female,SR-921,3.2
+12-11-2023,Chennai,CROMA-2110,Mobile Phones,P-96807,Mobile Phones 20,9,33703.75,10,UPI,46-60,Female,SR-682,4.5
+20-11-2023,Ahmedabad,CROMA-4942,Laptops,P-92585,Laptops 2,1,36097.22,0,Credit Card,26-35,Non-Binary,SR-161,3.7
+28-11-2023,Mumbai,CROMA-4613,Home Appliances,P-74987,Home Appliances 6,6,9674.72,15,UPI,36-45,Female,SR-247,3.2
+06-11-2023,Hyderabad,CROMA-1409,Home Appliances,P-53181,Home Appliances 7,6,42342.89,0,EMI,18-25,Non-Binary,SR-253,4.4
+14-11-2023,Kolkata,CROMA-5292,Televisions,P-20726,Televisions 10,1,28730.96,15,Cash,46-60,Non-Binary,SR-738,3.8
+12-11-2023,Hyderabad,CROMA-4845,Home Appliances,P-40157,Home Appliances 10,5,11624.83,15,Cash,26-35,Male,SR-878,3.6
+17-11-2023,Hyderabad,CROMA-8962,Televisions,P-42932,Televisions 13,5,41969.87,0,Debit Card,36-45,Female,SR-100,3.6
+12-11-2023,Bangalore,CROMA-1416,Televisions,P-35513,Televisions 8,4,35911.04,10,UPI,36-45,Non-Binary,SR-658,3.8
+20-11-2023,Ahmedabad,CROMA-6487,Home Appliances,P-87561,Home Appliances 5,10,37471.56,10,EMI,36-45,Non-Binary,SR-620,4.3
+14-11-2023,Kolkata,CROMA-6576,Televisions,P-47616,Televisions 14,8,31701.48,10,Cash,46-60,Female,SR-253,3
+25-11-2023,Pune,CROMA-7522,Cameras,P-49377,Cameras 20,6,43642.35,5,UPI,36-45,Non-Binary,SR-960,3.4
+23-11-2023,Ahmedabad,CROMA-9258,Televisions,P-18542,Televisions 19,4,48594.93,5,Credit Card,18-25,Male,SR-476,4.1
+20-11-2023,Ahmedabad,CROMA-9170,Mobile Phones,P-11015,Mobile Phones 5,6,13623.59,5,UPI,18-25,Non-Binary,SR-200,3.7
+08-11-2023,Mumbai,CROMA-7113,Mobile Phones,P-33644,Mobile Phones 18,7,10164.46,15,EMI,46-60,Female,SR-210,3.9
+03-12-2023,Hyderabad,CROMA-9812,Televisions,P-19290,Televisions 18,1,20051.5,10,Credit Card,26-35,Female,SR-908,4.7
+07-12-2023,Hyderabad,CROMA-1378,Home Appliances,P-33011,Home Appliances 18,4,39431.76,15,EMI,26-35,Male,SR-807,4.3
+09-12-2023,Ahmedabad,CROMA-3518,Laptops,P-88987,Laptops 20,6,31781.56,5,Cash,36-45,Male,SR-861,4.9
+14-12-2023,Hyderabad,CROMA-1722,Mobile Phones,P-69138,Mobile Phones 1,6,39143.46,15,UPI,18-25,Female,SR-556,4.1
+23-12-2023,Bangalore,CROMA-3775,Mobile Phones,P-89791,Mobile Phones 18,10,40480.06,15,Debit Card,46-60,Male,SR-784,4.2
+05-12-2023,Pune,CROMA-7606,Laptops,P-71942,Laptops 4,8,28191.77,10,Credit Card,36-45,Non-Binary,SR-382,4.2
+26-12-2023,Delhi,CROMA-1602,Home Appliances,P-14967,Home Appliances 13,8,20914.06,10,UPI,46-60,Non-Binary,SR-331,4.7
+12-12-2023,Ahmedabad,CROMA-9922,Cameras,P-43061,Cameras 4,10,22873.83,10,EMI,26-35,Female,SR-570,3.5
+07-12-2023,Bangalore,CROMA-3649,Laptops,P-12151,Laptops 7,6,12786.9,5,Debit Card,46-60,Non-Binary,SR-606,3.5
+03-12-2023,Hyderabad,CROMA-9497,Televisions,P-61914,Televisions 1,3,27983.4,5,Credit Card,46-60,Female,SR-450,3.8
+15-12-2023,Mumbai,CROMA-2625,Mobile Phones,P-78672,Mobile Phones 4,7,45664.02,0,Credit Card,36-45,Female,SR-566,3.6
+11-12-2023,Delhi,CROMA-2673,Cameras,P-51794,Cameras 19,6,28821.49,15,EMI,18-25,Non-Binary,SR-845,3.4
+09-12-2023,Bangalore,CROMA-8989,Televisions,P-76868,Televisions 5,3,44847.11,0,Debit Card,18-25,Female,SR-114,3.6
+09-12-2023,Chennai,CROMA-2144,Televisions,P-87176,Televisions 20,7,18702.41,10,Cash,26-35,Female,SR-155,3.6
+17-12-2023,Hyderabad,CROMA-2118,Cameras,P-95932,Cameras 9,5,27957.34,5,EMI,46-60,Non-Binary,SR-439,3.3
+12-12-2023,Chennai,CROMA-8862,Laptops,P-49576,Laptops 7,6,41684.05,5,Cash,18-25,Male,SR-721,4.1
+23-12-2023,Bangalore,CROMA-6491,Mobile Phones,P-80613,Mobile Phones 17,8,39845.5,5,Debit Card,46-60,Non-Binary,SR-316,4
+27-12-2023,Delhi,CROMA-6818,Televisions,P-86172,Televisions 3,7,35982.6,5,Debit Card,26-35,Male,SR-804,4.3
+18-12-2023,Bangalore,CROMA-4488,Televisions,P-17167,Televisions 5,1,47574.2,0,Credit Card,26-35,Female,SR-683,4.2
+27-12-2023,Hyderabad,CROMA-4505,Laptops,P-75601,Laptops 15,6,11260.24,10,UPI,46-60,Female,SR-165,4.4
+11-12-2023,Mumbai,CROMA-8135,Mobile Phones,P-93599,Mobile Phones 8,3,10998.05,10,Debit Card,46-60,Male,SR-900,4.3
+15-12-2023,Chennai,CROMA-9518,Televisions,P-75331,Televisions 1,10,19551.85,5,Debit Card,18-25,Male,SR-491,3.5
+10-12-2023,Delhi,CROMA-4872,Mobile Phones,P-72929,Mobile Phones 12,5,6775.42,15,Debit Card,18-25,Male,SR-164,4.5
+03-12-2023,Hyderabad,CROMA-2162,Mobile Phones,P-83660,Mobile Phones 10,10,32758.15,5,Cash,26-35,Female,SR-724,4.2
+18-12-2023,Bangalore,CROMA-4793,Mobile Phones,P-85296,Mobile Phones 11,9,31234.5,5,Cash,46-60,Non-Binary,SR-669,4
+24-12-2023,Delhi,CROMA-3118,Home Appliances,P-13100,Home Appliances 5,6,36517.31,0,Credit Card,26-35,Male,SR-973,3.6
+26-12-2023,Kolkata,CROMA-5356,Cameras,P-19640,Cameras 15,4,28287.83,15,Cash,18-25,Non-Binary,SR-356,3.2
+09-12-2023,Kolkata,CROMA-4975,Televisions,P-14175,Televisions 18,2,12291.82,15,Debit Card,18-25,Male,SR-429,3.4
+22-12-2023,Pune,CROMA-2687,Laptops,P-21993,Laptops 16,1,23813.28,0,Credit Card,26-35,Non-Binary,SR-819,3.9
+20-12-2023,Bangalore,CROMA-2769,Televisions,P-84562,Televisions 4,8,38397.33,10,EMI,46-60,Female,SR-268,4
+21-12-2023,Hyderabad,CROMA-6019,Home Appliances,P-11128,Home Appliances 7,10,41473.32,15,Debit Card,46-60,Female,SR-528,3.3
+25-12-2023,Mumbai,CROMA-7578,Televisions,P-31460,Televisions 5,2,28577.48,5,Debit Card,46-60,Male,SR-523,4.9
+16-12-2023,Bangalore,CROMA-8905,Cameras,P-87942,Cameras 2,6,20762.77,10,UPI,36-45,Male,SR-748,4.2
+17-12-2023,Kolkata,CROMA-3761,Televisions,P-64667,Televisions 6,7,8407.4,0,Credit Card,46-60,Female,SR-198,3.6
+27-12-2023,Ahmedabad,CROMA-1468,Home Appliances,P-45775,Home Appliances 10,9,36857.85,5,UPI,36-45,Female,SR-835,5
+27-12-2023,Pune,CROMA-7083,Mobile Phones,P-75669,Mobile Phones 1,4,34401.93,5,UPI,36-45,Male,SR-295,4.9
+27-12-2023,Kolkata,CROMA-7718,Mobile Phones,P-69840,Mobile Phones 4,4,13250.3,15,UPI,46-60,Male,SR-768,4.3
+26-12-2023,Hyderabad,CROMA-4205,Home Appliances,P-12729,Home Appliances 20,7,13706.35,5,UPI,46-60,Male,SR-390,4.7
+15-12-2023,Mumbai,CROMA-3765,Televisions,P-27021,Televisions 2,4,32033.67,10,Debit Card,18-25,Male,SR-601,3.1
+18-12-2023,Bangalore,CROMA-6156,Laptops,P-90322,Laptops 8,4,41232.68,0,UPI,18-25,Female,SR-325,3.6
+03-12-2023,Delhi,CROMA-7566,Cameras,P-44027,Cameras 12,4,45186.27,10,EMI,46-60,Non-Binary,SR-845,3.2
+25-12-2023,Mumbai,CROMA-9923,Televisions,P-27533,Televisions 19,1,20648.96,5,UPI,26-35,Female,SR-998,3.8
+27-12-2023,Pune,CROMA-8456,Home Appliances,P-67188,Home Appliances 10,9,46706.56,15,UPI,46-60,Female,SR-410,3.8
+17-12-2023,Mumbai,CROMA-1115,Mobile Phones,P-69764,Mobile Phones 20,7,45823.6,0,EMI,26-35,Female,SR-788,3.9
+11-12-2023,Mumbai,CROMA-3092,Cameras,P-42366,Cameras 12,8,46495.07,10,UPI,46-60,Male,SR-261,3.9
+25-12-2023,Delhi,CROMA-2201,Televisions,P-67403,Televisions 19,6,44891.44,10,EMI,18-25,Female,SR-487,4.1
+08-12-2023,Bangalore,CROMA-9146,Televisions,P-60139,Televisions 4,1,46753.55,0,UPI,46-60,Female,SR-384,3.5
+16-12-2023,Kolkata,CROMA-6342,Home Appliances,P-85123,Home Appliances 9,5,9701.74,5,Cash,46-60,Female,SR-541,3.7
+10-12-2023,Pune,CROMA-9095,Televisions,P-38359,Televisions 15,8,25518.94,10,UPI,46-60,Male,SR-209,3.4
+05-12-2023,Pune,CROMA-1458,Cameras,P-34851,Cameras 19,10,48048.59,5,EMI,46-60,Non-Binary,SR-287,3.8
+03-12-2023,Mumbai,CROMA-5791,Laptops,P-45683,Laptops 6,6,30079.19,0,Credit Card,46-60,Female,SR-206,4.8
+07-12-2023,Bangalore,CROMA-1302,Cameras,P-16309,Cameras 8,7,39409.21,10,EMI,18-25,Female,SR-125,4
+15-12-2023,Bangalore,CROMA-5248,Mobile Phones,P-37209,Mobile Phones 19,4,5373.09,10,EMI,36-45,Non-Binary,SR-560,4.6
+17-12-2023,Mumbai,CROMA-4660,Televisions,P-30641,Televisions 7,3,38075.4,10,EMI,36-45,Male,SR-464,3.4
+04-12-2023,Delhi,CROMA-1602,Televisions,P-67786,Televisions 15,8,43583.74,10,Debit Card,18-25,Male,SR-200,4.1
+19-12-2023,Hyderabad,CROMA-8310,Mobile Phones,P-48701,Mobile Phones 7,2,29907.07,15,Debit Card,18-25,Male,SR-263,4
+27-12-2023,Chennai,CROMA-4966,Televisions,P-24555,Televisions 18,1,24680.56,0,EMI,36-45,Female,SR-448,4.3
+16-12-2023,Delhi,CROMA-5220,Laptops,P-60373,Laptops 7,2,41478.28,0,UPI,26-35,Female,SR-756,3.3
+10-12-2023,Kolkata,CROMA-4941,Mobile Phones,P-77680,Mobile Phones 5,5,14197.55,0,Debit Card,26-35,Female,SR-505,3.3
+23-12-2023,Pune,CROMA-2888,Laptops,P-46162,Laptops 17,1,21986.98,15,Debit Card,18-25,Male,SR-333,3.2
+01-12-2023,Mumbai,CROMA-8238,Laptops,P-26088,Laptops 19,2,21188.32,0,EMI,36-45,Non-Binary,SR-601,4.1
+14-12-2023,Chennai,CROMA-8033,Televisions,P-76358,Televisions 16,5,17539.23,0,Credit Card,36-45,Female,SR-289,4
+08-12-2023,Kolkata,CROMA-9259,Laptops,P-52318,Laptops 18,5,39556.38,0,Credit Card,26-35,Female,SR-282,4.7
+07-12-2023,Chennai,CROMA-1155,Home Appliances,P-21306,Home Appliances 12,9,13021.54,0,Credit Card,36-45,Female,SR-372,3.9
+04-12-2023,Kolkata,CROMA-5398,Mobile Phones,P-71019,Mobile Phones 9,7,13714.16,15,UPI,18-25,Non-Binary,SR-396,4.2
+14-12-2023,Bangalore,CROMA-8432,Home Appliances,P-20869,Home Appliances 15,8,49347.27,15,Debit Card,26-35,Male,SR-653,4.5
+28-12-2023,Chennai,CROMA-1028,Mobile Phones,P-61249,Mobile Phones 10,2,46833.3,0,EMI,26-35,Non-Binary,SR-237,3.8
+19-12-2023,Hyderabad,CROMA-8848,Laptops,P-98201,Laptops 2,4,17440.51,15,EMI,36-45,Female,SR-291,3.2
+19-12-2023,Mumbai,CROMA-1484,Televisions,P-46335,Televisions 15,4,6410.2,0,EMI,46-60,Male,SR-982,3.9
+27-12-2023,Hyderabad,CROMA-7851,Laptops,P-61378,Laptops 4,4,8527.86,10,Debit Card,18-25,Male,SR-620,3.8
+28-12-2023,Pune,CROMA-4295,Mobile Phones,P-99167,Mobile Phones 13,5,12712.11,5,Debit Card,36-45,Non-Binary,SR-801,4.7
+15-12-2023,Pune,CROMA-3988,Home Appliances,P-38123,Home Appliances 1,6,40109.66,15,Cash,46-60,Non-Binary,SR-109,5
+13-12-2023,Bangalore,CROMA-7238,Home Appliances,P-51784,Home Appliances 11,9,49175.36,10,UPI,26-35,Female,SR-478,4.1
+27-12-2023,Delhi,CROMA-8971,Laptops,P-41093,Laptops 13,6,22045.22,0,Debit Card,26-35,Non-Binary,SR-185,4.3
+14-12-2023,Chennai,CROMA-3564,Laptops,P-86188,Laptops 6,2,39690.93,0,UPI,36-45,Female,SR-144,3
+13-12-2023,Bangalore,CROMA-6530,Mobile Phones,P-28402,Mobile Phones 18,5,40661.91,15,Cash,46-60,Female,SR-809,4.2
+14-12-2023,Mumbai,CROMA-1407,Mobile Phones,P-51518,Mobile Phones 20,9,39936.43,5,UPI,26-35,Female,SR-829,4.3
+15-12-2023,Mumbai,CROMA-5348,Televisions,P-79591,Televisions 13,6,21365.88,5,Credit Card,36-45,Non-Binary,SR-584,3.9
+06-12-2023,Pune,CROMA-2624,Home Appliances,P-10418,Home Appliances 13,6,21369,10,Debit Card,46-60,Female,SR-598,4.7
+16-12-2023,Ahmedabad,CROMA-1662,Televisions,P-57137,Televisions 4,7,12722.66,15,UPI,26-35,Non-Binary,SR-729,4.9
+14-12-2023,Delhi,CROMA-5128,Mobile Phones,P-36202,Mobile Phones 14,6,39020.86,0,Credit Card,26-35,Male,SR-415,3.7
+06-12-2023,Chennai,CROMA-3963,Cameras,P-97244,Cameras 14,6,9564.86,10,Debit Card,46-60,Female,SR-935,4
+16-12-2023,Delhi,CROMA-3249,Home Appliances,P-63238,Home Appliances 17,4,35683.72,0,Cash,26-35,Non-Binary,SR-477,3
+13-12-2023,Mumbai,CROMA-4350,Laptops,P-75725,Laptops 6,4,24765.82,10,Debit Card,46-60,Non-Binary,SR-108,4.2
+20-12-2023,Ahmedabad,CROMA-3580,Home Appliances,P-74081,Home Appliances 6,4,28243.64,5,EMI,36-45,Female,SR-248,4.5
+18-12-2023,Hyderabad,CROMA-7009,Televisions,P-69467,Televisions 11,2,44537.07,10,Credit Card,18-25,Female,SR-882,3.8
+11-12-2023,Pune,CROMA-1637,Televisions,P-19655,Televisions 5,5,22624.05,10,UPI,26-35,Non-Binary,SR-348,4.5
+15-12-2023,Kolkata,CROMA-8045,Laptops,P-25234,Laptops 12,5,46773.93,15,Credit Card,18-25,Female,SR-741,4.5
+08-12-2023,Pune,CROMA-5266,Televisions,P-56932,Televisions 3,2,23365.1,15,UPI,36-45,Female,SR-598,3.6
+13-12-2023,Chennai,CROMA-2815,Laptops,P-77041,Laptops 17,4,31419.97,10,Cash,18-25,Male,SR-516,4.3
+19-12-2023,Mumbai,CROMA-8353,Laptops,P-49150,Laptops 13,8,31790.55,15,Debit Card,46-60,Non-Binary,SR-585,3.5
+15-12-2023,Delhi,CROMA-4422,Cameras,P-24898,Cameras 6,7,36975.28,10,EMI,26-35,Female,SR-621,4.3
+06-12-2023,Ahmedabad,CROMA-7194,Televisions,P-38596,Televisions 20,8,20324.9,5,EMI,46-60,Non-Binary,SR-272,3.9
+02-12-2023,Chennai,CROMA-2313,Home Appliances,P-18916,Home Appliances 19,4,18209.42,0,EMI,36-45,Female,SR-663,4.3
+15-12-2023,Kolkata,CROMA-7110,Televisions,P-55123,Televisions 17,4,33335.81,10,Debit Card,36-45,Non-Binary,SR-189,4.5
+16-12-2023,Bangalore,CROMA-2443,Cameras,P-31864,Cameras 5,6,43474.81,10,UPI,18-25,Female,SR-221,3.8
+08-12-2023,Chennai,CROMA-4500,Home Appliances,P-57903,Home Appliances 11,4,15559.22,15,Cash,46-60,Female,SR-978,3.8
+05-12-2023,Pune,CROMA-8887,Laptops,P-46953,Laptops 18,2,36607.3,0,EMI,26-35,Female,SR-165,4.2
+08-12-2023,Pune,CROMA-8554,Home Appliances,P-74829,Home Appliances 8,6,33865.46,15,UPI,36-45,Non-Binary,SR-726,3.5
+02-12-2023,Ahmedabad,CROMA-1378,Laptops,P-84045,Laptops 16,8,10096.79,5,EMI,26-35,Male,SR-514,3.8
